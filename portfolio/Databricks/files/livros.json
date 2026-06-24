@@ -1,0 +1,8502 @@
+[
+  {
+    "id": 1,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "José de Alencar",
+    "genero": "Ficção Científica",
+    "preco": 32.2,
+    "quantidade": 5,
+    "data_venda": "2026-04-20",
+    "endereco": {
+      "rua": "Vereda Lunna Viana",
+      "numero": 4015,
+      "bairro": "Vila Independencia 1ª Seção",
+      "cidade": "Jesus da Praia",
+      "estado": "SE",
+      "cep": "48232499"
+    }
+  },
+  {
+    "id": 2,
+    "titulo": "Dom Casmurro",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Ficção Científica",
+    "preco": 66.27,
+    "quantidade": 5,
+    "data_venda": "2026-03-29",
+    "endereco": {
+      "rua": "Parque Maria Liz Abreu",
+      "numero": 5180,
+      "bairro": "Chácara Leonina",
+      "cidade": "Costa",
+      "estado": "ES",
+      "cep": "02839537"
+    }
+  },
+  {
+    "id": 3,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Jorge Amado",
+    "genero": "Romance",
+    "preco": 36.68,
+    "quantidade": 5,
+    "data_venda": "2026-02-25",
+    "endereco": {
+      "rua": "Aeroporto de Pereira",
+      "numero": 9368,
+      "bairro": "Maria Virgínia",
+      "cidade": "Cardoso de Costela",
+      "estado": "ES",
+      "cep": "95998-259"
+    }
+  },
+  {
+    "id": 4,
+    "titulo": "1984",
+    "autor": "José de Alencar",
+    "genero": "Ficção Científica",
+    "preco": 99.87,
+    "quantidade": 2,
+    "data_venda": "2026-06-08",
+    "endereco": {
+      "rua": "Viaduto Siqueira",
+      "numero": 7649,
+      "bairro": "Tupi B",
+      "cidade": "da Mota do Norte",
+      "estado": "GO",
+      "cep": "33531274"
+    }
+  },
+  {
+    "id": 5,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "José de Alencar",
+    "genero": "Drama",
+    "preco": 25.96,
+    "quantidade": 2,
+    "data_venda": "2026-06-12",
+    "endereco": {
+      "rua": "Morro de da Costa",
+      "numero": 9482,
+      "bairro": "Havaí",
+      "cidade": "Moreira",
+      "estado": "SC",
+      "cep": "85944-172"
+    }
+  },
+  {
+    "id": 6,
+    "titulo": "Dom Casmurro",
+    "autor": "J.K. Rowling",
+    "genero": "Drama",
+    "preco": 101.26,
+    "quantidade": 4,
+    "data_venda": "2026-06-07",
+    "endereco": {
+      "rua": "Alameda Cunha",
+      "numero": 3005,
+      "bairro": "Madre Gertrudes",
+      "cidade": "Lopes do Sul",
+      "estado": "AM",
+      "cep": "65588-746"
+    }
+  },
+  {
+    "id": 7,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "J.K. Rowling",
+    "genero": "Ficção Científica",
+    "preco": 87.86,
+    "quantidade": 2,
+    "data_venda": "2026-02-09",
+    "endereco": {
+      "rua": "Vale Thales da Mota",
+      "numero": 6598,
+      "bairro": "Marieta 2ª Seção",
+      "cidade": "Souza",
+      "estado": "BA",
+      "cep": "82119797"
+    }
+  },
+  {
+    "id": 8,
+    "titulo": "Capitães da Areia",
+    "autor": "Jorge Amado",
+    "genero": "Aventura",
+    "preco": 83.62,
+    "quantidade": 2,
+    "data_venda": "2026-04-14",
+    "endereco": {
+      "rua": "Colônia Sofia das Neves",
+      "numero": 3275,
+      "bairro": "Vila Calafate",
+      "cidade": "Nunes",
+      "estado": "PR",
+      "cep": "10465-141"
+    }
+  },
+  {
+    "id": 9,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "George Orwell",
+    "genero": "Drama",
+    "preco": 65.22,
+    "quantidade": 5,
+    "data_venda": "2026-06-04",
+    "endereco": {
+      "rua": "Avenida de Carvalho",
+      "numero": 3862,
+      "bairro": "Cônego Pinheiro 2ª Seção",
+      "cidade": "Moura",
+      "estado": "AL",
+      "cep": "74015-652"
+    }
+  },
+  {
+    "id": 10,
+    "titulo": "1984",
+    "autor": "J.K. Rowling",
+    "genero": "Drama",
+    "preco": 31.37,
+    "quantidade": 3,
+    "data_venda": "2026-05-24",
+    "endereco": {
+      "rua": "Vila Costa",
+      "numero": 8530,
+      "bairro": "Vila Sumaré",
+      "cidade": "Azevedo",
+      "estado": "PE",
+      "cep": "41026-788"
+    }
+  },
+  {
+    "id": 11,
+    "titulo": "1984",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Ficção Científica",
+    "preco": 117.24,
+    "quantidade": 2,
+    "data_venda": "2026-04-18",
+    "endereco": {
+      "rua": "Loteamento Emanuel Brito",
+      "numero": 9504,
+      "bairro": "Caiçara - Adelaide",
+      "cidade": "Pinto",
+      "estado": "AP",
+      "cep": "48997630"
+    }
+  },
+  {
+    "id": 12,
+    "titulo": "O Hobbit",
+    "autor": "Jorge Amado",
+    "genero": "Aventura",
+    "preco": 74.18,
+    "quantidade": 4,
+    "data_venda": "2026-01-03",
+    "endereco": {
+      "rua": "Lagoa de Azevedo",
+      "numero": 7457,
+      "bairro": "Paulo Vi",
+      "cidade": "Martins",
+      "estado": "RR",
+      "cep": "62328-554"
+    }
+  },
+  {
+    "id": 13,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "José de Alencar",
+    "genero": "Drama",
+    "preco": 109.67,
+    "quantidade": 2,
+    "data_venda": "2026-05-31",
+    "endereco": {
+      "rua": "Avenida Maria Julia Rocha",
+      "numero": 1678,
+      "bairro": "São José",
+      "cidade": "da Cunha Grande",
+      "estado": "RS",
+      "cep": "76211-572"
+    }
+  },
+  {
+    "id": 14,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.K. Rowling",
+    "genero": "Fantasia",
+    "preco": 107.72,
+    "quantidade": 5,
+    "data_venda": "2026-05-02",
+    "endereco": {
+      "rua": "Conjunto Gabriel Vargas",
+      "numero": 8421,
+      "bairro": "Andiroba",
+      "cidade": "Siqueira",
+      "estado": "PB",
+      "cep": "75291-829"
+    }
+  },
+  {
+    "id": 15,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Jorge Amado",
+    "genero": "Aventura",
+    "preco": 21.82,
+    "quantidade": 3,
+    "data_venda": "2026-04-22",
+    "endereco": {
+      "rua": "Lagoa de Martins",
+      "numero": 1693,
+      "bairro": "Capitão Eduardo",
+      "cidade": "Borges",
+      "estado": "RO",
+      "cep": "27064113"
+    }
+  },
+  {
+    "id": 16,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "Jorge Amado",
+    "genero": "Ficção Científica",
+    "preco": 27.09,
+    "quantidade": 5,
+    "data_venda": "2026-02-28",
+    "endereco": {
+      "rua": "Área Cauê Porto",
+      "numero": 6197,
+      "bairro": "Boa Viagem",
+      "cidade": "Barbosa",
+      "estado": "TO",
+      "cep": "23252-612"
+    }
+  },
+  {
+    "id": 17,
+    "titulo": "1984",
+    "autor": "J.K. Rowling",
+    "genero": "Romance",
+    "preco": 21.99,
+    "quantidade": 1,
+    "data_venda": "2026-05-29",
+    "endereco": {
+      "rua": "Viaduto Antony Pacheco",
+      "numero": 5469,
+      "bairro": "Outro",
+      "cidade": "Castro das Pedras",
+      "estado": "SC",
+      "cep": "86643-168"
+    }
+  },
+  {
+    "id": 18,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Jorge Amado",
+    "genero": "Fantasia",
+    "preco": 52.16,
+    "quantidade": 5,
+    "data_venda": "2026-02-06",
+    "endereco": {
+      "rua": "Rua de Garcia",
+      "numero": 253,
+      "bairro": "Vila Da Amizade",
+      "cidade": "Monteiro",
+      "estado": "GO",
+      "cep": "79165-155"
+    }
+  },
+  {
+    "id": 19,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "Jorge Amado",
+    "genero": "Ficção Científica",
+    "preco": 60.69,
+    "quantidade": 1,
+    "data_venda": "2026-04-14",
+    "endereco": {
+      "rua": "Jardim de Azevedo",
+      "numero": 3918,
+      "bairro": "Marilandia",
+      "cidade": "Machado",
+      "estado": "GO",
+      "cep": "98818-490"
+    }
+  },
+  {
+    "id": 20,
+    "titulo": "A Moreninha",
+    "autor": "Machado de Assis",
+    "genero": "Aventura",
+    "preco": 61.63,
+    "quantidade": 4,
+    "data_venda": "2026-04-09",
+    "endereco": {
+      "rua": "Favela Pedro Martins",
+      "numero": 7339,
+      "bairro": "Coração Eucarístico",
+      "cidade": "da Mata",
+      "estado": "MS",
+      "cep": "47124-174"
+    }
+  },
+  {
+    "id": 21,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "George Orwell",
+    "genero": "Romance",
+    "preco": 27.33,
+    "quantidade": 3,
+    "data_venda": "2026-03-09",
+    "endereco": {
+      "rua": "Chácara de Pimenta",
+      "numero": 214,
+      "bairro": "São Geraldo",
+      "cidade": "Pereira de Minas",
+      "estado": "PA",
+      "cep": "63801-561"
+    }
+  },
+  {
+    "id": 22,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Jorge Amado",
+    "genero": "Romance",
+    "preco": 74.26,
+    "quantidade": 2,
+    "data_venda": "2026-04-17",
+    "endereco": {
+      "rua": "Parque de Alves",
+      "numero": 2695,
+      "bairro": "Vila Califórnia",
+      "cidade": "Freitas da Praia",
+      "estado": "TO",
+      "cep": "39828092"
+    }
+  },
+  {
+    "id": 23,
+    "titulo": "1984",
+    "autor": "Guimarães Rosa",
+    "genero": "Ficção Científica",
+    "preco": 67.46,
+    "quantidade": 4,
+    "data_venda": "2026-02-09",
+    "endereco": {
+      "rua": "Estação Ana Luiza Silveira",
+      "numero": 3411,
+      "bairro": "Rio Branco",
+      "cidade": "Costela",
+      "estado": "PB",
+      "cep": "14357-341"
+    }
+  },
+  {
+    "id": 24,
+    "titulo": "Dom Casmurro",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Ficção Científica",
+    "preco": 22.67,
+    "quantidade": 1,
+    "data_venda": "2026-03-01",
+    "endereco": {
+      "rua": "Chácara Aragão",
+      "numero": 8733,
+      "bairro": "Boa Viagem",
+      "cidade": "Rezende",
+      "estado": "SC",
+      "cep": "39486805"
+    }
+  },
+  {
+    "id": 25,
+    "titulo": "1984",
+    "autor": "José de Alencar",
+    "genero": "Drama",
+    "preco": 93.53,
+    "quantidade": 5,
+    "data_venda": "2026-05-23",
+    "endereco": {
+      "rua": "Área Moraes",
+      "numero": 9913,
+      "bairro": "Vila Das Oliveiras",
+      "cidade": "Peixoto",
+      "estado": "PB",
+      "cep": "60283560"
+    }
+  },
+  {
+    "id": 26,
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "genero": "Aventura",
+    "preco": 40.3,
+    "quantidade": 5,
+    "data_venda": "2026-01-23",
+    "endereco": {
+      "rua": "Aeroporto Novais",
+      "numero": 844,
+      "bairro": "Beija Flor",
+      "cidade": "Pinto Paulista",
+      "estado": "MS",
+      "cep": "19297521"
+    }
+  },
+  {
+    "id": 27,
+    "titulo": "A Moreninha",
+    "autor": "George Orwell",
+    "genero": "Ficção Científica",
+    "preco": 77.95,
+    "quantidade": 5,
+    "data_venda": "2026-04-19",
+    "endereco": {
+      "rua": "Chácara de Moraes",
+      "numero": 1732,
+      "bairro": "Granja Werneck",
+      "cidade": "da Mata",
+      "estado": "CE",
+      "cep": "54830-107"
+    }
+  },
+  {
+    "id": 28,
+    "titulo": "A Moreninha",
+    "autor": "Jorge Amado",
+    "genero": "Ficção Científica",
+    "preco": 38.68,
+    "quantidade": 3,
+    "data_venda": "2026-04-29",
+    "endereco": {
+      "rua": "Estação Leonardo Fogaça",
+      "numero": 5117,
+      "bairro": "Conjunto Paulo Vi",
+      "cidade": "Nogueira dos Dourados",
+      "estado": "PE",
+      "cep": "63575-881"
+    }
+  },
+  {
+    "id": 29,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "Guimarães Rosa",
+    "genero": "Aventura",
+    "preco": 59.29,
+    "quantidade": 2,
+    "data_venda": "2026-04-13",
+    "endereco": {
+      "rua": "Viela de Andrade",
+      "numero": 1562,
+      "bairro": "Vila Sesc",
+      "cidade": "Camargo Paulista",
+      "estado": "SC",
+      "cep": "98889-588"
+    }
+  },
+  {
+    "id": 30,
+    "titulo": "1984",
+    "autor": "J.K. Rowling",
+    "genero": "Fantasia",
+    "preco": 48.68,
+    "quantidade": 5,
+    "data_venda": "2026-05-07",
+    "endereco": {
+      "rua": "Jardim de Brito",
+      "numero": 2888,
+      "bairro": "Caiçaras",
+      "cidade": "Sousa",
+      "estado": "RO",
+      "cep": "88790-365"
+    }
+  },
+  {
+    "id": 31,
+    "titulo": "1984",
+    "autor": "Jorge Amado",
+    "genero": "Romance",
+    "preco": 62.44,
+    "quantidade": 5,
+    "data_venda": "2026-03-18",
+    "endereco": {
+      "rua": "Aeroporto Macedo",
+      "numero": 7015,
+      "bairro": "Conjunto Novo Dom Bosco",
+      "cidade": "Andrade dos Dourados",
+      "estado": "MG",
+      "cep": "41528-092"
+    }
+  },
+  {
+    "id": 32,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "George Orwell",
+    "genero": "Fantasia",
+    "preco": 62.82,
+    "quantidade": 3,
+    "data_venda": "2026-03-13",
+    "endereco": {
+      "rua": "Rua Carvalho",
+      "numero": 7316,
+      "bairro": "Solimoes",
+      "cidade": "Andrade Alegre",
+      "estado": "PE",
+      "cep": "59981919"
+    }
+  },
+  {
+    "id": 33,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "J.K. Rowling",
+    "genero": "Aventura",
+    "preco": 77.54,
+    "quantidade": 4,
+    "data_venda": "2026-02-27",
+    "endereco": {
+      "rua": "Viaduto da Mota",
+      "numero": 8914,
+      "bairro": "Serra",
+      "cidade": "Pires Grande",
+      "estado": "MA",
+      "cep": "14419161"
+    }
+  },
+  {
+    "id": 34,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "Machado de Assis",
+    "genero": "Ficção Científica",
+    "preco": 82.5,
+    "quantidade": 5,
+    "data_venda": "2026-01-25",
+    "endereco": {
+      "rua": "Sítio Andrade",
+      "numero": 1750,
+      "bairro": "Calafate",
+      "cidade": "Pimenta",
+      "estado": "PR",
+      "cep": "80926195"
+    }
+  },
+  {
+    "id": 35,
+    "titulo": "Capitães da Areia",
+    "autor": "José de Alencar",
+    "genero": "Aventura",
+    "preco": 28.14,
+    "quantidade": 2,
+    "data_venda": "2026-02-24",
+    "endereco": {
+      "rua": "Quadra Daniela Fogaça",
+      "numero": 4570,
+      "bairro": "Boa Vista",
+      "cidade": "Caldeira",
+      "estado": "MS",
+      "cep": "44521471"
+    }
+  },
+  {
+    "id": 36,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Jorge Amado",
+    "genero": "Drama",
+    "preco": 39.57,
+    "quantidade": 4,
+    "data_venda": "2026-01-04",
+    "endereco": {
+      "rua": "Rua de Andrade",
+      "numero": 9257,
+      "bairro": "Etelvina Carneiro",
+      "cidade": "Nunes",
+      "estado": "PR",
+      "cep": "22632-475"
+    }
+  },
+  {
+    "id": 37,
+    "titulo": "Dom Casmurro",
+    "autor": "José de Alencar",
+    "genero": "Aventura",
+    "preco": 41.36,
+    "quantidade": 3,
+    "data_venda": "2026-04-22",
+    "endereco": {
+      "rua": "Via de Ferreira",
+      "numero": 4374,
+      "bairro": "Maria Goretti",
+      "cidade": "das Neves",
+      "estado": "PA",
+      "cep": "49366-663"
+    }
+  },
+  {
+    "id": 38,
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "genero": "Fantasia",
+    "preco": 43.7,
+    "quantidade": 4,
+    "data_venda": "2026-05-18",
+    "endereco": {
+      "rua": "Lago de Vasconcelos",
+      "numero": 4969,
+      "bairro": "Santa Efigênia",
+      "cidade": "Sampaio",
+      "estado": "RS",
+      "cep": "19784652"
+    }
+  },
+  {
+    "id": 39,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Guimarães Rosa",
+    "genero": "Romance",
+    "preco": 87.1,
+    "quantidade": 5,
+    "data_venda": "2026-06-13",
+    "endereco": {
+      "rua": "Loteamento Valentim Pimenta",
+      "numero": 7857,
+      "bairro": "Alto Das Antenas",
+      "cidade": "Ferreira Grande",
+      "estado": "MT",
+      "cep": "96014411"
+    }
+  },
+  {
+    "id": 40,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Jorge Amado",
+    "genero": "Drama",
+    "preco": 53.97,
+    "quantidade": 5,
+    "data_venda": "2026-04-01",
+    "endereco": {
+      "rua": "Setor Santos",
+      "numero": 7384,
+      "bairro": "Cdi Jatoba",
+      "cidade": "Dias de Goiás",
+      "estado": "RN",
+      "cep": "45347-331"
+    }
+  },
+  {
+    "id": 41,
+    "titulo": "Dom Casmurro",
+    "autor": "J.K. Rowling",
+    "genero": "Aventura",
+    "preco": 21.99,
+    "quantidade": 5,
+    "data_venda": "2026-01-22",
+    "endereco": {
+      "rua": "Distrito Elisa Aragão",
+      "numero": 8953,
+      "bairro": "Inconfidência",
+      "cidade": "Lopes do Norte",
+      "estado": "RJ",
+      "cep": "78600503"
+    }
+  },
+  {
+    "id": 42,
+    "titulo": "Capitães da Areia",
+    "autor": "José de Alencar",
+    "genero": "Ficção Científica",
+    "preco": 92.19,
+    "quantidade": 3,
+    "data_venda": "2026-04-12",
+    "endereco": {
+      "rua": "Vila Vieira",
+      "numero": 696,
+      "bairro": "Petropolis",
+      "cidade": "Araújo das Flores",
+      "estado": "PB",
+      "cep": "17650092"
+    }
+  },
+  {
+    "id": 43,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "José de Alencar",
+    "genero": "Aventura",
+    "preco": 21.13,
+    "quantidade": 4,
+    "data_venda": "2026-04-03",
+    "endereco": {
+      "rua": "Trecho Almeida",
+      "numero": 120,
+      "bairro": "Aparecida 7ª Seção",
+      "cidade": "da Mata",
+      "estado": "MA",
+      "cep": "70080726"
+    }
+  },
+  {
+    "id": 44,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Jorge Amado",
+    "genero": "Fantasia",
+    "preco": 27.32,
+    "quantidade": 2,
+    "data_venda": "2026-03-26",
+    "endereco": {
+      "rua": "Esplanada Duarte",
+      "numero": 7974,
+      "bairro": "Vila São Gabriel Jacui",
+      "cidade": "Campos do Galho",
+      "estado": "PA",
+      "cep": "28586-388"
+    }
+  },
+  {
+    "id": 45,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "J.K. Rowling",
+    "genero": "Romance",
+    "preco": 32.58,
+    "quantidade": 2,
+    "data_venda": "2026-03-28",
+    "endereco": {
+      "rua": "Feira de Gomes",
+      "numero": 1570,
+      "bairro": "Tres Marias",
+      "cidade": "Pastor de Macedo",
+      "estado": "PE",
+      "cep": "47501-232"
+    }
+  },
+  {
+    "id": 46,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Machado de Assis",
+    "genero": "Romance",
+    "preco": 74.13,
+    "quantidade": 4,
+    "data_venda": "2026-03-08",
+    "endereco": {
+      "rua": "Parque da Costa",
+      "numero": 7786,
+      "bairro": "São Tomaz",
+      "cidade": "Melo",
+      "estado": "PB",
+      "cep": "96655082"
+    }
+  },
+  {
+    "id": 47,
+    "titulo": "1984",
+    "autor": "José de Alencar",
+    "genero": "Drama",
+    "preco": 42.61,
+    "quantidade": 2,
+    "data_venda": "2026-06-06",
+    "endereco": {
+      "rua": "Loteamento Machado",
+      "numero": 4535,
+      "bairro": "Acaba Mundo",
+      "cidade": "Machado do Campo",
+      "estado": "PB",
+      "cep": "92644554"
+    }
+  },
+  {
+    "id": 48,
+    "titulo": "Dom Casmurro",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "preco": 22.34,
+    "quantidade": 3,
+    "data_venda": "2026-05-17",
+    "endereco": {
+      "rua": "Campo de Abreu",
+      "numero": 8481,
+      "bairro": "Vila Independencia 3ª Seção",
+      "cidade": "Novais",
+      "estado": "MG",
+      "cep": "23776846"
+    }
+  },
+  {
+    "id": 49,
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "genero": "Romance",
+    "preco": 97.17,
+    "quantidade": 5,
+    "data_venda": "2026-05-09",
+    "endereco": {
+      "rua": "Fazenda de Castro",
+      "numero": 8171,
+      "bairro": "Floramar",
+      "cidade": "da Mata da Serra",
+      "estado": "AP",
+      "cep": "28797-438"
+    }
+  },
+  {
+    "id": 50,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "José de Alencar",
+    "genero": "Fantasia",
+    "preco": 61.47,
+    "quantidade": 3,
+    "data_venda": "2026-05-16",
+    "endereco": {
+      "rua": "Via Kevin Moura",
+      "numero": 6002,
+      "bairro": "Sion",
+      "cidade": "Rios dos Dourados",
+      "estado": "CE",
+      "cep": "17090349"
+    }
+  },
+  {
+    "id": 51,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "Machado de Assis",
+    "genero": "Romance",
+    "preco": 96.65,
+    "quantidade": 2,
+    "data_venda": "2026-05-11",
+    "endereco": {
+      "rua": "Residencial de Monteiro",
+      "numero": 1617,
+      "bairro": "Ademar Maldonado",
+      "cidade": "Melo da Serra",
+      "estado": "SP",
+      "cep": "46342-541"
+    }
+  },
+  {
+    "id": 52,
+    "titulo": "A Moreninha",
+    "autor": "Machado de Assis",
+    "genero": "Ficção Científica",
+    "preco": 93.46,
+    "quantidade": 3,
+    "data_venda": "2026-01-16",
+    "endereco": {
+      "rua": "Estrada de Moreira",
+      "numero": 8901,
+      "bairro": "Ouro Preto",
+      "cidade": "Duarte",
+      "estado": "MT",
+      "cep": "15256495"
+    }
+  },
+  {
+    "id": 53,
+    "titulo": "A Moreninha",
+    "autor": "José de Alencar",
+    "genero": "Romance",
+    "preco": 31.61,
+    "quantidade": 5,
+    "data_venda": "2026-03-04",
+    "endereco": {
+      "rua": "Pátio de Garcia",
+      "numero": 1936,
+      "bairro": "Leticia",
+      "cidade": "Barros",
+      "estado": "SP",
+      "cep": "03640-572"
+    }
+  },
+  {
+    "id": 54,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "J.K. Rowling",
+    "genero": "Fantasia",
+    "preco": 76.25,
+    "quantidade": 2,
+    "data_venda": "2026-04-07",
+    "endereco": {
+      "rua": "Parque da Rocha",
+      "numero": 2677,
+      "bairro": "Chácara Leonina",
+      "cidade": "Vieira das Pedras",
+      "estado": "PI",
+      "cep": "13550745"
+    }
+  },
+  {
+    "id": 55,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "George Orwell",
+    "genero": "Romance",
+    "preco": 33.17,
+    "quantidade": 3,
+    "data_venda": "2026-05-22",
+    "endereco": {
+      "rua": "Vereda de Câmara",
+      "numero": 7665,
+      "bairro": "Solimoes",
+      "cidade": "Silveira",
+      "estado": "CE",
+      "cep": "59607371"
+    }
+  },
+  {
+    "id": 56,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Jorge Amado",
+    "genero": "Drama",
+    "preco": 33.2,
+    "quantidade": 4,
+    "data_venda": "2026-01-12",
+    "endereco": {
+      "rua": "Conjunto de Ribeiro",
+      "numero": 4026,
+      "bairro": "Esplanada",
+      "cidade": "Pacheco da Mata",
+      "estado": "RR",
+      "cep": "97964-348"
+    }
+  },
+  {
+    "id": 57,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Machado de Assis",
+    "genero": "Romance",
+    "preco": 60.2,
+    "quantidade": 5,
+    "data_venda": "2026-03-12",
+    "endereco": {
+      "rua": "Conjunto de da Costa",
+      "numero": 6540,
+      "bairro": "Vila Piratininga",
+      "cidade": "Fernandes",
+      "estado": "CE",
+      "cep": "21371734"
+    }
+  },
+  {
+    "id": 58,
+    "titulo": "A Moreninha",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Ficção Científica",
+    "preco": 70.98,
+    "quantidade": 5,
+    "data_venda": "2026-01-16",
+    "endereco": {
+      "rua": "Distrito de da Rosa",
+      "numero": 7719,
+      "bairro": "Suzana",
+      "cidade": "Rocha de Macedo",
+      "estado": "SC",
+      "cep": "29986-428"
+    }
+  },
+  {
+    "id": 59,
+    "titulo": "Dom Casmurro",
+    "autor": "George Orwell",
+    "genero": "Fantasia",
+    "preco": 77.24,
+    "quantidade": 1,
+    "data_venda": "2026-04-15",
+    "endereco": {
+      "rua": "Largo Cavalcante",
+      "numero": 2050,
+      "bairro": "Acaba Mundo",
+      "cidade": "Peixoto do Galho",
+      "estado": "SC",
+      "cep": "09994-328"
+    }
+  },
+  {
+    "id": 60,
+    "titulo": "A Moreninha",
+    "autor": "Guimarães Rosa",
+    "genero": "Aventura",
+    "preco": 112.02,
+    "quantidade": 4,
+    "data_venda": "2026-01-21",
+    "endereco": {
+      "rua": "Viela Nascimento",
+      "numero": 2993,
+      "bairro": "Vila Trinta E Um De Março",
+      "cidade": "Costa",
+      "estado": "DF",
+      "cep": "43063831"
+    }
+  },
+  {
+    "id": 61,
+    "titulo": "1984",
+    "autor": "Guimarães Rosa",
+    "genero": "Fantasia",
+    "preco": 77.38,
+    "quantidade": 2,
+    "data_venda": "2026-06-07",
+    "endereco": {
+      "rua": "Praça Emanuelly Ramos",
+      "numero": 8322,
+      "bairro": "Lagoinha Leblon",
+      "cidade": "Pimenta",
+      "estado": "RR",
+      "cep": "02971-367"
+    }
+  },
+  {
+    "id": 62,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Aventura",
+    "preco": 34.39,
+    "quantidade": 3,
+    "data_venda": "2026-03-19",
+    "endereco": {
+      "rua": "Esplanada Nunes",
+      "numero": 6955,
+      "bairro": "Vila Antena",
+      "cidade": "Moraes",
+      "estado": "AP",
+      "cep": "79271-902"
+    }
+  },
+  {
+    "id": 63,
+    "titulo": "O Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Romance",
+    "preco": 98.91,
+    "quantidade": 1,
+    "data_venda": "2026-06-15",
+    "endereco": {
+      "rua": "Residencial de Guerra",
+      "numero": 8277,
+      "bairro": "Vila Havaí",
+      "cidade": "Martins de Cavalcanti",
+      "estado": "SE",
+      "cep": "35943-175"
+    }
+  },
+  {
+    "id": 64,
+    "titulo": "1984",
+    "autor": "Jorge Amado",
+    "genero": "Drama",
+    "preco": 35.59,
+    "quantidade": 4,
+    "data_venda": "2026-02-15",
+    "endereco": {
+      "rua": "Parque Moraes",
+      "numero": 8304,
+      "bairro": "Minaslandia",
+      "cidade": "Duarte",
+      "estado": "AP",
+      "cep": "61360001"
+    }
+  },
+  {
+    "id": 65,
+    "titulo": "O Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Ficção Científica",
+    "preco": 111.6,
+    "quantidade": 3,
+    "data_venda": "2026-04-08",
+    "endereco": {
+      "rua": "Residencial Maria Fernanda Aparecida",
+      "numero": 6178,
+      "bairro": "Bonsucesso",
+      "cidade": "Correia de Castro",
+      "estado": "BA",
+      "cep": "80298208"
+    }
+  },
+  {
+    "id": 66,
+    "titulo": "1984",
+    "autor": "Jorge Amado",
+    "genero": "Aventura",
+    "preco": 110.32,
+    "quantidade": 3,
+    "data_venda": "2026-02-04",
+    "endereco": {
+      "rua": "Largo de Vasconcelos",
+      "numero": 3894,
+      "bairro": "Tupi B",
+      "cidade": "Jesus",
+      "estado": "ES",
+      "cep": "57892-435"
+    }
+  },
+  {
+    "id": 67,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "José de Alencar",
+    "genero": "Aventura",
+    "preco": 75.41,
+    "quantidade": 1,
+    "data_venda": "2026-02-23",
+    "endereco": {
+      "rua": "Largo Levi Macedo",
+      "numero": 7853,
+      "bairro": "Califórnia",
+      "cidade": "Martins do Galho",
+      "estado": "CE",
+      "cep": "00619-880"
+    }
+  },
+  {
+    "id": 68,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Guimarães Rosa",
+    "genero": "Drama",
+    "preco": 99.22,
+    "quantidade": 4,
+    "data_venda": "2026-04-05",
+    "endereco": {
+      "rua": "Jardim de Fogaça",
+      "numero": 9529,
+      "bairro": "Antonio Ribeiro De Abreu 1ª Seção",
+      "cidade": "Pires Paulista",
+      "estado": "BA",
+      "cep": "34260729"
+    }
+  },
+  {
+    "id": 69,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "José de Alencar",
+    "genero": "Romance",
+    "preco": 69.36,
+    "quantidade": 4,
+    "data_venda": "2026-02-08",
+    "endereco": {
+      "rua": "Via Lucas Gabriel Araújo",
+      "numero": 6428,
+      "bairro": "Cidade Jardim",
+      "cidade": "Barros",
+      "estado": "RJ",
+      "cep": "55247-228"
+    }
+  },
+  {
+    "id": 70,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Machado de Assis",
+    "genero": "Drama",
+    "preco": 81.97,
+    "quantidade": 2,
+    "data_venda": "2026-05-29",
+    "endereco": {
+      "rua": "Recanto Maria Laura Azevedo",
+      "numero": 4731,
+      "bairro": "Vila Nova Cachoeirinha 1ª Seção",
+      "cidade": "Azevedo",
+      "estado": "MA",
+      "cep": "40495-156"
+    }
+  },
+  {
+    "id": 71,
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "genero": "Romance",
+    "preco": 108.01,
+    "quantidade": 1,
+    "data_venda": "2026-03-04",
+    "endereco": {
+      "rua": "Aeroporto Silva",
+      "numero": 9544,
+      "bairro": "Vila Betânia",
+      "cidade": "Macedo de Pereira",
+      "estado": "PI",
+      "cep": "17629685"
+    }
+  },
+  {
+    "id": 72,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Aventura",
+    "preco": 82.13,
+    "quantidade": 5,
+    "data_venda": "2026-06-02",
+    "endereco": {
+      "rua": "Recanto Melina Silva",
+      "numero": 47,
+      "bairro": "Céu Azul",
+      "cidade": "da Mota da Prata",
+      "estado": "RN",
+      "cep": "37208758"
+    }
+  },
+  {
+    "id": 73,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "Jorge Amado",
+    "genero": "Fantasia",
+    "preco": 73.28,
+    "quantidade": 4,
+    "data_venda": "2026-02-19",
+    "endereco": {
+      "rua": "Rua de Nascimento",
+      "numero": 6838,
+      "bairro": "Vera Cruz",
+      "cidade": "Sales",
+      "estado": "ES",
+      "cep": "96566-013"
+    }
+  },
+  {
+    "id": 74,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Jorge Amado",
+    "genero": "Romance",
+    "preco": 66.65,
+    "quantidade": 4,
+    "data_venda": "2026-02-09",
+    "endereco": {
+      "rua": "Rodovia de Mendes",
+      "numero": 7154,
+      "bairro": "Vila Antena",
+      "cidade": "Montenegro de Cunha",
+      "estado": "PR",
+      "cep": "13157-576"
+    }
+  },
+  {
+    "id": 75,
+    "titulo": "A Moreninha",
+    "autor": "Guimarães Rosa",
+    "genero": "Drama",
+    "preco": 29.26,
+    "quantidade": 2,
+    "data_venda": "2026-05-25",
+    "endereco": {
+      "rua": "Passarela João Guilherme Mendes",
+      "numero": 8948,
+      "bairro": "Palmeiras",
+      "cidade": "Fernandes",
+      "estado": "SP",
+      "cep": "64874-037"
+    }
+  },
+  {
+    "id": 76,
+    "titulo": "Capitães da Areia",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Drama",
+    "preco": 45.42,
+    "quantidade": 3,
+    "data_venda": "2026-02-17",
+    "endereco": {
+      "rua": "Conjunto de Souza",
+      "numero": 6979,
+      "bairro": "Copacabana",
+      "cidade": "Rezende da Mata",
+      "estado": "MA",
+      "cep": "36854492"
+    }
+  },
+  {
+    "id": 77,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "J.K. Rowling",
+    "genero": "Romance",
+    "preco": 100.32,
+    "quantidade": 1,
+    "data_venda": "2026-04-06",
+    "endereco": {
+      "rua": "Parque Lima",
+      "numero": 7530,
+      "bairro": "Barão Homem De Melo 3ª Seção",
+      "cidade": "Moraes de Dias",
+      "estado": "GO",
+      "cep": "01587-362"
+    }
+  },
+  {
+    "id": 78,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "J.K. Rowling",
+    "genero": "Romance",
+    "preco": 105.6,
+    "quantidade": 2,
+    "data_venda": "2026-06-16",
+    "endereco": {
+      "rua": "Vereda Gabriela Abreu",
+      "numero": 5099,
+      "bairro": "Nova Esperança",
+      "cidade": "Souza",
+      "estado": "BA",
+      "cep": "31777799"
+    }
+  },
+  {
+    "id": 79,
+    "titulo": "O Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Ficção Científica",
+    "preco": 91.91,
+    "quantidade": 5,
+    "data_venda": "2026-01-12",
+    "endereco": {
+      "rua": "Vale Maria Helena Jesus",
+      "numero": 4199,
+      "bairro": "Laranjeiras",
+      "cidade": "Nunes",
+      "estado": "RR",
+      "cep": "92347026"
+    }
+  },
+  {
+    "id": 80,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Jorge Amado",
+    "genero": "Fantasia",
+    "preco": 57.55,
+    "quantidade": 2,
+    "data_venda": "2026-04-03",
+    "endereco": {
+      "rua": "Pátio Francisco Novaes",
+      "numero": 6222,
+      "bairro": "Capitão Eduardo",
+      "cidade": "Teixeira",
+      "estado": "GO",
+      "cep": "96388139"
+    }
+  },
+  {
+    "id": 81,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Guimarães Rosa",
+    "genero": "Aventura",
+    "preco": 49.79,
+    "quantidade": 4,
+    "data_venda": "2026-04-24",
+    "endereco": {
+      "rua": "Avenida de Garcia",
+      "numero": 8825,
+      "bairro": "Cidade Jardim",
+      "cidade": "Abreu",
+      "estado": "BA",
+      "cep": "42831-335"
+    }
+  },
+  {
+    "id": 82,
+    "titulo": "1984",
+    "autor": "Guimarães Rosa",
+    "genero": "Aventura",
+    "preco": 108.83,
+    "quantidade": 3,
+    "data_venda": "2026-03-12",
+    "endereco": {
+      "rua": "Lago de Cunha",
+      "numero": 5139,
+      "bairro": "Santa Rita",
+      "cidade": "Teixeira",
+      "estado": "RJ",
+      "cep": "91975922"
+    }
+  },
+  {
+    "id": 83,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Machado de Assis",
+    "genero": "Aventura",
+    "preco": 40.25,
+    "quantidade": 5,
+    "data_venda": "2026-04-08",
+    "endereco": {
+      "rua": "Campo de Melo",
+      "numero": 7044,
+      "bairro": "Horto Florestal",
+      "cidade": "Correia",
+      "estado": "AM",
+      "cep": "33038-441"
+    }
+  },
+  {
+    "id": 84,
+    "titulo": "A Moreninha",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Drama",
+    "preco": 62.33,
+    "quantidade": 1,
+    "data_venda": "2026-01-05",
+    "endereco": {
+      "rua": "Estrada Cavalcanti",
+      "numero": 2984,
+      "bairro": "Senhor Dos Passos",
+      "cidade": "da Cruz de Gonçalves",
+      "estado": "GO",
+      "cep": "80870020"
+    }
+  },
+  {
+    "id": 85,
+    "titulo": "Dom Casmurro",
+    "autor": "Guimarães Rosa",
+    "genero": "Romance",
+    "preco": 37.3,
+    "quantidade": 5,
+    "data_venda": "2026-06-12",
+    "endereco": {
+      "rua": "Ladeira de Mendes",
+      "numero": 1642,
+      "bairro": "Vila Jardim Montanhes",
+      "cidade": "Cardoso das Pedras",
+      "estado": "ES",
+      "cep": "01723667"
+    }
+  },
+  {
+    "id": 86,
+    "titulo": "Dom Casmurro",
+    "autor": "Jorge Amado",
+    "genero": "Fantasia",
+    "preco": 40.81,
+    "quantidade": 3,
+    "data_venda": "2026-01-13",
+    "endereco": {
+      "rua": "Sítio Cunha",
+      "numero": 490,
+      "bairro": "Vila Paquetá",
+      "cidade": "Siqueira",
+      "estado": "PR",
+      "cep": "24287-638"
+    }
+  },
+  {
+    "id": 87,
+    "titulo": "Capitães da Areia",
+    "autor": "Jorge Amado",
+    "genero": "Drama",
+    "preco": 94.13,
+    "quantidade": 1,
+    "data_venda": "2026-04-14",
+    "endereco": {
+      "rua": "Pátio Alves",
+      "numero": 469,
+      "bairro": "Universo",
+      "cidade": "da Mota",
+      "estado": "AM",
+      "cep": "28755-340"
+    }
+  },
+  {
+    "id": 88,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Jorge Amado",
+    "genero": "Ficção Científica",
+    "preco": 74.34,
+    "quantidade": 5,
+    "data_venda": "2026-01-07",
+    "endereco": {
+      "rua": "Vale Lima",
+      "numero": 6428,
+      "bairro": "Caetano Furquim",
+      "cidade": "Fernandes",
+      "estado": "RN",
+      "cep": "05573-001"
+    }
+  },
+  {
+    "id": 89,
+    "titulo": "O Hobbit",
+    "autor": "Guimarães Rosa",
+    "genero": "Drama",
+    "preco": 86.11,
+    "quantidade": 3,
+    "data_venda": "2026-06-05",
+    "endereco": {
+      "rua": "Fazenda de Ferreira",
+      "numero": 5200,
+      "bairro": "Estoril",
+      "cidade": "Montenegro do Norte",
+      "estado": "PR",
+      "cep": "91729-181"
+    }
+  },
+  {
+    "id": 90,
+    "titulo": "Capitães da Areia",
+    "autor": "Guimarães Rosa",
+    "genero": "Fantasia",
+    "preco": 102.46,
+    "quantidade": 4,
+    "data_venda": "2026-05-16",
+    "endereco": {
+      "rua": "Sítio Oliveira",
+      "numero": 1173,
+      "bairro": "Providencia",
+      "cidade": "Albuquerque de Caldeira",
+      "estado": "AL",
+      "cep": "33247144"
+    }
+  },
+  {
+    "id": 91,
+    "titulo": "1984",
+    "autor": "Guimarães Rosa",
+    "genero": "Fantasia",
+    "preco": 114.08,
+    "quantidade": 2,
+    "data_venda": "2026-04-15",
+    "endereco": {
+      "rua": "Conjunto Yasmin Gonçalves",
+      "numero": 4671,
+      "bairro": "Savassi",
+      "cidade": "Nogueira",
+      "estado": "TO",
+      "cep": "93028-794"
+    }
+  },
+  {
+    "id": 92,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "George Orwell",
+    "genero": "Ficção Científica",
+    "preco": 38.04,
+    "quantidade": 2,
+    "data_venda": "2026-05-12",
+    "endereco": {
+      "rua": "Travessa Alice Abreu",
+      "numero": 6576,
+      "bairro": "Minas Brasil",
+      "cidade": "Machado",
+      "estado": "AM",
+      "cep": "98899-010"
+    }
+  },
+  {
+    "id": 93,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "Jorge Amado",
+    "genero": "Fantasia",
+    "preco": 98.94,
+    "quantidade": 1,
+    "data_venda": "2026-02-21",
+    "endereco": {
+      "rua": "Esplanada Nicolas Sousa",
+      "numero": 187,
+      "bairro": "Santa Sofia",
+      "cidade": "Vieira",
+      "estado": "RS",
+      "cep": "08371855"
+    }
+  },
+  {
+    "id": 94,
+    "titulo": "Dom Casmurro",
+    "autor": "Guimarães Rosa",
+    "genero": "Romance",
+    "preco": 71.25,
+    "quantidade": 5,
+    "data_venda": "2026-04-17",
+    "endereco": {
+      "rua": "Passarela Beatriz da Rosa",
+      "numero": 5809,
+      "bairro": "Vila Cemig",
+      "cidade": "Andrade",
+      "estado": "BA",
+      "cep": "27809824"
+    }
+  },
+  {
+    "id": 95,
+    "titulo": "A Moreninha",
+    "autor": "George Orwell",
+    "genero": "Drama",
+    "preco": 81.63,
+    "quantidade": 1,
+    "data_venda": "2026-04-21",
+    "endereco": {
+      "rua": "Distrito Fernandes",
+      "numero": 1243,
+      "bairro": "Camponesa 1ª Seção",
+      "cidade": "Nascimento",
+      "estado": "MA",
+      "cep": "77415149"
+    }
+  },
+  {
+    "id": 96,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Machado de Assis",
+    "genero": "Fantasia",
+    "preco": 20.01,
+    "quantidade": 1,
+    "data_venda": "2026-01-05",
+    "endereco": {
+      "rua": "Praça de Pires",
+      "numero": 7077,
+      "bairro": "Novo São Lucas",
+      "cidade": "Barbosa",
+      "estado": "MT",
+      "cep": "24171935"
+    }
+  },
+  {
+    "id": 97,
+    "titulo": "1984",
+    "autor": "Guimarães Rosa",
+    "genero": "Drama",
+    "preco": 119.89,
+    "quantidade": 3,
+    "data_venda": "2026-02-12",
+    "endereco": {
+      "rua": "Condomínio Luiz Henrique Souza",
+      "numero": 8184,
+      "bairro": "Vila Independencia 2ª Seção",
+      "cidade": "Santos",
+      "estado": "PE",
+      "cep": "46373-025"
+    }
+  },
+  {
+    "id": 98,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Guimarães Rosa",
+    "genero": "Drama",
+    "preco": 92.94,
+    "quantidade": 4,
+    "data_venda": "2026-01-04",
+    "endereco": {
+      "rua": "Avenida Isaque Caldeira",
+      "numero": 2654,
+      "bairro": "Acaiaca",
+      "cidade": "Porto",
+      "estado": "MA",
+      "cep": "98591011"
+    }
+  },
+  {
+    "id": 99,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "José de Alencar",
+    "genero": "Fantasia",
+    "preco": 89.28,
+    "quantidade": 3,
+    "data_venda": "2026-02-02",
+    "endereco": {
+      "rua": "Passarela de Caldeira",
+      "numero": 1636,
+      "bairro": "Vila Madre Gertrudes 1ª Seção",
+      "cidade": "Cassiano",
+      "estado": "PB",
+      "cep": "39286565"
+    }
+  },
+  {
+    "id": 100,
+    "titulo": "A Moreninha",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Drama",
+    "preco": 47.91,
+    "quantidade": 2,
+    "data_venda": "2026-05-27",
+    "endereco": {
+      "rua": "Travessa Camargo",
+      "numero": 7640,
+      "bairro": "Cabana Do Pai Tomás",
+      "cidade": "Azevedo",
+      "estado": "RN",
+      "cep": "13887800"
+    }
+  },
+  {
+    "id": 101,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Aventura",
+    "preco": 78.32,
+    "quantidade": 2,
+    "data_venda": "2026-02-25",
+    "endereco": {
+      "rua": "Área Rezende",
+      "numero": 3808,
+      "bairro": "Acaba Mundo",
+      "cidade": "Rios",
+      "estado": "MA",
+      "cep": "38321545"
+    }
+  },
+  {
+    "id": 102,
+    "titulo": "Dom Casmurro",
+    "autor": "José de Alencar",
+    "genero": "Romance",
+    "preco": 85.19,
+    "quantidade": 4,
+    "data_venda": "2026-06-17",
+    "endereco": {
+      "rua": "Favela Isaac Silveira",
+      "numero": 4531,
+      "bairro": "Vila Pilar",
+      "cidade": "Caldeira",
+      "estado": "PR",
+      "cep": "97032-882"
+    }
+  },
+  {
+    "id": 103,
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "genero": "Aventura",
+    "preco": 101.9,
+    "quantidade": 2,
+    "data_venda": "2026-06-07",
+    "endereco": {
+      "rua": "Vale Benício Peixoto",
+      "numero": 2687,
+      "bairro": "Nova Pampulha",
+      "cidade": "Borges",
+      "estado": "PR",
+      "cep": "96198393"
+    }
+  },
+  {
+    "id": 104,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "George Orwell",
+    "genero": "Romance",
+    "preco": 83.01,
+    "quantidade": 3,
+    "data_venda": "2026-06-02",
+    "endereco": {
+      "rua": "Viaduto Gomes",
+      "numero": 9419,
+      "bairro": "Marieta 3ª Seção",
+      "cidade": "Machado da Prata",
+      "estado": "PI",
+      "cep": "91342544"
+    }
+  },
+  {
+    "id": 105,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "José de Alencar",
+    "genero": "Drama",
+    "preco": 51.12,
+    "quantidade": 5,
+    "data_venda": "2026-06-14",
+    "endereco": {
+      "rua": "Conjunto Pedro Lucas Vasconcelos",
+      "numero": 6545,
+      "bairro": "São Lucas",
+      "cidade": "Pastor",
+      "estado": "PE",
+      "cep": "49463-803"
+    }
+  },
+  {
+    "id": 106,
+    "titulo": "Dom Casmurro",
+    "autor": "J.K. Rowling",
+    "genero": "Drama",
+    "preco": 31.16,
+    "quantidade": 2,
+    "data_venda": "2026-04-14",
+    "endereco": {
+      "rua": "Vila de Almeida",
+      "numero": 3408,
+      "bairro": "Cidade Jardim Taquaril",
+      "cidade": "da Costa",
+      "estado": "MT",
+      "cep": "84994-716"
+    }
+  },
+  {
+    "id": 107,
+    "titulo": "1984",
+    "autor": "Jorge Amado",
+    "genero": "Aventura",
+    "preco": 76.71,
+    "quantidade": 1,
+    "data_venda": "2026-05-15",
+    "endereco": {
+      "rua": "Rua João Pimenta",
+      "numero": 8492,
+      "bairro": "Frei Leopoldo",
+      "cidade": "Jesus",
+      "estado": "PR",
+      "cep": "26897-595"
+    }
+  },
+  {
+    "id": 108,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Guimarães Rosa",
+    "genero": "Aventura",
+    "preco": 33.24,
+    "quantidade": 5,
+    "data_venda": "2026-03-29",
+    "endereco": {
+      "rua": "Passarela de Andrade",
+      "numero": 6259,
+      "bairro": "Distrito Industrial Do Jatoba",
+      "cidade": "Nascimento",
+      "estado": "MA",
+      "cep": "37776-851"
+    }
+  },
+  {
+    "id": 109,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "J.K. Rowling",
+    "genero": "Romance",
+    "preco": 88.58,
+    "quantidade": 5,
+    "data_venda": "2026-06-22",
+    "endereco": {
+      "rua": "Chácara Mendonça",
+      "numero": 1068,
+      "bairro": "Delta",
+      "cidade": "Freitas Paulista",
+      "estado": "RR",
+      "cep": "56089220"
+    }
+  },
+  {
+    "id": 110,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Jorge Amado",
+    "genero": "Ficção Científica",
+    "preco": 99.0,
+    "quantidade": 1,
+    "data_venda": "2026-02-13",
+    "endereco": {
+      "rua": "Passarela de Sá",
+      "numero": 8263,
+      "bairro": "Fernão Dias",
+      "cidade": "Araújo",
+      "estado": "BA",
+      "cep": "00104-520"
+    }
+  },
+  {
+    "id": 111,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "Jorge Amado",
+    "genero": "Aventura",
+    "preco": 62.51,
+    "quantidade": 1,
+    "data_venda": "2026-01-16",
+    "endereco": {
+      "rua": "Distrito de Freitas",
+      "numero": 958,
+      "bairro": "Padre Eustáquio",
+      "cidade": "Casa Grande da Serra",
+      "estado": "GO",
+      "cep": "96625-805"
+    }
+  },
+  {
+    "id": 112,
+    "titulo": "A Moreninha",
+    "autor": "George Orwell",
+    "genero": "Aventura",
+    "preco": 23.59,
+    "quantidade": 4,
+    "data_venda": "2026-03-22",
+    "endereco": {
+      "rua": "Praça Davi Luiz Monteiro",
+      "numero": 9199,
+      "bairro": "Beija Flor",
+      "cidade": "Ramos",
+      "estado": "AC",
+      "cep": "89549-329"
+    }
+  },
+  {
+    "id": 113,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "George Orwell",
+    "genero": "Drama",
+    "preco": 72.92,
+    "quantidade": 4,
+    "data_venda": "2026-03-31",
+    "endereco": {
+      "rua": "Quadra de Ribeiro",
+      "numero": 8367,
+      "bairro": "Vila Ouro Minas",
+      "cidade": "Barros",
+      "estado": "RN",
+      "cep": "45435955"
+    }
+  },
+  {
+    "id": 114,
+    "titulo": "A Moreninha",
+    "autor": "Guimarães Rosa",
+    "genero": "Aventura",
+    "preco": 117.59,
+    "quantidade": 5,
+    "data_venda": "2026-04-05",
+    "endereco": {
+      "rua": "Feira Giovanna da Cunha",
+      "numero": 906,
+      "bairro": "Aarão Reis",
+      "cidade": "Moreira da Praia",
+      "estado": "MG",
+      "cep": "63978579"
+    }
+  },
+  {
+    "id": 115,
+    "titulo": "Dom Casmurro",
+    "autor": "Jorge Amado",
+    "genero": "Ficção Científica",
+    "preco": 84.9,
+    "quantidade": 4,
+    "data_venda": "2026-02-17",
+    "endereco": {
+      "rua": "Vila Pacheco",
+      "numero": 5224,
+      "bairro": "Planalto",
+      "cidade": "Pinto",
+      "estado": "SE",
+      "cep": "65105939"
+    }
+  },
+  {
+    "id": 116,
+    "titulo": "O Hobbit",
+    "autor": "Guimarães Rosa",
+    "genero": "Fantasia",
+    "preco": 24.16,
+    "quantidade": 2,
+    "data_venda": "2026-03-31",
+    "endereco": {
+      "rua": "Viaduto de Moreira",
+      "numero": 3810,
+      "bairro": "Jardim América",
+      "cidade": "Vieira",
+      "estado": "ES",
+      "cep": "22379256"
+    }
+  },
+  {
+    "id": 117,
+    "titulo": "O Hobbit",
+    "autor": "J.K. Rowling",
+    "genero": "Drama",
+    "preco": 44.77,
+    "quantidade": 4,
+    "data_venda": "2026-02-05",
+    "endereco": {
+      "rua": "Viela de Azevedo",
+      "numero": 2931,
+      "bairro": "Marilandia",
+      "cidade": "Casa Grande",
+      "estado": "SP",
+      "cep": "53756593"
+    }
+  },
+  {
+    "id": 118,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "George Orwell",
+    "genero": "Romance",
+    "preco": 22.7,
+    "quantidade": 1,
+    "data_venda": "2026-04-09",
+    "endereco": {
+      "rua": "Ladeira de da Mata",
+      "numero": 1725,
+      "bairro": "Boa Vista",
+      "cidade": "da Luz",
+      "estado": "PR",
+      "cep": "32361-388"
+    }
+  },
+  {
+    "id": 119,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Jorge Amado",
+    "genero": "Ficção Científica",
+    "preco": 62.98,
+    "quantidade": 2,
+    "data_venda": "2026-03-31",
+    "endereco": {
+      "rua": "Jardim de da Costa",
+      "numero": 5334,
+      "bairro": "Vila Boa Vista",
+      "cidade": "Cavalcante do Amparo",
+      "estado": "RO",
+      "cep": "87137-156"
+    }
+  },
+  {
+    "id": 120,
+    "titulo": "Dom Casmurro",
+    "autor": "J.K. Rowling",
+    "genero": "Fantasia",
+    "preco": 69.89,
+    "quantidade": 5,
+    "data_venda": "2026-01-12",
+    "endereco": {
+      "rua": "Chácara Lunna Rezende",
+      "numero": 3746,
+      "bairro": "Conjunto Jardim Filadélfia",
+      "cidade": "Almeida",
+      "estado": "AL",
+      "cep": "04007141"
+    }
+  },
+  {
+    "id": 121,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "Guimarães Rosa",
+    "genero": "Romance",
+    "preco": 39.63,
+    "quantidade": 3,
+    "data_venda": "2026-01-16",
+    "endereco": {
+      "rua": "Pátio Maria Julia da Mota",
+      "numero": 5317,
+      "bairro": "Alta Tensão 2ª Seção",
+      "cidade": "Fernandes do Sul",
+      "estado": "AP",
+      "cep": "19426535"
+    }
+  },
+  {
+    "id": 122,
+    "titulo": "Capitães da Areia",
+    "autor": "José de Alencar",
+    "genero": "Drama",
+    "preco": 39.82,
+    "quantidade": 3,
+    "data_venda": "2026-04-22",
+    "endereco": {
+      "rua": "Área Valentina da Luz",
+      "numero": 4852,
+      "bairro": "Camponesa 2ª Seção",
+      "cidade": "Melo",
+      "estado": "PR",
+      "cep": "87629-487"
+    }
+  },
+  {
+    "id": 123,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "George Orwell",
+    "genero": "Fantasia",
+    "preco": 117.58,
+    "quantidade": 3,
+    "data_venda": "2026-02-10",
+    "endereco": {
+      "rua": "Rodovia Melo",
+      "numero": 4344,
+      "bairro": "Vera Cruz",
+      "cidade": "Lopes Verde",
+      "estado": "AM",
+      "cep": "94111-705"
+    }
+  },
+  {
+    "id": 124,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.K. Rowling",
+    "genero": "Ficção Científica",
+    "preco": 64.41,
+    "quantidade": 4,
+    "data_venda": "2026-02-03",
+    "endereco": {
+      "rua": "Área Mendonça",
+      "numero": 7262,
+      "bairro": "Vila Havaí",
+      "cidade": "Pereira Verde",
+      "estado": "DF",
+      "cep": "77982691"
+    }
+  },
+  {
+    "id": 125,
+    "titulo": "Dom Casmurro",
+    "autor": "J.K. Rowling",
+    "genero": "Ficção Científica",
+    "preco": 102.58,
+    "quantidade": 3,
+    "data_venda": "2026-06-07",
+    "endereco": {
+      "rua": "Parque Sales",
+      "numero": 7030,
+      "bairro": "Granja Werneck",
+      "cidade": "Sá",
+      "estado": "MS",
+      "cep": "23093-309"
+    }
+  },
+  {
+    "id": 126,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Aventura",
+    "preco": 70.73,
+    "quantidade": 1,
+    "data_venda": "2026-03-01",
+    "endereco": {
+      "rua": "Esplanada de Farias",
+      "numero": 472,
+      "bairro": "Santa Rita",
+      "cidade": "Novais",
+      "estado": "PB",
+      "cep": "82343-707"
+    }
+  },
+  {
+    "id": 127,
+    "titulo": "1984",
+    "autor": "Guimarães Rosa",
+    "genero": "Ficção Científica",
+    "preco": 44.51,
+    "quantidade": 2,
+    "data_venda": "2026-03-27",
+    "endereco": {
+      "rua": "Vereda de Cassiano",
+      "numero": 6068,
+      "bairro": "Bernadete",
+      "cidade": "Melo",
+      "estado": "RO",
+      "cep": "78353443"
+    }
+  },
+  {
+    "id": 128,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "José de Alencar",
+    "genero": "Aventura",
+    "preco": 107.87,
+    "quantidade": 3,
+    "data_venda": "2026-06-13",
+    "endereco": {
+      "rua": "Passarela Manuella Macedo",
+      "numero": 3673,
+      "bairro": "Santo Antônio",
+      "cidade": "Leão do Campo",
+      "estado": "AM",
+      "cep": "68087278"
+    }
+  },
+  {
+    "id": 129,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Jorge Amado",
+    "genero": "Aventura",
+    "preco": 43.06,
+    "quantidade": 2,
+    "data_venda": "2026-04-28",
+    "endereco": {
+      "rua": "Trevo Pereira",
+      "numero": 3039,
+      "bairro": "Beira Linha",
+      "cidade": "das Neves",
+      "estado": "SP",
+      "cep": "66488767"
+    }
+  },
+  {
+    "id": 130,
+    "titulo": "Capitães da Areia",
+    "autor": "Machado de Assis",
+    "genero": "Drama",
+    "preco": 35.04,
+    "quantidade": 4,
+    "data_venda": "2026-04-17",
+    "endereco": {
+      "rua": "Trevo de Andrade",
+      "numero": 636,
+      "bairro": "Barroca",
+      "cidade": "Moraes de Castro",
+      "estado": "MA",
+      "cep": "44628807"
+    }
+  },
+  {
+    "id": 131,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "José de Alencar",
+    "genero": "Ficção Científica",
+    "preco": 32.02,
+    "quantidade": 2,
+    "data_venda": "2026-06-04",
+    "endereco": {
+      "rua": "Rodovia Costela",
+      "numero": 5482,
+      "bairro": "Saudade",
+      "cidade": "Sousa de Câmara",
+      "estado": "RN",
+      "cep": "80420162"
+    }
+  },
+  {
+    "id": 132,
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "genero": "Fantasia",
+    "preco": 108.97,
+    "quantidade": 3,
+    "data_venda": "2026-04-01",
+    "endereco": {
+      "rua": "Via Maria Julia Ribeiro",
+      "numero": 4081,
+      "bairro": "Corumbiara",
+      "cidade": "Fogaça do Campo",
+      "estado": "MS",
+      "cep": "42131-384"
+    }
+  },
+  {
+    "id": 133,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.K. Rowling",
+    "genero": "Fantasia",
+    "preco": 87.05,
+    "quantidade": 5,
+    "data_venda": "2026-02-10",
+    "endereco": {
+      "rua": "Núcleo Nathan Montenegro",
+      "numero": 9046,
+      "bairro": "Prado",
+      "cidade": "Teixeira Verde",
+      "estado": "PI",
+      "cep": "57567-774"
+    }
+  },
+  {
+    "id": 134,
+    "titulo": "Dom Casmurro",
+    "autor": "J.K. Rowling",
+    "genero": "Drama",
+    "preco": 118.2,
+    "quantidade": 4,
+    "data_venda": "2026-02-22",
+    "endereco": {
+      "rua": "Campo de Dias",
+      "numero": 1712,
+      "bairro": "Chácara Leonina",
+      "cidade": "Barros",
+      "estado": "AC",
+      "cep": "59062-472"
+    }
+  },
+  {
+    "id": 135,
+    "titulo": "Dom Casmurro",
+    "autor": "José de Alencar",
+    "genero": "Fantasia",
+    "preco": 84.47,
+    "quantidade": 4,
+    "data_venda": "2026-06-03",
+    "endereco": {
+      "rua": "Vila de Barros",
+      "numero": 1924,
+      "bairro": "Vila Vista Alegre",
+      "cidade": "Mendes do Norte",
+      "estado": "SC",
+      "cep": "21363-445"
+    }
+  },
+  {
+    "id": 136,
+    "titulo": "Capitães da Areia",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Drama",
+    "preco": 68.7,
+    "quantidade": 3,
+    "data_venda": "2026-01-15",
+    "endereco": {
+      "rua": "Vale Novais",
+      "numero": 7397,
+      "bairro": "Santa Cruz",
+      "cidade": "Moraes do Oeste",
+      "estado": "CE",
+      "cep": "61489-727"
+    }
+  },
+  {
+    "id": 137,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Drama",
+    "preco": 46.17,
+    "quantidade": 3,
+    "data_venda": "2026-03-17",
+    "endereco": {
+      "rua": "Aeroporto de Fonseca",
+      "numero": 4126,
+      "bairro": "Solar Do Barreiro",
+      "cidade": "Rocha do Sul",
+      "estado": "PR",
+      "cep": "92378359"
+    }
+  },
+  {
+    "id": 138,
+    "titulo": "1984",
+    "autor": "Jorge Amado",
+    "genero": "Romance",
+    "preco": 111.65,
+    "quantidade": 4,
+    "data_venda": "2026-03-25",
+    "endereco": {
+      "rua": "Sítio de Borges",
+      "numero": 3653,
+      "bairro": "Concórdia",
+      "cidade": "Rezende do Galho",
+      "estado": "CE",
+      "cep": "89346832"
+    }
+  },
+  {
+    "id": 139,
+    "titulo": "A Moreninha",
+    "autor": "George Orwell",
+    "genero": "Fantasia",
+    "preco": 52.88,
+    "quantidade": 5,
+    "data_venda": "2026-03-08",
+    "endereco": {
+      "rua": "Vereda de Souza",
+      "numero": 9833,
+      "bairro": "Pilar",
+      "cidade": "Marques",
+      "estado": "RN",
+      "cep": "26158141"
+    }
+  },
+  {
+    "id": 140,
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "genero": "Romance",
+    "preco": 34.82,
+    "quantidade": 3,
+    "data_venda": "2026-03-14",
+    "endereco": {
+      "rua": "Rua de Pimenta",
+      "numero": 8693,
+      "bairro": "Vila Maria",
+      "cidade": "Novaes",
+      "estado": "SE",
+      "cep": "04815-385"
+    }
+  },
+  {
+    "id": 141,
+    "titulo": "O Hobbit",
+    "autor": "Guimarães Rosa",
+    "genero": "Fantasia",
+    "preco": 110.68,
+    "quantidade": 4,
+    "data_venda": "2026-05-04",
+    "endereco": {
+      "rua": "Chácara de Gomes",
+      "numero": 2219,
+      "bairro": "Santo André",
+      "cidade": "Rocha",
+      "estado": "AL",
+      "cep": "97140-259"
+    }
+  },
+  {
+    "id": 142,
+    "titulo": "Capitães da Areia",
+    "autor": "George Orwell",
+    "genero": "Drama",
+    "preco": 60.61,
+    "quantidade": 2,
+    "data_venda": "2026-04-23",
+    "endereco": {
+      "rua": "Ladeira Machado",
+      "numero": 2638,
+      "bairro": "Vila Minaslandia",
+      "cidade": "Cunha",
+      "estado": "PE",
+      "cep": "61197-622"
+    }
+  },
+  {
+    "id": 143,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "George Orwell",
+    "genero": "Ficção Científica",
+    "preco": 99.96,
+    "quantidade": 4,
+    "data_venda": "2026-05-24",
+    "endereco": {
+      "rua": "Feira Lima",
+      "numero": 2832,
+      "bairro": "Parque São Pedro",
+      "cidade": "Costela",
+      "estado": "MA",
+      "cep": "09652-845"
+    }
+  },
+  {
+    "id": 144,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "Guimarães Rosa",
+    "genero": "Fantasia",
+    "preco": 64.82,
+    "quantidade": 5,
+    "data_venda": "2026-05-22",
+    "endereco": {
+      "rua": "Rodovia Correia",
+      "numero": 3318,
+      "bairro": "Santana Do Cafezal",
+      "cidade": "Vargas",
+      "estado": "RN",
+      "cep": "45077159"
+    }
+  },
+  {
+    "id": 145,
+    "titulo": "A Moreninha",
+    "autor": "Guimarães Rosa",
+    "genero": "Drama",
+    "preco": 85.06,
+    "quantidade": 5,
+    "data_venda": "2026-05-26",
+    "endereco": {
+      "rua": "Passarela de Silveira",
+      "numero": 3003,
+      "bairro": "São Vicente",
+      "cidade": "Pacheco",
+      "estado": "SP",
+      "cep": "04937-639"
+    }
+  },
+  {
+    "id": 146,
+    "titulo": "Dom Casmurro",
+    "autor": "George Orwell",
+    "genero": "Aventura",
+    "preco": 79.73,
+    "quantidade": 2,
+    "data_venda": "2026-06-05",
+    "endereco": {
+      "rua": "Trevo Camargo",
+      "numero": 565,
+      "bairro": "Baleia",
+      "cidade": "Moraes da Praia",
+      "estado": "BA",
+      "cep": "99712652"
+    }
+  },
+  {
+    "id": 147,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "George Orwell",
+    "genero": "Drama",
+    "preco": 51.41,
+    "quantidade": 5,
+    "data_venda": "2026-06-14",
+    "endereco": {
+      "rua": "Via de da Rosa",
+      "numero": 760,
+      "bairro": "Jaraguá",
+      "cidade": "Pires",
+      "estado": "ES",
+      "cep": "43507-658"
+    }
+  },
+  {
+    "id": 148,
+    "titulo": "Dom Casmurro",
+    "autor": "Guimarães Rosa",
+    "genero": "Aventura",
+    "preco": 29.95,
+    "quantidade": 5,
+    "data_venda": "2026-02-10",
+    "endereco": {
+      "rua": "Fazenda Pinto",
+      "numero": 4106,
+      "bairro": "Vila Bandeirantes",
+      "cidade": "Rodrigues do Sul",
+      "estado": "ES",
+      "cep": "67323398"
+    }
+  },
+  {
+    "id": 149,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "George Orwell",
+    "genero": "Fantasia",
+    "preco": 92.87,
+    "quantidade": 4,
+    "data_venda": "2026-02-11",
+    "endereco": {
+      "rua": "Vila Sousa",
+      "numero": 160,
+      "bairro": "Conjunto Celso Machado",
+      "cidade": "Barros de Minas",
+      "estado": "CE",
+      "cep": "04728829"
+    }
+  },
+  {
+    "id": 150,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "Guimarães Rosa",
+    "genero": "Aventura",
+    "preco": 41.91,
+    "quantidade": 5,
+    "data_venda": "2026-06-09",
+    "endereco": {
+      "rua": "Rua Vieira",
+      "numero": 2941,
+      "bairro": "Pilar",
+      "cidade": "Azevedo de Sales",
+      "estado": "MT",
+      "cep": "25031202"
+    }
+  },
+  {
+    "id": 151,
+    "titulo": "Dom Casmurro",
+    "autor": "George Orwell",
+    "genero": "Ficção Científica",
+    "preco": 108.48,
+    "quantidade": 4,
+    "data_venda": "2026-02-13",
+    "endereco": {
+      "rua": "Passarela de Nogueira",
+      "numero": 588,
+      "bairro": "João Paulo Ii",
+      "cidade": "Pereira",
+      "estado": "BA",
+      "cep": "15457-963"
+    }
+  },
+  {
+    "id": 152,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Guimarães Rosa",
+    "genero": "Ficção Científica",
+    "preco": 30.2,
+    "quantidade": 1,
+    "data_venda": "2026-02-17",
+    "endereco": {
+      "rua": "Trecho Peixoto",
+      "numero": 4144,
+      "bairro": "Maravilha",
+      "cidade": "Siqueira",
+      "estado": "ES",
+      "cep": "59922-676"
+    }
+  },
+  {
+    "id": 153,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Guimarães Rosa",
+    "genero": "Fantasia",
+    "preco": 38.53,
+    "quantidade": 5,
+    "data_venda": "2026-03-30",
+    "endereco": {
+      "rua": "Esplanada de Rios",
+      "numero": 1294,
+      "bairro": "Vila Nova Gameleira 3ª Seção",
+      "cidade": "da Costa",
+      "estado": "AM",
+      "cep": "21640062"
+    }
+  },
+  {
+    "id": 154,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "George Orwell",
+    "genero": "Fantasia",
+    "preco": 95.86,
+    "quantidade": 5,
+    "data_venda": "2026-03-25",
+    "endereco": {
+      "rua": "Chácara de Sousa",
+      "numero": 9352,
+      "bairro": "Confisco",
+      "cidade": "da Cruz",
+      "estado": "MG",
+      "cep": "06292-292"
+    }
+  },
+  {
+    "id": 155,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Machado de Assis",
+    "genero": "Drama",
+    "preco": 50.53,
+    "quantidade": 4,
+    "data_venda": "2026-06-08",
+    "endereco": {
+      "rua": "Distrito de Garcia",
+      "numero": 7571,
+      "bairro": "Cruzeiro",
+      "cidade": "da Cunha",
+      "estado": "RN",
+      "cep": "36650048"
+    }
+  },
+  {
+    "id": 156,
+    "titulo": "Dom Casmurro",
+    "autor": "George Orwell",
+    "genero": "Ficção Científica",
+    "preco": 103.65,
+    "quantidade": 3,
+    "data_venda": "2026-06-13",
+    "endereco": {
+      "rua": "Travessa Moreira",
+      "numero": 5506,
+      "bairro": "Minas Caixa",
+      "cidade": "Monteiro",
+      "estado": "MG",
+      "cep": "69730263"
+    }
+  },
+  {
+    "id": 157,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Drama",
+    "preco": 77.28,
+    "quantidade": 5,
+    "data_venda": "2026-06-22",
+    "endereco": {
+      "rua": "Estrada de Carvalho",
+      "numero": 392,
+      "bairro": "Bela Vitoria",
+      "cidade": "Cavalcante da Serra",
+      "estado": "MS",
+      "cep": "29235-628"
+    }
+  },
+  {
+    "id": 158,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "George Orwell",
+    "genero": "Aventura",
+    "preco": 41.29,
+    "quantidade": 4,
+    "data_venda": "2026-04-22",
+    "endereco": {
+      "rua": "Colônia Isabela da Cruz",
+      "numero": 4795,
+      "bairro": "Boa União 1ª Seção",
+      "cidade": "Almeida",
+      "estado": "AL",
+      "cep": "70142241"
+    }
+  },
+  {
+    "id": 159,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "Jorge Amado",
+    "genero": "Aventura",
+    "preco": 94.81,
+    "quantidade": 1,
+    "data_venda": "2026-04-18",
+    "endereco": {
+      "rua": "Travessa Cavalcante",
+      "numero": 4775,
+      "bairro": "Confisco",
+      "cidade": "Porto",
+      "estado": "CE",
+      "cep": "69841-504"
+    }
+  },
+  {
+    "id": 160,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Drama",
+    "preco": 74.1,
+    "quantidade": 5,
+    "data_venda": "2026-01-16",
+    "endereco": {
+      "rua": "Residencial Leonardo Gomes",
+      "numero": 2905,
+      "bairro": "Vila Jardim Leblon",
+      "cidade": "Vargas do Oeste",
+      "estado": "AL",
+      "cep": "04951448"
+    }
+  },
+  {
+    "id": 161,
+    "titulo": "O Hobbit",
+    "autor": "José de Alencar",
+    "genero": "Romance",
+    "preco": 27.75,
+    "quantidade": 4,
+    "data_venda": "2026-04-06",
+    "endereco": {
+      "rua": "Parque Sales",
+      "numero": 6460,
+      "bairro": "Barão Homem De Melo 3ª Seção",
+      "cidade": "Correia de Goiás",
+      "estado": "MS",
+      "cep": "52486-175"
+    }
+  },
+  {
+    "id": 162,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "José de Alencar",
+    "genero": "Aventura",
+    "preco": 33.52,
+    "quantidade": 2,
+    "data_venda": "2026-03-09",
+    "endereco": {
+      "rua": "Chácara Kaique Peixoto",
+      "numero": 7736,
+      "bairro": "São José",
+      "cidade": "Albuquerque",
+      "estado": "AP",
+      "cep": "58052-148"
+    }
+  },
+  {
+    "id": 163,
+    "titulo": "Dom Casmurro",
+    "autor": "Jorge Amado",
+    "genero": "Fantasia",
+    "preco": 31.2,
+    "quantidade": 5,
+    "data_venda": "2026-04-27",
+    "endereco": {
+      "rua": "Colônia Caio Oliveira",
+      "numero": 5241,
+      "bairro": "Vila Santa Monica 1ª Seção",
+      "cidade": "da Mota",
+      "estado": "DF",
+      "cep": "90190959"
+    }
+  },
+  {
+    "id": 164,
+    "titulo": "O Hobbit",
+    "autor": "Jorge Amado",
+    "genero": "Aventura",
+    "preco": 36.88,
+    "quantidade": 2,
+    "data_venda": "2026-05-20",
+    "endereco": {
+      "rua": "Estrada Pietro da Rosa",
+      "numero": 9248,
+      "bairro": "Jardim São José",
+      "cidade": "Aragão",
+      "estado": "AM",
+      "cep": "25229230"
+    }
+  },
+  {
+    "id": 165,
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "genero": "Drama",
+    "preco": 34.76,
+    "quantidade": 5,
+    "data_venda": "2026-01-20",
+    "endereco": {
+      "rua": "Vila de Rezende",
+      "numero": 7740,
+      "bairro": "Vila Nova Gameleira 3ª Seção",
+      "cidade": "Mendes do Oeste",
+      "estado": "PA",
+      "cep": "35517-741"
+    }
+  },
+  {
+    "id": 166,
+    "titulo": "Capitães da Areia",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Romance",
+    "preco": 36.4,
+    "quantidade": 3,
+    "data_venda": "2026-02-16",
+    "endereco": {
+      "rua": "Avenida Raquel Cunha",
+      "numero": 2479,
+      "bairro": "Vila Rica",
+      "cidade": "Cavalcanti",
+      "estado": "PR",
+      "cep": "04627-071"
+    }
+  },
+  {
+    "id": 167,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Machado de Assis",
+    "genero": "Ficção Científica",
+    "preco": 98.26,
+    "quantidade": 4,
+    "data_venda": "2026-01-05",
+    "endereco": {
+      "rua": "Avenida Benício Rocha",
+      "numero": 3003,
+      "bairro": "Prado",
+      "cidade": "Vasconcelos",
+      "estado": "RJ",
+      "cep": "16663-292"
+    }
+  },
+  {
+    "id": 168,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Machado de Assis",
+    "genero": "Fantasia",
+    "preco": 30.58,
+    "quantidade": 1,
+    "data_venda": "2026-02-04",
+    "endereco": {
+      "rua": "Largo Aragão",
+      "numero": 9254,
+      "bairro": "Serra Verde",
+      "cidade": "Câmara",
+      "estado": "SE",
+      "cep": "84231148"
+    }
+  },
+  {
+    "id": 169,
+    "titulo": "Dom Casmurro",
+    "autor": "Guimarães Rosa",
+    "genero": "Fantasia",
+    "preco": 49.38,
+    "quantidade": 4,
+    "data_venda": "2026-06-13",
+    "endereco": {
+      "rua": "Lagoa da Paz",
+      "numero": 7225,
+      "bairro": "Prado",
+      "cidade": "Jesus",
+      "estado": "BA",
+      "cep": "70342-255"
+    }
+  },
+  {
+    "id": 170,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "George Orwell",
+    "genero": "Fantasia",
+    "preco": 22.33,
+    "quantidade": 5,
+    "data_venda": "2026-06-05",
+    "endereco": {
+      "rua": "Esplanada Andrade",
+      "numero": 6040,
+      "bairro": "Vila Ipiranga",
+      "cidade": "Leão das Pedras",
+      "estado": "MG",
+      "cep": "85265871"
+    }
+  },
+  {
+    "id": 171,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "J.K. Rowling",
+    "genero": "Drama",
+    "preco": 64.57,
+    "quantidade": 1,
+    "data_venda": "2026-02-16",
+    "endereco": {
+      "rua": "Praia de Novaes",
+      "numero": 5634,
+      "bairro": "Vila Satélite",
+      "cidade": "Guerra",
+      "estado": "PB",
+      "cep": "99174923"
+    }
+  },
+  {
+    "id": 172,
+    "titulo": "A Moreninha",
+    "autor": "José de Alencar",
+    "genero": "Ficção Científica",
+    "preco": 96.23,
+    "quantidade": 2,
+    "data_venda": "2026-04-14",
+    "endereco": {
+      "rua": "Viela de Ramos",
+      "numero": 3295,
+      "bairro": "Vila São Paulo",
+      "cidade": "Gomes Paulista",
+      "estado": "DF",
+      "cep": "70816-461"
+    }
+  },
+  {
+    "id": 173,
+    "titulo": "Capitães da Areia",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "preco": 22.17,
+    "quantidade": 2,
+    "data_venda": "2026-03-16",
+    "endereco": {
+      "rua": "Rodovia Cunha",
+      "numero": 2650,
+      "bairro": "Conjunto Bonsucesso",
+      "cidade": "Ribeiro",
+      "estado": "AM",
+      "cep": "04243976"
+    }
+  },
+  {
+    "id": 174,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Guimarães Rosa",
+    "genero": "Romance",
+    "preco": 40.54,
+    "quantidade": 3,
+    "data_venda": "2026-04-08",
+    "endereco": {
+      "rua": "Vila Dias",
+      "numero": 1170,
+      "bairro": "Caiçara - Adelaide",
+      "cidade": "Santos do Galho",
+      "estado": "CE",
+      "cep": "82661398"
+    }
+  },
+  {
+    "id": 175,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Ficção Científica",
+    "preco": 117.68,
+    "quantidade": 2,
+    "data_venda": "2026-06-05",
+    "endereco": {
+      "rua": "Residencial Joana Machado",
+      "numero": 3767,
+      "bairro": "Mala E Cuia",
+      "cidade": "Novais",
+      "estado": "PR",
+      "cep": "72084622"
+    }
+  },
+  {
+    "id": 176,
+    "titulo": "Dom Casmurro",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Ficção Científica",
+    "preco": 48.99,
+    "quantidade": 1,
+    "data_venda": "2026-04-01",
+    "endereco": {
+      "rua": "Morro Matheus Teixeira",
+      "numero": 5626,
+      "bairro": "Vila Paquetá",
+      "cidade": "Almeida",
+      "estado": "AM",
+      "cep": "57108-104"
+    }
+  },
+  {
+    "id": 177,
+    "titulo": "A Moreninha",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Romance",
+    "preco": 42.19,
+    "quantidade": 4,
+    "data_venda": "2026-04-10",
+    "endereco": {
+      "rua": "Alameda de Pacheco",
+      "numero": 8124,
+      "bairro": "Vila Santa Monica 2ª Seção",
+      "cidade": "Nascimento dos Dourados",
+      "estado": "MT",
+      "cep": "67665-074"
+    }
+  },
+  {
+    "id": 178,
+    "titulo": "A Moreninha",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Drama",
+    "preco": 94.23,
+    "quantidade": 3,
+    "data_venda": "2026-04-15",
+    "endereco": {
+      "rua": "Vale de Sá",
+      "numero": 3752,
+      "bairro": "Vila Esplanada",
+      "cidade": "Novais",
+      "estado": "RO",
+      "cep": "85714834"
+    }
+  },
+  {
+    "id": 179,
+    "titulo": "1984",
+    "autor": "Machado de Assis",
+    "genero": "Aventura",
+    "preco": 108.83,
+    "quantidade": 5,
+    "data_venda": "2026-03-06",
+    "endereco": {
+      "rua": "Largo de Rezende",
+      "numero": 9284,
+      "bairro": "Maravilha",
+      "cidade": "da Cunha da Serra",
+      "estado": "MS",
+      "cep": "86028-525"
+    }
+  },
+  {
+    "id": 180,
+    "titulo": "A Moreninha",
+    "autor": "Guimarães Rosa",
+    "genero": "Drama",
+    "preco": 40.68,
+    "quantidade": 5,
+    "data_venda": "2026-05-11",
+    "endereco": {
+      "rua": "Vila Sampaio",
+      "numero": 5557,
+      "bairro": "Conjunto Capitão Eduardo",
+      "cidade": "Freitas",
+      "estado": "RR",
+      "cep": "64750309"
+    }
+  },
+  {
+    "id": 181,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Machado de Assis",
+    "genero": "Drama",
+    "preco": 48.07,
+    "quantidade": 2,
+    "data_venda": "2026-04-23",
+    "endereco": {
+      "rua": "Largo de Ribeiro",
+      "numero": 1987,
+      "bairro": "Nossa Senhora De Fátima",
+      "cidade": "Cavalcante",
+      "estado": "PB",
+      "cep": "91623750"
+    }
+  },
+  {
+    "id": 182,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Guimarães Rosa",
+    "genero": "Aventura",
+    "preco": 80.29,
+    "quantidade": 3,
+    "data_venda": "2026-02-09",
+    "endereco": {
+      "rua": "Estação Pires",
+      "numero": 2301,
+      "bairro": "Santa Maria",
+      "cidade": "da Conceição da Serra",
+      "estado": "BA",
+      "cep": "90859382"
+    }
+  },
+  {
+    "id": 183,
+    "titulo": "1984",
+    "autor": "José de Alencar",
+    "genero": "Drama",
+    "preco": 74.88,
+    "quantidade": 2,
+    "data_venda": "2026-03-26",
+    "endereco": {
+      "rua": "Área Maria Júlia Monteiro",
+      "numero": 3663,
+      "bairro": "Conjunto Floramar",
+      "cidade": "das Neves de Rios",
+      "estado": "PB",
+      "cep": "99316-291"
+    }
+  },
+  {
+    "id": 184,
+    "titulo": "Capitães da Areia",
+    "autor": "George Orwell",
+    "genero": "Drama",
+    "preco": 108.73,
+    "quantidade": 2,
+    "data_venda": "2026-06-12",
+    "endereco": {
+      "rua": "Vereda de Oliveira",
+      "numero": 5308,
+      "bairro": "Funcionários",
+      "cidade": "Camargo",
+      "estado": "RO",
+      "cep": "94984225"
+    }
+  },
+  {
+    "id": 185,
+    "titulo": "A Moreninha",
+    "autor": "José de Alencar",
+    "genero": "Romance",
+    "preco": 20.47,
+    "quantidade": 5,
+    "data_venda": "2026-02-02",
+    "endereco": {
+      "rua": "Estrada Gonçalves",
+      "numero": 9892,
+      "bairro": "São Lucas",
+      "cidade": "Moraes",
+      "estado": "RJ",
+      "cep": "06392-331"
+    }
+  },
+  {
+    "id": 186,
+    "titulo": "Dom Casmurro",
+    "autor": "J.K. Rowling",
+    "genero": "Aventura",
+    "preco": 46.57,
+    "quantidade": 5,
+    "data_venda": "2026-02-22",
+    "endereco": {
+      "rua": "Avenida de Monteiro",
+      "numero": 8490,
+      "bairro": "Sagrada Família",
+      "cidade": "Cardoso",
+      "estado": "PI",
+      "cep": "03344-784"
+    }
+  },
+  {
+    "id": 187,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Jorge Amado",
+    "genero": "Ficção Científica",
+    "preco": 81.24,
+    "quantidade": 1,
+    "data_venda": "2026-03-28",
+    "endereco": {
+      "rua": "Vila de Freitas",
+      "numero": 1748,
+      "bairro": "Cdi Jatoba",
+      "cidade": "Alves",
+      "estado": "MA",
+      "cep": "15943-336"
+    }
+  },
+  {
+    "id": 188,
+    "titulo": "A Moreninha",
+    "autor": "Machado de Assis",
+    "genero": "Fantasia",
+    "preco": 45.73,
+    "quantidade": 1,
+    "data_venda": "2026-04-23",
+    "endereco": {
+      "rua": "Rodovia Paulo Lima",
+      "numero": 678,
+      "bairro": "Senhor Dos Passos",
+      "cidade": "Moraes de Campos",
+      "estado": "TO",
+      "cep": "95275-684"
+    }
+  },
+  {
+    "id": 189,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "José de Alencar",
+    "genero": "Romance",
+    "preco": 93.32,
+    "quantidade": 4,
+    "data_venda": "2026-05-13",
+    "endereco": {
+      "rua": "Núcleo de Moreira",
+      "numero": 5943,
+      "bairro": "Jardim Atlântico",
+      "cidade": "Fernandes de Melo",
+      "estado": "PE",
+      "cep": "00666-071"
+    }
+  },
+  {
+    "id": 190,
+    "titulo": "Capitães da Areia",
+    "autor": "Jorge Amado",
+    "genero": "Ficção Científica",
+    "preco": 116.89,
+    "quantidade": 5,
+    "data_venda": "2026-02-16",
+    "endereco": {
+      "rua": "Colônia de Rocha",
+      "numero": 3544,
+      "bairro": "Tiradentes",
+      "cidade": "Moura",
+      "estado": "AP",
+      "cep": "48631-813"
+    }
+  },
+  {
+    "id": 191,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "Guimarães Rosa",
+    "genero": "Aventura",
+    "preco": 87.01,
+    "quantidade": 2,
+    "data_venda": "2026-04-12",
+    "endereco": {
+      "rua": "Avenida Sá",
+      "numero": 3692,
+      "bairro": "Vila Ipiranga",
+      "cidade": "Albuquerque",
+      "estado": "RO",
+      "cep": "27853403"
+    }
+  },
+  {
+    "id": 192,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Romance",
+    "preco": 22.47,
+    "quantidade": 4,
+    "data_venda": "2026-04-03",
+    "endereco": {
+      "rua": "Ladeira Rhavi Fernandes",
+      "numero": 6506,
+      "bairro": "Madri",
+      "cidade": "Costela das Flores",
+      "estado": "RN",
+      "cep": "62275141"
+    }
+  },
+  {
+    "id": 193,
+    "titulo": "Capitães da Areia",
+    "autor": "Machado de Assis",
+    "genero": "Ficção Científica",
+    "preco": 81.0,
+    "quantidade": 4,
+    "data_venda": "2026-04-09",
+    "endereco": {
+      "rua": "Distrito Francisco Freitas",
+      "numero": 7345,
+      "bairro": "Maria Helena",
+      "cidade": "Nogueira de da Cruz",
+      "estado": "BA",
+      "cep": "04296143"
+    }
+  },
+  {
+    "id": 194,
+    "titulo": "A Moreninha",
+    "autor": "Jorge Amado",
+    "genero": "Ficção Científica",
+    "preco": 82.19,
+    "quantidade": 5,
+    "data_venda": "2026-05-13",
+    "endereco": {
+      "rua": "Quadra Almeida",
+      "numero": 7786,
+      "bairro": "Vila Cemig",
+      "cidade": "Almeida das Flores",
+      "estado": "RN",
+      "cep": "11932565"
+    }
+  },
+  {
+    "id": 195,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "Jorge Amado",
+    "genero": "Fantasia",
+    "preco": 66.3,
+    "quantidade": 4,
+    "data_venda": "2026-01-23",
+    "endereco": {
+      "rua": "Via de Araújo",
+      "numero": 4023,
+      "bairro": "Estoril",
+      "cidade": "Vasconcelos",
+      "estado": "ES",
+      "cep": "98417395"
+    }
+  },
+  {
+    "id": 196,
+    "titulo": "Capitães da Areia",
+    "autor": "George Orwell",
+    "genero": "Aventura",
+    "preco": 86.61,
+    "quantidade": 2,
+    "data_venda": "2026-01-10",
+    "endereco": {
+      "rua": "Vila Albuquerque",
+      "numero": 7064,
+      "bairro": "Araguaia",
+      "cidade": "Andrade",
+      "estado": "RO",
+      "cep": "53013929"
+    }
+  },
+  {
+    "id": 197,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Jorge Amado",
+    "genero": "Aventura",
+    "preco": 55.56,
+    "quantidade": 2,
+    "data_venda": "2026-01-15",
+    "endereco": {
+      "rua": "Setor de Freitas",
+      "numero": 5961,
+      "bairro": "Maria Tereza",
+      "cidade": "da Costa",
+      "estado": "RR",
+      "cep": "97147-283"
+    }
+  },
+  {
+    "id": 198,
+    "titulo": "1984",
+    "autor": "J.K. Rowling",
+    "genero": "Ficção Científica",
+    "preco": 98.64,
+    "quantidade": 2,
+    "data_venda": "2026-03-03",
+    "endereco": {
+      "rua": "Lagoa Barros",
+      "numero": 7879,
+      "bairro": "Vila Minaslandia",
+      "cidade": "Borges da Praia",
+      "estado": "SC",
+      "cep": "21420-341"
+    }
+  },
+  {
+    "id": 199,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Guimarães Rosa",
+    "genero": "Ficção Científica",
+    "preco": 92.17,
+    "quantidade": 5,
+    "data_venda": "2026-04-10",
+    "endereco": {
+      "rua": "Praia Joaquim Melo",
+      "numero": 8375,
+      "bairro": "Santa Sofia",
+      "cidade": "da Cunha",
+      "estado": "CE",
+      "cep": "18937-330"
+    }
+  },
+  {
+    "id": 200,
+    "titulo": "O Hobbit",
+    "autor": "Jorge Amado",
+    "genero": "Aventura",
+    "preco": 71.43,
+    "quantidade": 2,
+    "data_venda": "2026-02-24",
+    "endereco": {
+      "rua": "Quadra Nogueira",
+      "numero": 4235,
+      "bairro": "Jardim Felicidade",
+      "cidade": "Moura",
+      "estado": "PA",
+      "cep": "18209747"
+    }
+  },
+  {
+    "id": 201,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Aventura",
+    "preco": 85.71,
+    "quantidade": 3,
+    "data_venda": "2026-06-22",
+    "endereco": {
+      "rua": "Rodovia de Souza",
+      "numero": 7260,
+      "bairro": "Alto Barroca",
+      "cidade": "Ribeiro",
+      "estado": "AM",
+      "cep": "00991935"
+    }
+  },
+  {
+    "id": 202,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Drama",
+    "preco": 29.88,
+    "quantidade": 2,
+    "data_venda": "2026-04-30",
+    "endereco": {
+      "rua": "Área de Ferreira",
+      "numero": 5875,
+      "bairro": "Vila Do Pombal",
+      "cidade": "Fogaça da Mata",
+      "estado": "BA",
+      "cep": "86266-245"
+    }
+  },
+  {
+    "id": 203,
+    "titulo": "A Moreninha",
+    "autor": "J.K. Rowling",
+    "genero": "Romance",
+    "preco": 63.71,
+    "quantidade": 4,
+    "data_venda": "2026-04-16",
+    "endereco": {
+      "rua": "Residencial de Brito",
+      "numero": 1246,
+      "bairro": "Vila Piratininga",
+      "cidade": "Sousa de Novais",
+      "estado": "MG",
+      "cep": "38050-577"
+    }
+  },
+  {
+    "id": 204,
+    "titulo": "Dom Casmurro",
+    "autor": "George Orwell",
+    "genero": "Ficção Científica",
+    "preco": 74.28,
+    "quantidade": 2,
+    "data_venda": "2026-05-23",
+    "endereco": {
+      "rua": "Núcleo Emanuel Azevedo",
+      "numero": 3326,
+      "bairro": "Lagoa",
+      "cidade": "Casa Grande",
+      "estado": "DF",
+      "cep": "29475-252"
+    }
+  },
+  {
+    "id": 205,
+    "titulo": "Dom Casmurro",
+    "autor": "Jorge Amado",
+    "genero": "Ficção Científica",
+    "preco": 96.03,
+    "quantidade": 1,
+    "data_venda": "2026-05-11",
+    "endereco": {
+      "rua": "Lago de da Rosa",
+      "numero": 5146,
+      "bairro": "Trevo",
+      "cidade": "Guerra dos Dourados",
+      "estado": "PB",
+      "cep": "10475-765"
+    }
+  },
+  {
+    "id": 206,
+    "titulo": "1984",
+    "autor": "J.K. Rowling",
+    "genero": "Romance",
+    "preco": 71.63,
+    "quantidade": 3,
+    "data_venda": "2026-05-02",
+    "endereco": {
+      "rua": "Loteamento Aragão",
+      "numero": 1285,
+      "bairro": "Vila Puc",
+      "cidade": "Garcia das Pedras",
+      "estado": "PA",
+      "cep": "38009537"
+    }
+  },
+  {
+    "id": 207,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "Machado de Assis",
+    "genero": "Romance",
+    "preco": 58.94,
+    "quantidade": 1,
+    "data_venda": "2026-03-09",
+    "endereco": {
+      "rua": "Vale Gael Pinto",
+      "numero": 2837,
+      "bairro": "Vila Da Luz",
+      "cidade": "Pinto",
+      "estado": "RJ",
+      "cep": "57467-769"
+    }
+  },
+  {
+    "id": 208,
+    "titulo": "1984",
+    "autor": "Guimarães Rosa",
+    "genero": "Fantasia",
+    "preco": 62.59,
+    "quantidade": 2,
+    "data_venda": "2026-05-28",
+    "endereco": {
+      "rua": "Avenida Ana Liz Nascimento",
+      "numero": 8229,
+      "bairro": "Atila De Paiva",
+      "cidade": "Silveira",
+      "estado": "AL",
+      "cep": "78257-115"
+    }
+  },
+  {
+    "id": 209,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Romance",
+    "preco": 35.65,
+    "quantidade": 5,
+    "data_venda": "2026-06-11",
+    "endereco": {
+      "rua": "Viela Ramos",
+      "numero": 6844,
+      "bairro": "Santa Isabel",
+      "cidade": "Mendonça",
+      "estado": "MT",
+      "cep": "73366-954"
+    }
+  },
+  {
+    "id": 210,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "José de Alencar",
+    "genero": "Romance",
+    "preco": 80.63,
+    "quantidade": 5,
+    "data_venda": "2026-02-26",
+    "endereco": {
+      "rua": "Praça de Silveira",
+      "numero": 5331,
+      "bairro": "Vila Jardim São José",
+      "cidade": "Cavalcante",
+      "estado": "RO",
+      "cep": "50117541"
+    }
+  },
+  {
+    "id": 211,
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "genero": "Aventura",
+    "preco": 74.63,
+    "quantidade": 3,
+    "data_venda": "2026-06-22",
+    "endereco": {
+      "rua": "Campo Henry Alves",
+      "numero": 1553,
+      "bairro": "São Marcos",
+      "cidade": "Lima do Sul",
+      "estado": "RN",
+      "cep": "10554-772"
+    }
+  },
+  {
+    "id": 212,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "J.K. Rowling",
+    "genero": "Romance",
+    "preco": 74.42,
+    "quantidade": 2,
+    "data_venda": "2026-03-09",
+    "endereco": {
+      "rua": "Condomínio de Lopes",
+      "numero": 2527,
+      "bairro": "Lagoinha Leblon",
+      "cidade": "Câmara",
+      "estado": "MA",
+      "cep": "41325-543"
+    }
+  },
+  {
+    "id": 213,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.K. Rowling",
+    "genero": "Drama",
+    "preco": 115.33,
+    "quantidade": 5,
+    "data_venda": "2026-03-20",
+    "endereco": {
+      "rua": "Estação Benjamin Cavalcanti",
+      "numero": 5861,
+      "bairro": "Alpes",
+      "cidade": "Abreu Alegre",
+      "estado": "RR",
+      "cep": "33841381"
+    }
+  },
+  {
+    "id": 214,
+    "titulo": "A Moreninha",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Drama",
+    "preco": 44.35,
+    "quantidade": 4,
+    "data_venda": "2026-04-28",
+    "endereco": {
+      "rua": "Trecho de Freitas",
+      "numero": 1597,
+      "bairro": "Lourdes",
+      "cidade": "Caldeira da Prata",
+      "estado": "RN",
+      "cep": "02949531"
+    }
+  },
+  {
+    "id": 215,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "Jorge Amado",
+    "genero": "Drama",
+    "preco": 60.8,
+    "quantidade": 5,
+    "data_venda": "2026-01-24",
+    "endereco": {
+      "rua": "Campo Barros",
+      "numero": 8245,
+      "bairro": "Miramar",
+      "cidade": "Fonseca",
+      "estado": "MT",
+      "cep": "46103-624"
+    }
+  },
+  {
+    "id": 216,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Drama",
+    "preco": 102.52,
+    "quantidade": 3,
+    "data_venda": "2026-03-28",
+    "endereco": {
+      "rua": "Recanto da Luz",
+      "numero": 3526,
+      "bairro": "Aparecida",
+      "cidade": "da Mota Grande",
+      "estado": "SE",
+      "cep": "93212302"
+    }
+  },
+  {
+    "id": 217,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "José de Alencar",
+    "genero": "Romance",
+    "preco": 38.45,
+    "quantidade": 2,
+    "data_venda": "2026-05-09",
+    "endereco": {
+      "rua": "Rodovia de Pereira",
+      "numero": 1036,
+      "bairro": "Jardim Guanabara",
+      "cidade": "Machado",
+      "estado": "RO",
+      "cep": "66784-848"
+    }
+  },
+  {
+    "id": 218,
+    "titulo": "Dom Casmurro",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Ficção Científica",
+    "preco": 83.22,
+    "quantidade": 2,
+    "data_venda": "2026-06-22",
+    "endereco": {
+      "rua": "Loteamento Ribeiro",
+      "numero": 7240,
+      "bairro": "Santa Rita De Cássia",
+      "cidade": "Marques de Aparecida",
+      "estado": "SP",
+      "cep": "77877541"
+    }
+  },
+  {
+    "id": 219,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "George Orwell",
+    "genero": "Aventura",
+    "preco": 49.08,
+    "quantidade": 1,
+    "data_venda": "2026-05-30",
+    "endereco": {
+      "rua": "Via da Luz",
+      "numero": 5735,
+      "bairro": "Floresta",
+      "cidade": "Peixoto do Sul",
+      "estado": "AP",
+      "cep": "81649702"
+    }
+  },
+  {
+    "id": 220,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "George Orwell",
+    "genero": "Romance",
+    "preco": 71.66,
+    "quantidade": 2,
+    "data_venda": "2026-03-25",
+    "endereco": {
+      "rua": "Viela de Sales",
+      "numero": 5702,
+      "bairro": "São Luiz",
+      "cidade": "Azevedo",
+      "estado": "AC",
+      "cep": "52780961"
+    }
+  },
+  {
+    "id": 221,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Jorge Amado",
+    "genero": "Drama",
+    "preco": 22.77,
+    "quantidade": 5,
+    "data_venda": "2026-02-20",
+    "endereco": {
+      "rua": "Chácara Rodrigo Viana",
+      "numero": 1436,
+      "bairro": "Céu Azul",
+      "cidade": "da Cruz",
+      "estado": "RS",
+      "cep": "06379-586"
+    }
+  },
+  {
+    "id": 222,
+    "titulo": "Capitães da Areia",
+    "autor": "José de Alencar",
+    "genero": "Fantasia",
+    "preco": 110.21,
+    "quantidade": 1,
+    "data_venda": "2026-04-12",
+    "endereco": {
+      "rua": "Vila Sales",
+      "numero": 9867,
+      "bairro": "Vila Batik",
+      "cidade": "Aragão Verde",
+      "estado": "CE",
+      "cep": "88232843"
+    }
+  },
+  {
+    "id": 223,
+    "titulo": "Dom Casmurro",
+    "autor": "Guimarães Rosa",
+    "genero": "Drama",
+    "preco": 114.47,
+    "quantidade": 5,
+    "data_venda": "2026-06-09",
+    "endereco": {
+      "rua": "Colônia da Mota",
+      "numero": 2096,
+      "bairro": "Satelite",
+      "cidade": "Monteiro das Flores",
+      "estado": "RS",
+      "cep": "36718980"
+    }
+  },
+  {
+    "id": 224,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Machado de Assis",
+    "genero": "Fantasia",
+    "preco": 64.23,
+    "quantidade": 1,
+    "data_venda": "2026-03-13",
+    "endereco": {
+      "rua": "Área Gonçalves",
+      "numero": 3081,
+      "bairro": "Acaiaca",
+      "cidade": "Albuquerque",
+      "estado": "SC",
+      "cep": "37082-595"
+    }
+  },
+  {
+    "id": 225,
+    "titulo": "Capitães da Areia",
+    "autor": "José de Alencar",
+    "genero": "Ficção Científica",
+    "preco": 76.96,
+    "quantidade": 5,
+    "data_venda": "2026-04-10",
+    "endereco": {
+      "rua": "Viaduto Valentim da Rocha",
+      "numero": 3292,
+      "bairro": "Estoril",
+      "cidade": "Macedo",
+      "estado": "TO",
+      "cep": "53608453"
+    }
+  },
+  {
+    "id": 226,
+    "titulo": "Capitães da Areia",
+    "autor": "José de Alencar",
+    "genero": "Romance",
+    "preco": 67.35,
+    "quantidade": 2,
+    "data_venda": "2026-03-04",
+    "endereco": {
+      "rua": "Vila de Dias",
+      "numero": 1448,
+      "bairro": "Zilah Sposito",
+      "cidade": "Almeida de Costa",
+      "estado": "GO",
+      "cep": "70072-902"
+    }
+  },
+  {
+    "id": 227,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "George Orwell",
+    "genero": "Ficção Científica",
+    "preco": 94.34,
+    "quantidade": 4,
+    "data_venda": "2026-04-05",
+    "endereco": {
+      "rua": "Trecho Lima",
+      "numero": 6507,
+      "bairro": "Pindorama",
+      "cidade": "Campos das Pedras",
+      "estado": "PA",
+      "cep": "79014949"
+    }
+  },
+  {
+    "id": 228,
+    "titulo": "O Hobbit",
+    "autor": "José de Alencar",
+    "genero": "Romance",
+    "preco": 119.42,
+    "quantidade": 3,
+    "data_venda": "2026-03-07",
+    "endereco": {
+      "rua": "Trevo Correia",
+      "numero": 564,
+      "bairro": "Ventosa",
+      "cidade": "Brito do Norte",
+      "estado": "SE",
+      "cep": "01042354"
+    }
+  },
+  {
+    "id": 229,
+    "titulo": "Capitães da Areia",
+    "autor": "Machado de Assis",
+    "genero": "Aventura",
+    "preco": 90.75,
+    "quantidade": 5,
+    "data_venda": "2026-04-12",
+    "endereco": {
+      "rua": "Passarela Albuquerque",
+      "numero": 5454,
+      "bairro": "Céu Azul",
+      "cidade": "Alves",
+      "estado": "ES",
+      "cep": "91092952"
+    }
+  },
+  {
+    "id": 230,
+    "titulo": "O Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Ficção Científica",
+    "preco": 66.63,
+    "quantidade": 4,
+    "data_venda": "2026-03-14",
+    "endereco": {
+      "rua": "Loteamento da Rosa",
+      "numero": 5527,
+      "bairro": "Conjunto São Francisco De Assis",
+      "cidade": "Vasconcelos",
+      "estado": "AL",
+      "cep": "45336-064"
+    }
+  },
+  {
+    "id": 231,
+    "titulo": "A Moreninha",
+    "autor": "Machado de Assis",
+    "genero": "Aventura",
+    "preco": 38.76,
+    "quantidade": 4,
+    "data_venda": "2026-06-12",
+    "endereco": {
+      "rua": "Colônia Kamilly Viana",
+      "numero": 5820,
+      "bairro": "Minas Caixa",
+      "cidade": "Santos",
+      "estado": "MT",
+      "cep": "79292-681"
+    }
+  },
+  {
+    "id": 232,
+    "titulo": "Dom Casmurro",
+    "autor": "George Orwell",
+    "genero": "Aventura",
+    "preco": 99.31,
+    "quantidade": 1,
+    "data_venda": "2026-05-28",
+    "endereco": {
+      "rua": "Vale de Abreu",
+      "numero": 8037,
+      "bairro": "Oeste",
+      "cidade": "Sales do Campo",
+      "estado": "PE",
+      "cep": "51365-264"
+    }
+  },
+  {
+    "id": 233,
+    "titulo": "Dom Casmurro",
+    "autor": "J.K. Rowling",
+    "genero": "Fantasia",
+    "preco": 31.45,
+    "quantidade": 2,
+    "data_venda": "2026-06-07",
+    "endereco": {
+      "rua": "Condomínio Leão",
+      "numero": 798,
+      "bairro": "Floramar",
+      "cidade": "da Cunha",
+      "estado": "MT",
+      "cep": "97648373"
+    }
+  },
+  {
+    "id": 234,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "George Orwell",
+    "genero": "Romance",
+    "preco": 26.05,
+    "quantidade": 1,
+    "data_venda": "2026-02-14",
+    "endereco": {
+      "rua": "Vila Nogueira",
+      "numero": 640,
+      "bairro": "Novo Glória",
+      "cidade": "Montenegro",
+      "estado": "SP",
+      "cep": "81108-241"
+    }
+  },
+  {
+    "id": 235,
+    "titulo": "O Hobbit",
+    "autor": "Jorge Amado",
+    "genero": "Drama",
+    "preco": 38.94,
+    "quantidade": 3,
+    "data_venda": "2026-05-17",
+    "endereco": {
+      "rua": "Aeroporto Brito",
+      "numero": 1606,
+      "bairro": "Heliopolis",
+      "cidade": "Moreira de Fonseca",
+      "estado": "ES",
+      "cep": "54788844"
+    }
+  },
+  {
+    "id": 236,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Jorge Amado",
+    "genero": "Aventura",
+    "preco": 23.36,
+    "quantidade": 1,
+    "data_venda": "2026-03-13",
+    "endereco": {
+      "rua": "Pátio Levi da Costa",
+      "numero": 727,
+      "bairro": "Paquetá",
+      "cidade": "Vargas de Castro",
+      "estado": "AP",
+      "cep": "59357075"
+    }
+  },
+  {
+    "id": 237,
+    "titulo": "O Hobbit",
+    "autor": "J.K. Rowling",
+    "genero": "Aventura",
+    "preco": 107.35,
+    "quantidade": 4,
+    "data_venda": "2026-04-12",
+    "endereco": {
+      "rua": "Favela de Monteiro",
+      "numero": 2393,
+      "bairro": "Vila Petropolis",
+      "cidade": "das Neves",
+      "estado": "ES",
+      "cep": "62935-322"
+    }
+  },
+  {
+    "id": 238,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Ficção Científica",
+    "preco": 75.44,
+    "quantidade": 5,
+    "data_venda": "2026-05-28",
+    "endereco": {
+      "rua": "Condomínio Aparecida",
+      "numero": 9211,
+      "bairro": "Vila São Francisco",
+      "cidade": "da Mata Verde",
+      "estado": "SC",
+      "cep": "74889-046"
+    }
+  },
+  {
+    "id": 239,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Jorge Amado",
+    "genero": "Romance",
+    "preco": 86.47,
+    "quantidade": 1,
+    "data_venda": "2026-04-06",
+    "endereco": {
+      "rua": "Área Jesus",
+      "numero": 8770,
+      "bairro": "Pousada Santo Antonio",
+      "cidade": "Monteiro de da Costa",
+      "estado": "PI",
+      "cep": "76875-161"
+    }
+  },
+  {
+    "id": 240,
+    "titulo": "O Hobbit",
+    "autor": "George Orwell",
+    "genero": "Drama",
+    "preco": 71.04,
+    "quantidade": 1,
+    "data_venda": "2026-05-30",
+    "endereco": {
+      "rua": "Área Gustavo Câmara",
+      "numero": 6180,
+      "bairro": "Chácara Leonina",
+      "cidade": "da Conceição",
+      "estado": "MG",
+      "cep": "42907-874"
+    }
+  },
+  {
+    "id": 241,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Aventura",
+    "preco": 118.28,
+    "quantidade": 3,
+    "data_venda": "2026-02-17",
+    "endereco": {
+      "rua": "Chácara Lorenzo Cassiano",
+      "numero": 3974,
+      "bairro": "União",
+      "cidade": "Marques de Freitas",
+      "estado": "PB",
+      "cep": "63647-758"
+    }
+  },
+  {
+    "id": 242,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "Guimarães Rosa",
+    "genero": "Aventura",
+    "preco": 91.0,
+    "quantidade": 5,
+    "data_venda": "2026-01-18",
+    "endereco": {
+      "rua": "Área de Azevedo",
+      "numero": 6304,
+      "bairro": "Horto Florestal",
+      "cidade": "Cardoso",
+      "estado": "MS",
+      "cep": "59401819"
+    }
+  },
+  {
+    "id": 243,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "Guimarães Rosa",
+    "genero": "Drama",
+    "preco": 65.41,
+    "quantidade": 3,
+    "data_venda": "2026-03-10",
+    "endereco": {
+      "rua": "Campo Gonçalves",
+      "numero": 475,
+      "bairro": "Santa Monica",
+      "cidade": "Sampaio",
+      "estado": "TO",
+      "cep": "63828-749"
+    }
+  },
+  {
+    "id": 244,
+    "titulo": "O Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Aventura",
+    "preco": 107.53,
+    "quantidade": 5,
+    "data_venda": "2026-04-03",
+    "endereco": {
+      "rua": "Lago João Miguel Silva",
+      "numero": 6958,
+      "bairro": "Vila Copasa",
+      "cidade": "Teixeira dos Dourados",
+      "estado": "AP",
+      "cep": "00939-701"
+    }
+  },
+  {
+    "id": 245,
+    "titulo": "1984",
+    "autor": "José de Alencar",
+    "genero": "Fantasia",
+    "preco": 103.79,
+    "quantidade": 1,
+    "data_venda": "2026-03-12",
+    "endereco": {
+      "rua": "Viela de Macedo",
+      "numero": 8539,
+      "bairro": "Nova Cintra",
+      "cidade": "Andrade do Norte",
+      "estado": "CE",
+      "cep": "09440672"
+    }
+  },
+  {
+    "id": 246,
+    "titulo": "Dom Casmurro",
+    "autor": "Jorge Amado",
+    "genero": "Romance",
+    "preco": 64.12,
+    "quantidade": 1,
+    "data_venda": "2026-06-12",
+    "endereco": {
+      "rua": "Viaduto Almeida",
+      "numero": 1679,
+      "bairro": "Castanheira",
+      "cidade": "Dias Alegre",
+      "estado": "CE",
+      "cep": "74427-069"
+    }
+  },
+  {
+    "id": 247,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "Jorge Amado",
+    "genero": "Aventura",
+    "preco": 53.57,
+    "quantidade": 2,
+    "data_venda": "2026-04-06",
+    "endereco": {
+      "rua": "Parque Barros",
+      "numero": 1408,
+      "bairro": "Santo André",
+      "cidade": "Souza de Sousa",
+      "estado": "GO",
+      "cep": "34676564"
+    }
+  },
+  {
+    "id": 248,
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "genero": "Drama",
+    "preco": 67.25,
+    "quantidade": 5,
+    "data_venda": "2026-05-02",
+    "endereco": {
+      "rua": "Condomínio Souza",
+      "numero": 6305,
+      "bairro": "Vila Jardim Montanhes",
+      "cidade": "Gomes",
+      "estado": "SP",
+      "cep": "86408-015"
+    }
+  },
+  {
+    "id": 249,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "J.K. Rowling",
+    "genero": "Romance",
+    "preco": 108.02,
+    "quantidade": 3,
+    "data_venda": "2026-03-02",
+    "endereco": {
+      "rua": "Morro Ravy Rios",
+      "numero": 3837,
+      "bairro": "Outro",
+      "cidade": "Ribeiro",
+      "estado": "ES",
+      "cep": "94781244"
+    }
+  },
+  {
+    "id": 250,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "J.K. Rowling",
+    "genero": "Drama",
+    "preco": 62.37,
+    "quantidade": 1,
+    "data_venda": "2026-02-07",
+    "endereco": {
+      "rua": "Lagoa João Guilherme da Rocha",
+      "numero": 2176,
+      "bairro": "São Francisco Das Chagas",
+      "cidade": "Garcia Grande",
+      "estado": "MA",
+      "cep": "13231-971"
+    }
+  },
+  {
+    "id": 251,
+    "titulo": "O Hobbit",
+    "autor": "José de Alencar",
+    "genero": "Ficção Científica",
+    "preco": 118.08,
+    "quantidade": 4,
+    "data_venda": "2026-01-05",
+    "endereco": {
+      "rua": "Trecho de Monteiro",
+      "numero": 9630,
+      "bairro": "Luxemburgo",
+      "cidade": "das Neves",
+      "estado": "BA",
+      "cep": "06132060"
+    }
+  },
+  {
+    "id": 252,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "Machado de Assis",
+    "genero": "Aventura",
+    "preco": 30.53,
+    "quantidade": 5,
+    "data_venda": "2026-03-11",
+    "endereco": {
+      "rua": "Campo Souza",
+      "numero": 954,
+      "bairro": "Boa União 1ª Seção",
+      "cidade": "Araújo",
+      "estado": "ES",
+      "cep": "95961-837"
+    }
+  },
+  {
+    "id": 253,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "José de Alencar",
+    "genero": "Romance",
+    "preco": 38.66,
+    "quantidade": 4,
+    "data_venda": "2026-04-03",
+    "endereco": {
+      "rua": "Chácara Theodoro Camargo",
+      "numero": 8115,
+      "bairro": "Vila Nova Paraíso",
+      "cidade": "Porto do Oeste",
+      "estado": "RN",
+      "cep": "31117919"
+    }
+  },
+  {
+    "id": 254,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Machado de Assis",
+    "genero": "Fantasia",
+    "preco": 115.0,
+    "quantidade": 5,
+    "data_venda": "2026-05-10",
+    "endereco": {
+      "rua": "Fazenda Maria Liz Vargas",
+      "numero": 1013,
+      "bairro": "Vila Da Amizade",
+      "cidade": "Ferreira das Pedras",
+      "estado": "AL",
+      "cep": "65553-449"
+    }
+  },
+  {
+    "id": 255,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.K. Rowling",
+    "genero": "Romance",
+    "preco": 24.64,
+    "quantidade": 2,
+    "data_venda": "2026-06-02",
+    "endereco": {
+      "rua": "Trecho de Viana",
+      "numero": 3461,
+      "bairro": "Beira Linha",
+      "cidade": "Porto",
+      "estado": "MG",
+      "cep": "72461004"
+    }
+  },
+  {
+    "id": 256,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "José de Alencar",
+    "genero": "Aventura",
+    "preco": 54.13,
+    "quantidade": 1,
+    "data_venda": "2026-03-06",
+    "endereco": {
+      "rua": "Praça Costela",
+      "numero": 3598,
+      "bairro": "Mirtes",
+      "cidade": "Gonçalves",
+      "estado": "PE",
+      "cep": "57002-377"
+    }
+  },
+  {
+    "id": 257,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Machado de Assis",
+    "genero": "Ficção Científica",
+    "preco": 78.8,
+    "quantidade": 2,
+    "data_venda": "2026-03-18",
+    "endereco": {
+      "rua": "Lagoa Emanuel Borges",
+      "numero": 8535,
+      "bairro": "Vila Real 2ª Seção",
+      "cidade": "Rodrigues de Alves",
+      "estado": "RN",
+      "cep": "33576-779"
+    }
+  },
+  {
+    "id": 258,
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "genero": "Romance",
+    "preco": 75.31,
+    "quantidade": 2,
+    "data_venda": "2026-03-30",
+    "endereco": {
+      "rua": "Estação de Barbosa",
+      "numero": 6537,
+      "bairro": "São Jorge 3ª Seção",
+      "cidade": "Ramos",
+      "estado": "ES",
+      "cep": "32684-684"
+    }
+  },
+  {
+    "id": 259,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "George Orwell",
+    "genero": "Drama",
+    "preco": 82.98,
+    "quantidade": 1,
+    "data_venda": "2026-02-21",
+    "endereco": {
+      "rua": "Sítio Rezende",
+      "numero": 4598,
+      "bairro": "Vila Maloca",
+      "cidade": "Andrade",
+      "estado": "TO",
+      "cep": "29560011"
+    }
+  },
+  {
+    "id": 260,
+    "titulo": "1984",
+    "autor": "Machado de Assis",
+    "genero": "Romance",
+    "preco": 39.72,
+    "quantidade": 2,
+    "data_venda": "2026-01-19",
+    "endereco": {
+      "rua": "Núcleo Almeida",
+      "numero": 3544,
+      "bairro": "Petropolis",
+      "cidade": "Sousa",
+      "estado": "SP",
+      "cep": "60619-262"
+    }
+  },
+  {
+    "id": 261,
+    "titulo": "Capitães da Areia",
+    "autor": "Machado de Assis",
+    "genero": "Ficção Científica",
+    "preco": 49.23,
+    "quantidade": 1,
+    "data_venda": "2026-01-23",
+    "endereco": {
+      "rua": "Travessa Brito",
+      "numero": 9754,
+      "bairro": "Mineirão",
+      "cidade": "Pacheco da Prata",
+      "estado": "MT",
+      "cep": "86229-304"
+    }
+  },
+  {
+    "id": 262,
+    "titulo": "Capitães da Areia",
+    "autor": "Machado de Assis",
+    "genero": "Ficção Científica",
+    "preco": 112.83,
+    "quantidade": 1,
+    "data_venda": "2026-05-21",
+    "endereco": {
+      "rua": "Avenida das Neves",
+      "numero": 321,
+      "bairro": "Satelite",
+      "cidade": "Ramos",
+      "estado": "MA",
+      "cep": "31988-918"
+    }
+  },
+  {
+    "id": 263,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "George Orwell",
+    "genero": "Drama",
+    "preco": 115.79,
+    "quantidade": 3,
+    "data_venda": "2026-04-18",
+    "endereco": {
+      "rua": "Vereda de da Rocha",
+      "numero": 1127,
+      "bairro": "Vila Antena Montanhês",
+      "cidade": "Campos",
+      "estado": "MS",
+      "cep": "46558738"
+    }
+  },
+  {
+    "id": 264,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Jorge Amado",
+    "genero": "Romance",
+    "preco": 118.39,
+    "quantidade": 5,
+    "data_venda": "2026-06-19",
+    "endereco": {
+      "rua": "Via das Neves",
+      "numero": 4888,
+      "bairro": "Vista Alegre",
+      "cidade": "Montenegro de Jesus",
+      "estado": "PB",
+      "cep": "82882471"
+    }
+  },
+  {
+    "id": 265,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Guimarães Rosa",
+    "genero": "Romance",
+    "preco": 83.04,
+    "quantidade": 4,
+    "data_venda": "2026-02-10",
+    "endereco": {
+      "rua": "Praia Correia",
+      "numero": 1652,
+      "bairro": "Conjunto Jardim Filadélfia",
+      "cidade": "Fernandes Paulista",
+      "estado": "RR",
+      "cep": "81936019"
+    }
+  },
+  {
+    "id": 266,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Romance",
+    "preco": 98.59,
+    "quantidade": 5,
+    "data_venda": "2026-04-10",
+    "endereco": {
+      "rua": "Condomínio de Azevedo",
+      "numero": 7640,
+      "bairro": "João Pinheiro",
+      "cidade": "da Mota",
+      "estado": "CE",
+      "cep": "46488998"
+    }
+  },
+  {
+    "id": 267,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.K. Rowling",
+    "genero": "Romance",
+    "preco": 57.29,
+    "quantidade": 2,
+    "data_venda": "2026-01-07",
+    "endereco": {
+      "rua": "Campo Léo da Mota",
+      "numero": 878,
+      "bairro": "Vila São Paulo",
+      "cidade": "Moraes de Melo",
+      "estado": "PB",
+      "cep": "90987256"
+    }
+  },
+  {
+    "id": 268,
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "genero": "Drama",
+    "preco": 61.75,
+    "quantidade": 5,
+    "data_venda": "2026-03-30",
+    "endereco": {
+      "rua": "Trecho de Rodrigues",
+      "numero": 1805,
+      "bairro": "São Tomaz",
+      "cidade": "Albuquerque",
+      "estado": "MG",
+      "cep": "36176-748"
+    }
+  },
+  {
+    "id": 269,
+    "titulo": "O Hobbit",
+    "autor": "José de Alencar",
+    "genero": "Fantasia",
+    "preco": 108.48,
+    "quantidade": 3,
+    "data_venda": "2026-04-04",
+    "endereco": {
+      "rua": "Setor Montenegro",
+      "numero": 337,
+      "bairro": "Tiradentes",
+      "cidade": "Costela da Praia",
+      "estado": "BA",
+      "cep": "01998-925"
+    }
+  },
+  {
+    "id": 270,
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "genero": "Aventura",
+    "preco": 35.75,
+    "quantidade": 3,
+    "data_venda": "2026-05-07",
+    "endereco": {
+      "rua": "Recanto Maria Liz Machado",
+      "numero": 2021,
+      "bairro": "Vila Madre Gertrudes 3ª Seção",
+      "cidade": "Martins",
+      "estado": "MG",
+      "cep": "89702160"
+    }
+  },
+  {
+    "id": 271,
+    "titulo": "1984",
+    "autor": "Guimarães Rosa",
+    "genero": "Ficção Científica",
+    "preco": 53.73,
+    "quantidade": 3,
+    "data_venda": "2026-03-03",
+    "endereco": {
+      "rua": "Esplanada de da Cunha",
+      "numero": 3265,
+      "bairro": "Trevo",
+      "cidade": "Mendes",
+      "estado": "MG",
+      "cep": "08405-770"
+    }
+  },
+  {
+    "id": 272,
+    "titulo": "O Hobbit",
+    "autor": "José de Alencar",
+    "genero": "Ficção Científica",
+    "preco": 47.48,
+    "quantidade": 3,
+    "data_venda": "2026-04-10",
+    "endereco": {
+      "rua": "Colônia Barbosa",
+      "numero": 3358,
+      "bairro": "Renascença",
+      "cidade": "Vieira",
+      "estado": "DF",
+      "cep": "48643534"
+    }
+  },
+  {
+    "id": 273,
+    "titulo": "O Hobbit",
+    "autor": "George Orwell",
+    "genero": "Fantasia",
+    "preco": 86.58,
+    "quantidade": 2,
+    "data_venda": "2026-01-05",
+    "endereco": {
+      "rua": "Campo Rios",
+      "numero": 1890,
+      "bairro": "São Lucas",
+      "cidade": "Fogaça",
+      "estado": "RR",
+      "cep": "12998068"
+    }
+  },
+  {
+    "id": 274,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "José de Alencar",
+    "genero": "Romance",
+    "preco": 66.55,
+    "quantidade": 1,
+    "data_venda": "2026-03-15",
+    "endereco": {
+      "rua": "Estrada Mirella Castro",
+      "numero": 4254,
+      "bairro": "Primeiro De Maio",
+      "cidade": "Vieira do Oeste",
+      "estado": "TO",
+      "cep": "97680598"
+    }
+  },
+  {
+    "id": 275,
+    "titulo": "O Hobbit",
+    "autor": "Guimarães Rosa",
+    "genero": "Aventura",
+    "preco": 87.72,
+    "quantidade": 3,
+    "data_venda": "2026-06-21",
+    "endereco": {
+      "rua": "Núcleo Campos",
+      "numero": 3043,
+      "bairro": "Vila Bandeirantes",
+      "cidade": "Pires",
+      "estado": "MG",
+      "cep": "04702075"
+    }
+  },
+  {
+    "id": 276,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "George Orwell",
+    "genero": "Drama",
+    "preco": 111.2,
+    "quantidade": 3,
+    "data_venda": "2026-01-03",
+    "endereco": {
+      "rua": "Área Nunes",
+      "numero": 7754,
+      "bairro": "Vila Nova Dos Milionarios",
+      "cidade": "Cassiano",
+      "estado": "SE",
+      "cep": "34591221"
+    }
+  },
+  {
+    "id": 277,
+    "titulo": "Capitães da Areia",
+    "autor": "Jorge Amado",
+    "genero": "Ficção Científica",
+    "preco": 59.7,
+    "quantidade": 5,
+    "data_venda": "2026-02-18",
+    "endereco": {
+      "rua": "Largo Sophia Fonseca",
+      "numero": 366,
+      "bairro": "Planalto",
+      "cidade": "da Mata de Brito",
+      "estado": "PA",
+      "cep": "70895-579"
+    }
+  },
+  {
+    "id": 278,
+    "titulo": "O Hobbit",
+    "autor": "Guimarães Rosa",
+    "genero": "Fantasia",
+    "preco": 58.5,
+    "quantidade": 2,
+    "data_venda": "2026-03-09",
+    "endereco": {
+      "rua": "Estrada Porto",
+      "numero": 7280,
+      "bairro": "Ademar Maldonado",
+      "cidade": "Moreira Paulista",
+      "estado": "PE",
+      "cep": "32532264"
+    }
+  },
+  {
+    "id": 279,
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "genero": "Drama",
+    "preco": 38.87,
+    "quantidade": 5,
+    "data_venda": "2026-01-09",
+    "endereco": {
+      "rua": "Chácara Antonella Vasconcelos",
+      "numero": 3612,
+      "bairro": "Conjunto Floramar",
+      "cidade": "das Neves de das Neves",
+      "estado": "SP",
+      "cep": "82090430"
+    }
+  },
+  {
+    "id": 280,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "George Orwell",
+    "genero": "Aventura",
+    "preco": 69.29,
+    "quantidade": 3,
+    "data_venda": "2026-01-08",
+    "endereco": {
+      "rua": "Via Davi Costa",
+      "numero": 8417,
+      "bairro": "Horto Florestal",
+      "cidade": "Novais de Goiás",
+      "estado": "MG",
+      "cep": "95530-958"
+    }
+  },
+  {
+    "id": 281,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "George Orwell",
+    "genero": "Romance",
+    "preco": 84.88,
+    "quantidade": 4,
+    "data_venda": "2026-06-08",
+    "endereco": {
+      "rua": "Viela de Cavalcante",
+      "numero": 9375,
+      "bairro": "Aparecida",
+      "cidade": "Dias da Praia",
+      "estado": "AL",
+      "cep": "42490085"
+    }
+  },
+  {
+    "id": 282,
+    "titulo": "Capitães da Areia",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Drama",
+    "preco": 94.66,
+    "quantidade": 1,
+    "data_venda": "2026-06-04",
+    "endereco": {
+      "rua": "Ladeira Pedro Ramos",
+      "numero": 7177,
+      "bairro": "Santo André",
+      "cidade": "da Rosa",
+      "estado": "GO",
+      "cep": "32213-414"
+    }
+  },
+  {
+    "id": 283,
+    "titulo": "1984",
+    "autor": "J.K. Rowling",
+    "genero": "Fantasia",
+    "preco": 116.09,
+    "quantidade": 4,
+    "data_venda": "2026-06-07",
+    "endereco": {
+      "rua": "Chácara Otávio Borges",
+      "numero": 3392,
+      "bairro": "Juliana",
+      "cidade": "Novaes",
+      "estado": "RO",
+      "cep": "33723277"
+    }
+  },
+  {
+    "id": 284,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Guimarães Rosa",
+    "genero": "Drama",
+    "preco": 27.36,
+    "quantidade": 2,
+    "data_venda": "2026-05-17",
+    "endereco": {
+      "rua": "Sítio Manuela Freitas",
+      "numero": 2012,
+      "bairro": "Universo",
+      "cidade": "Caldeira do Amparo",
+      "estado": "PR",
+      "cep": "13172501"
+    }
+  },
+  {
+    "id": 285,
+    "titulo": "1984",
+    "autor": "José de Alencar",
+    "genero": "Aventura",
+    "preco": 41.87,
+    "quantidade": 1,
+    "data_venda": "2026-02-01",
+    "endereco": {
+      "rua": "Setor de Santos",
+      "numero": 8251,
+      "bairro": "Vila Real 2ª Seção",
+      "cidade": "Albuquerque de Garcia",
+      "estado": "MA",
+      "cep": "58178565"
+    }
+  },
+  {
+    "id": 286,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "José de Alencar",
+    "genero": "Ficção Científica",
+    "preco": 86.22,
+    "quantidade": 1,
+    "data_venda": "2026-01-14",
+    "endereco": {
+      "rua": "Pátio Machado",
+      "numero": 6398,
+      "bairro": "Madri",
+      "cidade": "Fonseca",
+      "estado": "BA",
+      "cep": "73464917"
+    }
+  },
+  {
+    "id": 287,
+    "titulo": "A Moreninha",
+    "autor": "J.K. Rowling",
+    "genero": "Fantasia",
+    "preco": 85.35,
+    "quantidade": 3,
+    "data_venda": "2026-01-09",
+    "endereco": {
+      "rua": "Viaduto Cunha",
+      "numero": 7657,
+      "bairro": "Palmeiras",
+      "cidade": "Carvalho",
+      "estado": "SC",
+      "cep": "44673737"
+    }
+  },
+  {
+    "id": 288,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "George Orwell",
+    "genero": "Fantasia",
+    "preco": 35.08,
+    "quantidade": 3,
+    "data_venda": "2026-01-30",
+    "endereco": {
+      "rua": "Vila Isabella Marques",
+      "numero": 6288,
+      "bairro": "Ambrosina",
+      "cidade": "da Mata do Galho",
+      "estado": "RJ",
+      "cep": "21594-968"
+    }
+  },
+  {
+    "id": 289,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Machado de Assis",
+    "genero": "Romance",
+    "preco": 52.21,
+    "quantidade": 3,
+    "data_venda": "2026-02-20",
+    "endereco": {
+      "rua": "Conjunto de Vieira",
+      "numero": 7077,
+      "bairro": "Venda Nova",
+      "cidade": "da Cruz",
+      "estado": "PA",
+      "cep": "86716-242"
+    }
+  },
+  {
+    "id": 290,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.K. Rowling",
+    "genero": "Aventura",
+    "preco": 61.59,
+    "quantidade": 5,
+    "data_venda": "2026-05-06",
+    "endereco": {
+      "rua": "Favela Anthony Gabriel Costa",
+      "numero": 6350,
+      "bairro": "Conjunto Bonsucesso",
+      "cidade": "Dias de Pinto",
+      "estado": "ES",
+      "cep": "60257156"
+    }
+  },
+  {
+    "id": 291,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "J.K. Rowling",
+    "genero": "Aventura",
+    "preco": 23.07,
+    "quantidade": 5,
+    "data_venda": "2026-03-27",
+    "endereco": {
+      "rua": "Vereda Mendonça",
+      "numero": 6908,
+      "bairro": "Nova Esperança",
+      "cidade": "Duarte",
+      "estado": "DF",
+      "cep": "15706-318"
+    }
+  },
+  {
+    "id": 292,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "J.K. Rowling",
+    "genero": "Fantasia",
+    "preco": 76.47,
+    "quantidade": 3,
+    "data_venda": "2026-01-16",
+    "endereco": {
+      "rua": "Avenida de da Costa",
+      "numero": 2082,
+      "bairro": "Das Industrias I",
+      "cidade": "Albuquerque do Amparo",
+      "estado": "AC",
+      "cep": "91708-189"
+    }
+  },
+  {
+    "id": 293,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "Jorge Amado",
+    "genero": "Aventura",
+    "preco": 36.44,
+    "quantidade": 2,
+    "data_venda": "2026-06-14",
+    "endereco": {
+      "rua": "Passarela Ryan Fonseca",
+      "numero": 4700,
+      "bairro": "Conjunto Novo Dom Bosco",
+      "cidade": "Guerra Grande",
+      "estado": "SP",
+      "cep": "02590-454"
+    }
+  },
+  {
+    "id": 294,
+    "titulo": "A Moreninha",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "preco": 47.8,
+    "quantidade": 2,
+    "data_venda": "2026-02-26",
+    "endereco": {
+      "rua": "Pátio Pires",
+      "numero": 2134,
+      "bairro": "Etelvina Carneiro",
+      "cidade": "Martins Grande",
+      "estado": "AM",
+      "cep": "20603-644"
+    }
+  },
+  {
+    "id": 295,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Aventura",
+    "preco": 54.01,
+    "quantidade": 2,
+    "data_venda": "2026-05-14",
+    "endereco": {
+      "rua": "Via de da Luz",
+      "numero": 4307,
+      "bairro": "Camargos",
+      "cidade": "Barbosa de Cavalcante",
+      "estado": "TO",
+      "cep": "10265842"
+    }
+  },
+  {
+    "id": 296,
+    "titulo": "Capitães da Areia",
+    "autor": "J.K. Rowling",
+    "genero": "Aventura",
+    "preco": 34.71,
+    "quantidade": 5,
+    "data_venda": "2026-01-10",
+    "endereco": {
+      "rua": "Vale Larissa Fonseca",
+      "numero": 2567,
+      "bairro": "Vila São Gabriel",
+      "cidade": "das Neves dos Dourados",
+      "estado": "DF",
+      "cep": "38565-042"
+    }
+  },
+  {
+    "id": 297,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "George Orwell",
+    "genero": "Aventura",
+    "preco": 116.6,
+    "quantidade": 3,
+    "data_venda": "2026-05-08",
+    "endereco": {
+      "rua": "Colônia de Rodrigues",
+      "numero": 1761,
+      "bairro": "Dona Clara",
+      "cidade": "Mendonça",
+      "estado": "TO",
+      "cep": "82899-625"
+    }
+  },
+  {
+    "id": 298,
+    "titulo": "Dom Casmurro",
+    "autor": "José de Alencar",
+    "genero": "Fantasia",
+    "preco": 109.29,
+    "quantidade": 2,
+    "data_venda": "2026-03-25",
+    "endereco": {
+      "rua": "Chácara Aylla da Costa",
+      "numero": 4789,
+      "bairro": "São Luiz",
+      "cidade": "Lima do Sul",
+      "estado": "RS",
+      "cep": "48946676"
+    }
+  },
+  {
+    "id": 299,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.K. Rowling",
+    "genero": "Drama",
+    "preco": 119.56,
+    "quantidade": 1,
+    "data_venda": "2026-01-30",
+    "endereco": {
+      "rua": "Núcleo Casa Grande",
+      "numero": 2402,
+      "bairro": "Santa Branca",
+      "cidade": "Castro das Pedras",
+      "estado": "TO",
+      "cep": "02259301"
+    }
+  },
+  {
+    "id": 300,
+    "titulo": "A Moreninha",
+    "autor": "José de Alencar",
+    "genero": "Ficção Científica",
+    "preco": 63.37,
+    "quantidade": 4,
+    "data_venda": "2026-06-19",
+    "endereco": {
+      "rua": "Recanto Novaes",
+      "numero": 9423,
+      "bairro": "Aeroporto",
+      "cidade": "Rocha",
+      "estado": "DF",
+      "cep": "45484080"
+    }
+  },
+  {
+    "id": 301,
+    "titulo": "1984",
+    "autor": "J.K. Rowling",
+    "genero": "Aventura",
+    "preco": 86.03,
+    "quantidade": 1,
+    "data_venda": "2026-04-27",
+    "endereco": {
+      "rua": "Pátio Esther Pastor",
+      "numero": 3366,
+      "bairro": "Novo São Lucas",
+      "cidade": "Abreu",
+      "estado": "AC",
+      "cep": "63890-249"
+    }
+  },
+  {
+    "id": 302,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Guimarães Rosa",
+    "genero": "Drama",
+    "preco": 38.89,
+    "quantidade": 4,
+    "data_venda": "2026-04-28",
+    "endereco": {
+      "rua": "Avenida Matteo Vargas",
+      "numero": 8382,
+      "bairro": "Outro",
+      "cidade": "da Rocha",
+      "estado": "AM",
+      "cep": "35244113"
+    }
+  },
+  {
+    "id": 303,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Guimarães Rosa",
+    "genero": "Drama",
+    "preco": 84.86,
+    "quantidade": 2,
+    "data_venda": "2026-05-29",
+    "endereco": {
+      "rua": "Viela Eloá Rezende",
+      "numero": 7447,
+      "bairro": "Sion",
+      "cidade": "Garcia do Oeste",
+      "estado": "RR",
+      "cep": "62876-520"
+    }
+  },
+  {
+    "id": 304,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Machado de Assis",
+    "genero": "Aventura",
+    "preco": 34.19,
+    "quantidade": 4,
+    "data_venda": "2026-01-24",
+    "endereco": {
+      "rua": "Largo Rael Cunha",
+      "numero": 3724,
+      "bairro": "Santa Sofia",
+      "cidade": "Costa",
+      "estado": "MT",
+      "cep": "33235-287"
+    }
+  },
+  {
+    "id": 305,
+    "titulo": "O Hobbit",
+    "autor": "Jorge Amado",
+    "genero": "Aventura",
+    "preco": 115.04,
+    "quantidade": 2,
+    "data_venda": "2026-01-02",
+    "endereco": {
+      "rua": "Colônia Beatriz Cirino",
+      "numero": 892,
+      "bairro": "Jardim Guanabara",
+      "cidade": "Montenegro",
+      "estado": "TO",
+      "cep": "76789651"
+    }
+  },
+  {
+    "id": 306,
+    "titulo": "O Hobbit",
+    "autor": "Machado de Assis",
+    "genero": "Drama",
+    "preco": 54.97,
+    "quantidade": 4,
+    "data_venda": "2026-06-19",
+    "endereco": {
+      "rua": "Estação de Rezende",
+      "numero": 9776,
+      "bairro": "Madre Gertrudes",
+      "cidade": "Souza Verde",
+      "estado": "CE",
+      "cep": "18384-663"
+    }
+  },
+  {
+    "id": 307,
+    "titulo": "A Moreninha",
+    "autor": "Machado de Assis",
+    "genero": "Ficção Científica",
+    "preco": 69.78,
+    "quantidade": 4,
+    "data_venda": "2026-05-12",
+    "endereco": {
+      "rua": "Alameda de Dias",
+      "numero": 1161,
+      "bairro": "Alto Dos Pinheiros",
+      "cidade": "Moraes de Silveira",
+      "estado": "RJ",
+      "cep": "22358354"
+    }
+  },
+  {
+    "id": 308,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "J.K. Rowling",
+    "genero": "Drama",
+    "preco": 87.28,
+    "quantidade": 1,
+    "data_venda": "2026-05-01",
+    "endereco": {
+      "rua": "Praça de Gomes",
+      "numero": 132,
+      "bairro": "Mirtes",
+      "cidade": "Souza",
+      "estado": "AC",
+      "cep": "19500-494"
+    }
+  },
+  {
+    "id": 309,
+    "titulo": "Capitães da Areia",
+    "autor": "Guimarães Rosa",
+    "genero": "Romance",
+    "preco": 24.74,
+    "quantidade": 5,
+    "data_venda": "2026-01-31",
+    "endereco": {
+      "rua": "Passarela Leonardo da Rocha",
+      "numero": 4459,
+      "bairro": "Tirol",
+      "cidade": "Oliveira",
+      "estado": "GO",
+      "cep": "99595145"
+    }
+  },
+  {
+    "id": 310,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.K. Rowling",
+    "genero": "Aventura",
+    "preco": 58.49,
+    "quantidade": 5,
+    "data_venda": "2026-04-16",
+    "endereco": {
+      "rua": "Vila Maria Liz Martins",
+      "numero": 4059,
+      "bairro": "Distrito Industrial Do Jatoba",
+      "cidade": "Vasconcelos",
+      "estado": "CE",
+      "cep": "17434160"
+    }
+  },
+  {
+    "id": 311,
+    "titulo": "Dom Casmurro",
+    "autor": "George Orwell",
+    "genero": "Aventura",
+    "preco": 108.62,
+    "quantidade": 5,
+    "data_venda": "2026-02-05",
+    "endereco": {
+      "rua": "Conjunto Ana Lívia Farias",
+      "numero": 9606,
+      "bairro": "Cidade Jardim Taquaril",
+      "cidade": "Rios da Prata",
+      "estado": "MG",
+      "cep": "46964-446"
+    }
+  },
+  {
+    "id": 312,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Guimarães Rosa",
+    "genero": "Fantasia",
+    "preco": 114.74,
+    "quantidade": 2,
+    "data_venda": "2026-03-30",
+    "endereco": {
+      "rua": "Morro Rezende",
+      "numero": 1517,
+      "bairro": "Jardim América",
+      "cidade": "Cavalcante",
+      "estado": "MS",
+      "cep": "26508808"
+    }
+  },
+  {
+    "id": 313,
+    "titulo": "O Hobbit",
+    "autor": "J.K. Rowling",
+    "genero": "Aventura",
+    "preco": 33.63,
+    "quantidade": 1,
+    "data_venda": "2026-03-09",
+    "endereco": {
+      "rua": "Alameda Isabel Campos",
+      "numero": 7562,
+      "bairro": "Planalto",
+      "cidade": "Gomes",
+      "estado": "PI",
+      "cep": "35607-177"
+    }
+  },
+  {
+    "id": 314,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "J.K. Rowling",
+    "genero": "Romance",
+    "preco": 96.44,
+    "quantidade": 4,
+    "data_venda": "2026-04-12",
+    "endereco": {
+      "rua": "Quadra de Mendonça",
+      "numero": 8166,
+      "bairro": "Copacabana",
+      "cidade": "Câmara da Serra",
+      "estado": "MG",
+      "cep": "71483-526"
+    }
+  },
+  {
+    "id": 315,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Romance",
+    "preco": 56.63,
+    "quantidade": 2,
+    "data_venda": "2026-06-13",
+    "endereco": {
+      "rua": "Favela Lopes",
+      "numero": 856,
+      "bairro": "Vila Ecológica",
+      "cidade": "da Cunha de Borges",
+      "estado": "CE",
+      "cep": "24101-941"
+    }
+  },
+  {
+    "id": 316,
+    "titulo": "1984",
+    "autor": "Machado de Assis",
+    "genero": "Aventura",
+    "preco": 37.54,
+    "quantidade": 3,
+    "data_venda": "2026-01-27",
+    "endereco": {
+      "rua": "Colônia Pereira",
+      "numero": 8836,
+      "bairro": "Serra Do Curral",
+      "cidade": "Melo",
+      "estado": "PA",
+      "cep": "12680818"
+    }
+  },
+  {
+    "id": 317,
+    "titulo": "Dom Casmurro",
+    "autor": "Jorge Amado",
+    "genero": "Drama",
+    "preco": 51.0,
+    "quantidade": 3,
+    "data_venda": "2026-01-24",
+    "endereco": {
+      "rua": "Favela Lunna Correia",
+      "numero": 8852,
+      "bairro": "Cabana Do Pai Tomás",
+      "cidade": "Nunes",
+      "estado": "RO",
+      "cep": "64690-828"
+    }
+  },
+  {
+    "id": 318,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Jorge Amado",
+    "genero": "Romance",
+    "preco": 58.36,
+    "quantidade": 4,
+    "data_venda": "2026-01-27",
+    "endereco": {
+      "rua": "Lagoa Montenegro",
+      "numero": 653,
+      "bairro": "Nova Vista",
+      "cidade": "Cirino",
+      "estado": "SP",
+      "cep": "79293441"
+    }
+  },
+  {
+    "id": 319,
+    "titulo": "A Moreninha",
+    "autor": "José de Alencar",
+    "genero": "Romance",
+    "preco": 44.58,
+    "quantidade": 4,
+    "data_venda": "2026-03-17",
+    "endereco": {
+      "rua": "Sítio Diogo Farias",
+      "numero": 3884,
+      "bairro": "Outro",
+      "cidade": "Dias",
+      "estado": "MT",
+      "cep": "79988-668"
+    }
+  },
+  {
+    "id": 320,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "J.K. Rowling",
+    "genero": "Fantasia",
+    "preco": 70.04,
+    "quantidade": 3,
+    "data_venda": "2026-04-28",
+    "endereco": {
+      "rua": "Passarela de Cavalcante",
+      "numero": 7340,
+      "bairro": "Diamante",
+      "cidade": "Pimenta",
+      "estado": "AP",
+      "cep": "39008127"
+    }
+  },
+  {
+    "id": 321,
+    "titulo": "Capitães da Areia",
+    "autor": "Guimarães Rosa",
+    "genero": "Aventura",
+    "preco": 23.01,
+    "quantidade": 5,
+    "data_venda": "2026-01-02",
+    "endereco": {
+      "rua": "Parque da Rosa",
+      "numero": 3478,
+      "bairro": "Vitoria",
+      "cidade": "Casa Grande",
+      "estado": "AC",
+      "cep": "60803-549"
+    }
+  },
+  {
+    "id": 322,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Guimarães Rosa",
+    "genero": "Romance",
+    "preco": 44.07,
+    "quantidade": 3,
+    "data_venda": "2026-02-20",
+    "endereco": {
+      "rua": "Núcleo de Ribeiro",
+      "numero": 6981,
+      "bairro": "Inconfidência",
+      "cidade": "Gomes da Mata",
+      "estado": "SC",
+      "cep": "65006676"
+    }
+  },
+  {
+    "id": 323,
+    "titulo": "A Moreninha",
+    "autor": "J.K. Rowling",
+    "genero": "Aventura",
+    "preco": 21.44,
+    "quantidade": 5,
+    "data_venda": "2026-03-07",
+    "endereco": {
+      "rua": "Trevo Josué Fogaça",
+      "numero": 3325,
+      "bairro": "Conjunto Santa Maria",
+      "cidade": "Nogueira",
+      "estado": "PA",
+      "cep": "41324-235"
+    }
+  },
+  {
+    "id": 324,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "J.K. Rowling",
+    "genero": "Romance",
+    "preco": 40.25,
+    "quantidade": 4,
+    "data_venda": "2026-04-05",
+    "endereco": {
+      "rua": "Conjunto Benjamin Albuquerque",
+      "numero": 2691,
+      "bairro": "Aparecida",
+      "cidade": "Pires",
+      "estado": "SE",
+      "cep": "80347-861"
+    }
+  },
+  {
+    "id": 325,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Machado de Assis",
+    "genero": "Ficção Científica",
+    "preco": 46.9,
+    "quantidade": 5,
+    "data_venda": "2026-03-14",
+    "endereco": {
+      "rua": "Trevo de Freitas",
+      "numero": 7015,
+      "bairro": "Jardim Vitoria",
+      "cidade": "Fogaça",
+      "estado": "GO",
+      "cep": "37667749"
+    }
+  },
+  {
+    "id": 326,
+    "titulo": "A Moreninha",
+    "autor": "Guimarães Rosa",
+    "genero": "Ficção Científica",
+    "preco": 98.44,
+    "quantidade": 2,
+    "data_venda": "2026-06-03",
+    "endereco": {
+      "rua": "Lagoa de Pereira",
+      "numero": 9533,
+      "bairro": "Jaraguá",
+      "cidade": "Sales do Campo",
+      "estado": "GO",
+      "cep": "01535-267"
+    }
+  },
+  {
+    "id": 327,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Machado de Assis",
+    "genero": "Ficção Científica",
+    "preco": 33.43,
+    "quantidade": 5,
+    "data_venda": "2026-05-17",
+    "endereco": {
+      "rua": "Viela Thomas Santos",
+      "numero": 6952,
+      "bairro": "Paraíso",
+      "cidade": "da Mota",
+      "estado": "PI",
+      "cep": "76877832"
+    }
+  },
+  {
+    "id": 328,
+    "titulo": "1984",
+    "autor": "J.K. Rowling",
+    "genero": "Aventura",
+    "preco": 20.1,
+    "quantidade": 4,
+    "data_venda": "2026-02-15",
+    "endereco": {
+      "rua": "Sítio Esther Rios",
+      "numero": 6764,
+      "bairro": "Corumbiara",
+      "cidade": "Caldeira de Fogaça",
+      "estado": "RN",
+      "cep": "52988721"
+    }
+  },
+  {
+    "id": 329,
+    "titulo": "Capitães da Areia",
+    "autor": "Jorge Amado",
+    "genero": "Romance",
+    "preco": 58.91,
+    "quantidade": 1,
+    "data_venda": "2026-03-19",
+    "endereco": {
+      "rua": "Ladeira Cirino",
+      "numero": 5449,
+      "bairro": "Vila Independencia 1ª Seção",
+      "cidade": "da Cruz",
+      "estado": "TO",
+      "cep": "64720507"
+    }
+  },
+  {
+    "id": 330,
+    "titulo": "1984",
+    "autor": "Jorge Amado",
+    "genero": "Ficção Científica",
+    "preco": 44.16,
+    "quantidade": 2,
+    "data_venda": "2026-02-21",
+    "endereco": {
+      "rua": "Rodovia Emilly Azevedo",
+      "numero": 4255,
+      "bairro": "Barro Preto",
+      "cidade": "Leão",
+      "estado": "RJ",
+      "cep": "68137-772"
+    }
+  },
+  {
+    "id": 331,
+    "titulo": "Dom Casmurro",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "preco": 72.72,
+    "quantidade": 5,
+    "data_venda": "2026-03-23",
+    "endereco": {
+      "rua": "Alameda da Costa",
+      "numero": 3449,
+      "bairro": "Jardim Leblon",
+      "cidade": "Campos",
+      "estado": "AP",
+      "cep": "66097-742"
+    }
+  },
+  {
+    "id": 332,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Jorge Amado",
+    "genero": "Ficção Científica",
+    "preco": 86.69,
+    "quantidade": 5,
+    "data_venda": "2026-05-09",
+    "endereco": {
+      "rua": "Jardim Farias",
+      "numero": 6640,
+      "bairro": "Vila União",
+      "cidade": "Abreu",
+      "estado": "GO",
+      "cep": "55280773"
+    }
+  },
+  {
+    "id": 333,
+    "titulo": "A Moreninha",
+    "autor": "Machado de Assis",
+    "genero": "Aventura",
+    "preco": 49.78,
+    "quantidade": 5,
+    "data_venda": "2026-02-01",
+    "endereco": {
+      "rua": "Estrada Ramos",
+      "numero": 5166,
+      "bairro": "Vila Pilar",
+      "cidade": "Farias",
+      "estado": "AC",
+      "cep": "70563665"
+    }
+  },
+  {
+    "id": 334,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Guimarães Rosa",
+    "genero": "Drama",
+    "preco": 79.85,
+    "quantidade": 1,
+    "data_venda": "2026-03-09",
+    "endereco": {
+      "rua": "Colônia de Garcia",
+      "numero": 9138,
+      "bairro": "Coração De Jesus",
+      "cidade": "Vargas da Serra",
+      "estado": "PR",
+      "cep": "13434-598"
+    }
+  },
+  {
+    "id": 335,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "J.K. Rowling",
+    "genero": "Romance",
+    "preco": 80.05,
+    "quantidade": 2,
+    "data_venda": "2026-05-22",
+    "endereco": {
+      "rua": "Via de Ramos",
+      "numero": 2496,
+      "bairro": "Araguaia",
+      "cidade": "Castro",
+      "estado": "PE",
+      "cep": "48193-178"
+    }
+  },
+  {
+    "id": 336,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "Jorge Amado",
+    "genero": "Drama",
+    "preco": 90.24,
+    "quantidade": 1,
+    "data_venda": "2026-03-20",
+    "endereco": {
+      "rua": "Parque de Casa Grande",
+      "numero": 6139,
+      "bairro": "Dona Clara",
+      "cidade": "Martins",
+      "estado": "CE",
+      "cep": "19732494"
+    }
+  },
+  {
+    "id": 337,
+    "titulo": "1984",
+    "autor": "Jorge Amado",
+    "genero": "Ficção Científica",
+    "preco": 69.72,
+    "quantidade": 3,
+    "data_venda": "2026-02-28",
+    "endereco": {
+      "rua": "Viaduto de Almeida",
+      "numero": 9897,
+      "bairro": "Pongelupe",
+      "cidade": "da Rocha",
+      "estado": "ES",
+      "cep": "71062326"
+    }
+  },
+  {
+    "id": 338,
+    "titulo": "1984",
+    "autor": "J.K. Rowling",
+    "genero": "Ficção Científica",
+    "preco": 114.05,
+    "quantidade": 1,
+    "data_venda": "2026-03-10",
+    "endereco": {
+      "rua": "Área de Moura",
+      "numero": 897,
+      "bairro": "Vila Suzana Segunda Seção",
+      "cidade": "Vargas",
+      "estado": "PI",
+      "cep": "99160480"
+    }
+  },
+  {
+    "id": 339,
+    "titulo": "1984",
+    "autor": "José de Alencar",
+    "genero": "Ficção Científica",
+    "preco": 26.68,
+    "quantidade": 1,
+    "data_venda": "2026-01-12",
+    "endereco": {
+      "rua": "Favela de Mendes",
+      "numero": 2838,
+      "bairro": "Vila Independencia 1ª Seção",
+      "cidade": "Nunes Verde",
+      "estado": "SE",
+      "cep": "21599342"
+    }
+  },
+  {
+    "id": 340,
+    "titulo": "Capitães da Areia",
+    "autor": "Jorge Amado",
+    "genero": "Romance",
+    "preco": 66.2,
+    "quantidade": 5,
+    "data_venda": "2026-02-01",
+    "endereco": {
+      "rua": "Fazenda Maria Cecília Oliveira",
+      "numero": 3930,
+      "bairro": "Novo Tupi",
+      "cidade": "Câmara Paulista",
+      "estado": "RR",
+      "cep": "56960-536"
+    }
+  },
+  {
+    "id": 341,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Ficção Científica",
+    "preco": 86.05,
+    "quantidade": 3,
+    "data_venda": "2026-04-05",
+    "endereco": {
+      "rua": "Parque de Viana",
+      "numero": 5235,
+      "bairro": "Vila Pinho",
+      "cidade": "Martins de Jesus",
+      "estado": "AM",
+      "cep": "88150-815"
+    }
+  },
+  {
+    "id": 342,
+    "titulo": "A Moreninha",
+    "autor": "J.K. Rowling",
+    "genero": "Fantasia",
+    "preco": 59.03,
+    "quantidade": 3,
+    "data_venda": "2026-01-18",
+    "endereco": {
+      "rua": "Praça Lorena Silva",
+      "numero": 7434,
+      "bairro": "Comiteco",
+      "cidade": "Macedo",
+      "estado": "CE",
+      "cep": "13941100"
+    }
+  },
+  {
+    "id": 343,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "Guimarães Rosa",
+    "genero": "Ficção Científica",
+    "preco": 80.84,
+    "quantidade": 3,
+    "data_venda": "2026-03-02",
+    "endereco": {
+      "rua": "Lago da Rocha",
+      "numero": 8503,
+      "bairro": "Bernadete",
+      "cidade": "Albuquerque do Amparo",
+      "estado": "MT",
+      "cep": "06883406"
+    }
+  },
+  {
+    "id": 344,
+    "titulo": "1984",
+    "autor": "Guimarães Rosa",
+    "genero": "Aventura",
+    "preco": 72.71,
+    "quantidade": 2,
+    "data_venda": "2026-02-22",
+    "endereco": {
+      "rua": "Estação Fernanda Peixoto",
+      "numero": 5109,
+      "bairro": "Conjunto Lagoa",
+      "cidade": "Cunha da Serra",
+      "estado": "RJ",
+      "cep": "58604191"
+    }
+  },
+  {
+    "id": 345,
+    "titulo": "1984",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Ficção Científica",
+    "preco": 26.87,
+    "quantidade": 5,
+    "data_venda": "2026-05-10",
+    "endereco": {
+      "rua": "Feira de Farias",
+      "numero": 9014,
+      "bairro": "Castanheira",
+      "cidade": "Rios",
+      "estado": "AM",
+      "cep": "79423-746"
+    }
+  },
+  {
+    "id": 346,
+    "titulo": "A Moreninha",
+    "autor": "George Orwell",
+    "genero": "Drama",
+    "preco": 31.53,
+    "quantidade": 3,
+    "data_venda": "2026-02-04",
+    "endereco": {
+      "rua": "Via de Ramos",
+      "numero": 6904,
+      "bairro": "Taquaril",
+      "cidade": "Almeida",
+      "estado": "SE",
+      "cep": "62873102"
+    }
+  },
+  {
+    "id": 347,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.K. Rowling",
+    "genero": "Aventura",
+    "preco": 116.99,
+    "quantidade": 1,
+    "data_venda": "2026-03-15",
+    "endereco": {
+      "rua": "Distrito de Pacheco",
+      "numero": 3614,
+      "bairro": "Funcionários",
+      "cidade": "da Mata do Galho",
+      "estado": "AM",
+      "cep": "12399907"
+    }
+  },
+  {
+    "id": 348,
+    "titulo": "Capitães da Areia",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "preco": 111.27,
+    "quantidade": 2,
+    "data_venda": "2026-01-10",
+    "endereco": {
+      "rua": "Estação de Aparecida",
+      "numero": 9163,
+      "bairro": "Tupi A",
+      "cidade": "Silva dos Dourados",
+      "estado": "MS",
+      "cep": "21463721"
+    }
+  },
+  {
+    "id": 349,
+    "titulo": "Capitães da Areia",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Romance",
+    "preco": 21.08,
+    "quantidade": 4,
+    "data_venda": "2026-02-01",
+    "endereco": {
+      "rua": "Travessa de Barros",
+      "numero": 4836,
+      "bairro": "Santa Margarida",
+      "cidade": "Cirino",
+      "estado": "RR",
+      "cep": "86864581"
+    }
+  },
+  {
+    "id": 350,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "preco": 97.18,
+    "quantidade": 2,
+    "data_venda": "2026-06-16",
+    "endereco": {
+      "rua": "Travessa Rocha",
+      "numero": 679,
+      "bairro": "Castanheira",
+      "cidade": "da Mata Paulista",
+      "estado": "AP",
+      "cep": "64382-755"
+    }
+  },
+  {
+    "id": 351,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "J.K. Rowling",
+    "genero": "Romance",
+    "preco": 90.85,
+    "quantidade": 3,
+    "data_venda": "2026-01-04",
+    "endereco": {
+      "rua": "Aeroporto de da Cunha",
+      "numero": 7381,
+      "bairro": "Conjunto Santa Maria",
+      "cidade": "Nunes de Goiás",
+      "estado": "PB",
+      "cep": "14408-114"
+    }
+  },
+  {
+    "id": 352,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "George Orwell",
+    "genero": "Drama",
+    "preco": 43.53,
+    "quantidade": 2,
+    "data_venda": "2026-05-21",
+    "endereco": {
+      "rua": "Favela Garcia",
+      "numero": 4351,
+      "bairro": "Álvaro Camargos",
+      "cidade": "Costela",
+      "estado": "MA",
+      "cep": "41416537"
+    }
+  },
+  {
+    "id": 353,
+    "titulo": "1984",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Romance",
+    "preco": 35.58,
+    "quantidade": 2,
+    "data_venda": "2026-02-05",
+    "endereco": {
+      "rua": "Trevo Pimenta",
+      "numero": 9726,
+      "bairro": "Itatiaia",
+      "cidade": "Nunes do Galho",
+      "estado": "AP",
+      "cep": "51134015"
+    }
+  },
+  {
+    "id": 354,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "George Orwell",
+    "genero": "Fantasia",
+    "preco": 119.08,
+    "quantidade": 4,
+    "data_venda": "2026-02-06",
+    "endereco": {
+      "rua": "Distrito Caldeira",
+      "numero": 2943,
+      "bairro": "Etelvina Carneiro",
+      "cidade": "Albuquerque da Prata",
+      "estado": "RJ",
+      "cep": "71463257"
+    }
+  },
+  {
+    "id": 355,
+    "titulo": "Dom Casmurro",
+    "autor": "José de Alencar",
+    "genero": "Fantasia",
+    "preco": 95.28,
+    "quantidade": 2,
+    "data_venda": "2026-03-20",
+    "endereco": {
+      "rua": "Vale Marques",
+      "numero": 411,
+      "bairro": "Castelo",
+      "cidade": "da Rocha Paulista",
+      "estado": "DF",
+      "cep": "92845-707"
+    }
+  },
+  {
+    "id": 356,
+    "titulo": "A Moreninha",
+    "autor": "J.K. Rowling",
+    "genero": "Aventura",
+    "preco": 48.31,
+    "quantidade": 5,
+    "data_venda": "2026-06-08",
+    "endereco": {
+      "rua": "Largo Camargo",
+      "numero": 9311,
+      "bairro": "Frei Leopoldo",
+      "cidade": "Farias",
+      "estado": "TO",
+      "cep": "68505321"
+    }
+  },
+  {
+    "id": 357,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "J.K. Rowling",
+    "genero": "Ficção Científica",
+    "preco": 60.69,
+    "quantidade": 4,
+    "data_venda": "2026-04-30",
+    "endereco": {
+      "rua": "Sítio Maria Liz Peixoto",
+      "numero": 5095,
+      "bairro": "Vila São Geraldo",
+      "cidade": "Costa",
+      "estado": "PI",
+      "cep": "20970745"
+    }
+  },
+  {
+    "id": 358,
+    "titulo": "Dom Casmurro",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Drama",
+    "preco": 98.59,
+    "quantidade": 3,
+    "data_venda": "2026-02-14",
+    "endereco": {
+      "rua": "Esplanada de Abreu",
+      "numero": 907,
+      "bairro": "Ernesto Nascimento",
+      "cidade": "da Mata",
+      "estado": "PA",
+      "cep": "71904-730"
+    }
+  },
+  {
+    "id": 359,
+    "titulo": "Dom Casmurro",
+    "autor": "J.K. Rowling",
+    "genero": "Fantasia",
+    "preco": 118.51,
+    "quantidade": 1,
+    "data_venda": "2026-02-17",
+    "endereco": {
+      "rua": "Praia de da Cruz",
+      "numero": 2115,
+      "bairro": "Vila Nova Gameleira 2ª Seção",
+      "cidade": "Casa Grande",
+      "estado": "MG",
+      "cep": "34221487"
+    }
+  },
+  {
+    "id": 360,
+    "titulo": "Capitães da Areia",
+    "autor": "George Orwell",
+    "genero": "Aventura",
+    "preco": 74.28,
+    "quantidade": 1,
+    "data_venda": "2026-03-25",
+    "endereco": {
+      "rua": "Lagoa de Brito",
+      "numero": 7804,
+      "bairro": "Castelo",
+      "cidade": "da Conceição de Machado",
+      "estado": "MG",
+      "cep": "15166-027"
+    }
+  },
+  {
+    "id": 361,
+    "titulo": "Capitães da Areia",
+    "autor": "George Orwell",
+    "genero": "Aventura",
+    "preco": 54.63,
+    "quantidade": 1,
+    "data_venda": "2026-03-07",
+    "endereco": {
+      "rua": "Esplanada da Cunha",
+      "numero": 2269,
+      "bairro": "Corumbiara",
+      "cidade": "Jesus das Pedras",
+      "estado": "RJ",
+      "cep": "63194-455"
+    }
+  },
+  {
+    "id": 362,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "Machado de Assis",
+    "genero": "Drama",
+    "preco": 95.93,
+    "quantidade": 3,
+    "data_venda": "2026-06-17",
+    "endereco": {
+      "rua": "Rua Marina Vasconcelos",
+      "numero": 2576,
+      "bairro": "Jardim América",
+      "cidade": "Castro",
+      "estado": "RJ",
+      "cep": "97494-299"
+    }
+  },
+  {
+    "id": 363,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.K. Rowling",
+    "genero": "Romance",
+    "preco": 116.36,
+    "quantidade": 1,
+    "data_venda": "2026-03-10",
+    "endereco": {
+      "rua": "Chácara de Cavalcante",
+      "numero": 6012,
+      "bairro": "Aparecida",
+      "cidade": "Souza",
+      "estado": "RN",
+      "cep": "36078-510"
+    }
+  },
+  {
+    "id": 364,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Drama",
+    "preco": 99.08,
+    "quantidade": 5,
+    "data_venda": "2026-06-14",
+    "endereco": {
+      "rua": "Praia Brenda Mendes",
+      "numero": 4840,
+      "bairro": "Boa União 1ª Seção",
+      "cidade": "Ramos de Pinto",
+      "estado": "RR",
+      "cep": "74345-016"
+    }
+  },
+  {
+    "id": 365,
+    "titulo": "A Moreninha",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "preco": 55.28,
+    "quantidade": 2,
+    "data_venda": "2026-05-10",
+    "endereco": {
+      "rua": "Chácara Vargas",
+      "numero": 3288,
+      "bairro": "Graça",
+      "cidade": "Rodrigues da Serra",
+      "estado": "RO",
+      "cep": "83457473"
+    }
+  },
+  {
+    "id": 366,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "José de Alencar",
+    "genero": "Aventura",
+    "preco": 50.16,
+    "quantidade": 1,
+    "data_venda": "2026-01-26",
+    "endereco": {
+      "rua": "Conjunto Caroline Nunes",
+      "numero": 976,
+      "bairro": "Santa Helena",
+      "cidade": "Duarte",
+      "estado": "RJ",
+      "cep": "32984339"
+    }
+  },
+  {
+    "id": 367,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "Jorge Amado",
+    "genero": "Ficção Científica",
+    "preco": 117.03,
+    "quantidade": 2,
+    "data_venda": "2026-02-17",
+    "endereco": {
+      "rua": "Aeroporto Beatriz Cavalcanti",
+      "numero": 1917,
+      "bairro": "Santa Rita De Cássia",
+      "cidade": "Dias",
+      "estado": "PA",
+      "cep": "39851816"
+    }
+  },
+  {
+    "id": 368,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "preco": 60.36,
+    "quantidade": 3,
+    "data_venda": "2026-01-08",
+    "endereco": {
+      "rua": "Sítio de Castro",
+      "numero": 3315,
+      "bairro": "Virgínia",
+      "cidade": "Mendonça Alegre",
+      "estado": "SC",
+      "cep": "52209-461"
+    }
+  },
+  {
+    "id": 369,
+    "titulo": "Capitães da Areia",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "preco": 78.21,
+    "quantidade": 4,
+    "data_venda": "2026-01-18",
+    "endereco": {
+      "rua": "Aeroporto de Alves",
+      "numero": 643,
+      "bairro": "Madre Gertrudes",
+      "cidade": "Monteiro de Moreira",
+      "estado": "RS",
+      "cep": "33896752"
+    }
+  },
+  {
+    "id": 370,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Jorge Amado",
+    "genero": "Fantasia",
+    "preco": 35.66,
+    "quantidade": 4,
+    "data_venda": "2026-05-25",
+    "endereco": {
+      "rua": "Lagoa Ramos",
+      "numero": 867,
+      "bairro": "Jonas Veiga",
+      "cidade": "Fernandes",
+      "estado": "MA",
+      "cep": "08342638"
+    }
+  },
+  {
+    "id": 371,
+    "titulo": "A Moreninha",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Drama",
+    "preco": 21.51,
+    "quantidade": 4,
+    "data_venda": "2026-02-07",
+    "endereco": {
+      "rua": "Colônia Aparecida",
+      "numero": 5914,
+      "bairro": "Vila Paraíso",
+      "cidade": "Pereira",
+      "estado": "PA",
+      "cep": "87654772"
+    }
+  },
+  {
+    "id": 372,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.K. Rowling",
+    "genero": "Romance",
+    "preco": 29.48,
+    "quantidade": 5,
+    "data_venda": "2026-05-10",
+    "endereco": {
+      "rua": "Sítio João Miguel Silveira",
+      "numero": 805,
+      "bairro": "Embaúbas",
+      "cidade": "Caldeira",
+      "estado": "SE",
+      "cep": "77284154"
+    }
+  },
+  {
+    "id": 373,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Machado de Assis",
+    "genero": "Drama",
+    "preco": 110.26,
+    "quantidade": 1,
+    "data_venda": "2026-01-07",
+    "endereco": {
+      "rua": "Distrito de Mendes",
+      "numero": 9162,
+      "bairro": "Santa Cruz",
+      "cidade": "Costela",
+      "estado": "PE",
+      "cep": "56525-017"
+    }
+  },
+  {
+    "id": 374,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "Jorge Amado",
+    "genero": "Romance",
+    "preco": 109.09,
+    "quantidade": 3,
+    "data_venda": "2026-02-06",
+    "endereco": {
+      "rua": "Praça Renan Nunes",
+      "numero": 5923,
+      "bairro": "Nova America",
+      "cidade": "Nogueira",
+      "estado": "MA",
+      "cep": "56520-633"
+    }
+  },
+  {
+    "id": 375,
+    "titulo": "Dom Casmurro",
+    "autor": "George Orwell",
+    "genero": "Drama",
+    "preco": 80.26,
+    "quantidade": 5,
+    "data_venda": "2026-06-15",
+    "endereco": {
+      "rua": "Rua Clara Silva",
+      "numero": 1379,
+      "bairro": "Vila Independencia 2ª Seção",
+      "cidade": "Sá",
+      "estado": "BA",
+      "cep": "64450-152"
+    }
+  },
+  {
+    "id": 376,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "José de Alencar",
+    "genero": "Aventura",
+    "preco": 25.48,
+    "quantidade": 1,
+    "data_venda": "2026-04-03",
+    "endereco": {
+      "rua": "Largo de Pacheco",
+      "numero": 4884,
+      "bairro": "Liberdade",
+      "cidade": "Moraes",
+      "estado": "MG",
+      "cep": "63327740"
+    }
+  },
+  {
+    "id": 377,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.K. Rowling",
+    "genero": "Fantasia",
+    "preco": 111.04,
+    "quantidade": 2,
+    "data_venda": "2026-03-20",
+    "endereco": {
+      "rua": "Largo de Nunes",
+      "numero": 8145,
+      "bairro": "Vila Das Oliveiras",
+      "cidade": "Cavalcante de Oliveira",
+      "estado": "RS",
+      "cep": "59987-056"
+    }
+  },
+  {
+    "id": 378,
+    "titulo": "1984",
+    "autor": "J.K. Rowling",
+    "genero": "Ficção Científica",
+    "preco": 35.22,
+    "quantidade": 5,
+    "data_venda": "2026-03-23",
+    "endereco": {
+      "rua": "Avenida Garcia",
+      "numero": 1227,
+      "bairro": "Satelite",
+      "cidade": "Rodrigues",
+      "estado": "MA",
+      "cep": "74404329"
+    }
+  },
+  {
+    "id": 379,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Machado de Assis",
+    "genero": "Romance",
+    "preco": 83.43,
+    "quantidade": 3,
+    "data_venda": "2026-02-08",
+    "endereco": {
+      "rua": "Lagoa Oliver Freitas",
+      "numero": 8662,
+      "bairro": "Tupi B",
+      "cidade": "Fernandes da Praia",
+      "estado": "RJ",
+      "cep": "26733-150"
+    }
+  },
+  {
+    "id": 380,
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "genero": "Aventura",
+    "preco": 42.77,
+    "quantidade": 2,
+    "data_venda": "2026-05-01",
+    "endereco": {
+      "rua": "Praia de da Costa",
+      "numero": 5770,
+      "bairro": "Tupi B",
+      "cidade": "Novais",
+      "estado": "RS",
+      "cep": "96295-200"
+    }
+  },
+  {
+    "id": 381,
+    "titulo": "Dom Casmurro",
+    "autor": "José de Alencar",
+    "genero": "Romance",
+    "preco": 74.44,
+    "quantidade": 1,
+    "data_venda": "2026-02-12",
+    "endereco": {
+      "rua": "Residencial de Sousa",
+      "numero": 29,
+      "bairro": "Cidade Nova",
+      "cidade": "Vieira de Lima",
+      "estado": "RO",
+      "cep": "76196435"
+    }
+  },
+  {
+    "id": 382,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "George Orwell",
+    "genero": "Romance",
+    "preco": 73.81,
+    "quantidade": 5,
+    "data_venda": "2026-01-21",
+    "endereco": {
+      "rua": "Avenida Gomes",
+      "numero": 7478,
+      "bairro": "Belvedere",
+      "cidade": "Moraes de Minas",
+      "estado": "CE",
+      "cep": "65892-819"
+    }
+  },
+  {
+    "id": 383,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Guimarães Rosa",
+    "genero": "Romance",
+    "preco": 118.02,
+    "quantidade": 5,
+    "data_venda": "2026-01-15",
+    "endereco": {
+      "rua": "Morro Mirella Brito",
+      "numero": 4791,
+      "bairro": "Vila Puc",
+      "cidade": "Brito do Sul",
+      "estado": "CE",
+      "cep": "95547489"
+    }
+  },
+  {
+    "id": 384,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.K. Rowling",
+    "genero": "Drama",
+    "preco": 20.07,
+    "quantidade": 1,
+    "data_venda": "2026-01-28",
+    "endereco": {
+      "rua": "Vereda Rael Costela",
+      "numero": 405,
+      "bairro": "São Jorge 1ª Seção",
+      "cidade": "Campos",
+      "estado": "SP",
+      "cep": "34913-992"
+    }
+  },
+  {
+    "id": 385,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "José de Alencar",
+    "genero": "Aventura",
+    "preco": 87.45,
+    "quantidade": 1,
+    "data_venda": "2026-06-04",
+    "endereco": {
+      "rua": "Setor Apollo da Cruz",
+      "numero": 6544,
+      "bairro": "Cdi Jatoba",
+      "cidade": "Sales de da Rosa",
+      "estado": "RN",
+      "cep": "99531-816"
+    }
+  },
+  {
+    "id": 386,
+    "titulo": "O Hobbit",
+    "autor": "Guimarães Rosa",
+    "genero": "Romance",
+    "preco": 106.2,
+    "quantidade": 5,
+    "data_venda": "2026-05-27",
+    "endereco": {
+      "rua": "Condomínio Sarah Almeida",
+      "numero": 1407,
+      "bairro": "Vila Nova Dos Milionarios",
+      "cidade": "Pereira",
+      "estado": "MT",
+      "cep": "44447761"
+    }
+  },
+  {
+    "id": 387,
+    "titulo": "O Hobbit",
+    "autor": "Guimarães Rosa",
+    "genero": "Aventura",
+    "preco": 66.55,
+    "quantidade": 1,
+    "data_venda": "2026-04-05",
+    "endereco": {
+      "rua": "Jardim Rocha",
+      "numero": 9841,
+      "bairro": "Vila Santa Rosa",
+      "cidade": "da Luz de Goiás",
+      "estado": "SC",
+      "cep": "12180-216"
+    }
+  },
+  {
+    "id": 388,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "Jorge Amado",
+    "genero": "Drama",
+    "preco": 34.44,
+    "quantidade": 3,
+    "data_venda": "2026-05-31",
+    "endereco": {
+      "rua": "Estação Eduarda Macedo",
+      "numero": 9434,
+      "bairro": "Álvaro Camargos",
+      "cidade": "Silva",
+      "estado": "PA",
+      "cep": "46532-751"
+    }
+  },
+  {
+    "id": 389,
+    "titulo": "Capitães da Areia",
+    "autor": "Machado de Assis",
+    "genero": "Fantasia",
+    "preco": 26.5,
+    "quantidade": 5,
+    "data_venda": "2026-04-27",
+    "endereco": {
+      "rua": "Travessa Garcia",
+      "numero": 1981,
+      "bairro": "Monte Azul",
+      "cidade": "Oliveira de Souza",
+      "estado": "AC",
+      "cep": "38389-901"
+    }
+  },
+  {
+    "id": 390,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "José de Alencar",
+    "genero": "Romance",
+    "preco": 117.24,
+    "quantidade": 4,
+    "data_venda": "2026-01-06",
+    "endereco": {
+      "rua": "Aeroporto Fogaça",
+      "numero": 6086,
+      "bairro": "Maravilha",
+      "cidade": "Dias",
+      "estado": "TO",
+      "cep": "68416-667"
+    }
+  },
+  {
+    "id": 391,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "Guimarães Rosa",
+    "genero": "Drama",
+    "preco": 106.24,
+    "quantidade": 3,
+    "data_venda": "2026-03-30",
+    "endereco": {
+      "rua": "Fazenda Guerra",
+      "numero": 3373,
+      "bairro": "Beija Flor",
+      "cidade": "Pimenta",
+      "estado": "SC",
+      "cep": "00838791"
+    }
+  },
+  {
+    "id": 392,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "Machado de Assis",
+    "genero": "Drama",
+    "preco": 78.56,
+    "quantidade": 2,
+    "data_venda": "2026-01-22",
+    "endereco": {
+      "rua": "Aeroporto Ravy Moreira",
+      "numero": 2677,
+      "bairro": "João Paulo Ii",
+      "cidade": "da Mota",
+      "estado": "BA",
+      "cep": "52733-212"
+    }
+  },
+  {
+    "id": 393,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Machado de Assis",
+    "genero": "Fantasia",
+    "preco": 71.9,
+    "quantidade": 5,
+    "data_venda": "2026-06-21",
+    "endereco": {
+      "rua": "Via Ana Peixoto",
+      "numero": 5911,
+      "bairro": "Penha",
+      "cidade": "Sousa do Galho",
+      "estado": "RS",
+      "cep": "50843-760"
+    }
+  },
+  {
+    "id": 394,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "J.K. Rowling",
+    "genero": "Romance",
+    "preco": 56.49,
+    "quantidade": 4,
+    "data_venda": "2026-05-20",
+    "endereco": {
+      "rua": "Esplanada de Correia",
+      "numero": 4672,
+      "bairro": "Mineirão",
+      "cidade": "Vieira da Praia",
+      "estado": "PE",
+      "cep": "00299-687"
+    }
+  },
+  {
+    "id": 395,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Machado de Assis",
+    "genero": "Drama",
+    "preco": 54.63,
+    "quantidade": 3,
+    "data_venda": "2026-03-25",
+    "endereco": {
+      "rua": "Quadra Santos",
+      "numero": 6664,
+      "bairro": "Nossa Senhora Do Rosário",
+      "cidade": "Costa",
+      "estado": "AL",
+      "cep": "51861-055"
+    }
+  },
+  {
+    "id": 396,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "José de Alencar",
+    "genero": "Drama",
+    "preco": 35.1,
+    "quantidade": 2,
+    "data_venda": "2026-06-20",
+    "endereco": {
+      "rua": "Vereda Cirino",
+      "numero": 9382,
+      "bairro": "Novo Santa Cecilia",
+      "cidade": "Correia Verde",
+      "estado": "PA",
+      "cep": "95761090"
+    }
+  },
+  {
+    "id": 397,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Drama",
+    "preco": 52.03,
+    "quantidade": 1,
+    "data_venda": "2026-03-05",
+    "endereco": {
+      "rua": "Rodovia de da Rocha",
+      "numero": 9137,
+      "bairro": "Vila Canto Do Sabiá",
+      "cidade": "Gomes",
+      "estado": "GO",
+      "cep": "53883-049"
+    }
+  },
+  {
+    "id": 398,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Guimarães Rosa",
+    "genero": "Romance",
+    "preco": 111.36,
+    "quantidade": 5,
+    "data_venda": "2026-06-04",
+    "endereco": {
+      "rua": "Viaduto Teixeira",
+      "numero": 3684,
+      "bairro": "Vila Da Luz",
+      "cidade": "Novais",
+      "estado": "SC",
+      "cep": "35584-767"
+    }
+  },
+  {
+    "id": 399,
+    "titulo": "Capitães da Areia",
+    "autor": "José de Alencar",
+    "genero": "Aventura",
+    "preco": 100.52,
+    "quantidade": 3,
+    "data_venda": "2026-04-18",
+    "endereco": {
+      "rua": "Alameda de Câmara",
+      "numero": 442,
+      "bairro": "Vila Jardim São José",
+      "cidade": "Castro da Serra",
+      "estado": "RR",
+      "cep": "90502994"
+    }
+  },
+  {
+    "id": 400,
+    "titulo": "A Moreninha",
+    "autor": "George Orwell",
+    "genero": "Romance",
+    "preco": 35.19,
+    "quantidade": 1,
+    "data_venda": "2026-04-19",
+    "endereco": {
+      "rua": "Vereda José Miguel da Cunha",
+      "numero": 2506,
+      "bairro": "Vila Santa Monica 1ª Seção",
+      "cidade": "Lopes do Norte",
+      "estado": "SE",
+      "cep": "17569851"
+    }
+  },
+  {
+    "id": 401,
+    "titulo": "A Moreninha",
+    "autor": "José de Alencar",
+    "genero": "Ficção Científica",
+    "preco": 110.03,
+    "quantidade": 2,
+    "data_venda": "2026-02-11",
+    "endereco": {
+      "rua": "Núcleo de Brito",
+      "numero": 6854,
+      "bairro": "São Bento",
+      "cidade": "da Luz",
+      "estado": "PE",
+      "cep": "51390714"
+    }
+  },
+  {
+    "id": 402,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Machado de Assis",
+    "genero": "Drama",
+    "preco": 97.76,
+    "quantidade": 4,
+    "data_venda": "2026-04-17",
+    "endereco": {
+      "rua": "Favela de Sampaio",
+      "numero": 3843,
+      "bairro": "Fernão Dias",
+      "cidade": "Rodrigues de Caldeira",
+      "estado": "PA",
+      "cep": "16070-620"
+    }
+  },
+  {
+    "id": 403,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "J.K. Rowling",
+    "genero": "Romance",
+    "preco": 51.2,
+    "quantidade": 4,
+    "data_venda": "2026-02-10",
+    "endereco": {
+      "rua": "Jardim Lucas Lima",
+      "numero": 1518,
+      "bairro": "São Tomaz",
+      "cidade": "Moreira de Goiás",
+      "estado": "RN",
+      "cep": "46094848"
+    }
+  },
+  {
+    "id": 404,
+    "titulo": "Capitães da Areia",
+    "autor": "José de Alencar",
+    "genero": "Fantasia",
+    "preco": 48.31,
+    "quantidade": 4,
+    "data_venda": "2026-03-31",
+    "endereco": {
+      "rua": "Conjunto de Rodrigues",
+      "numero": 2686,
+      "bairro": "Confisco",
+      "cidade": "Correia",
+      "estado": "AP",
+      "cep": "38671-513"
+    }
+  },
+  {
+    "id": 405,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Ficção Científica",
+    "preco": 46.19,
+    "quantidade": 4,
+    "data_venda": "2026-06-01",
+    "endereco": {
+      "rua": "Pátio de da Cruz",
+      "numero": 1922,
+      "bairro": "Rio Branco",
+      "cidade": "Peixoto das Flores",
+      "estado": "MT",
+      "cep": "00876915"
+    }
+  },
+  {
+    "id": 406,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Aventura",
+    "preco": 80.04,
+    "quantidade": 5,
+    "data_venda": "2026-03-14",
+    "endereco": {
+      "rua": "Avenida Gabrielly Brito",
+      "numero": 3447,
+      "bairro": "Leonina",
+      "cidade": "Vasconcelos do Galho",
+      "estado": "SC",
+      "cep": "51017-169"
+    }
+  },
+  {
+    "id": 407,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "Jorge Amado",
+    "genero": "Ficção Científica",
+    "preco": 52.04,
+    "quantidade": 3,
+    "data_venda": "2026-02-17",
+    "endereco": {
+      "rua": "Chácara Ayla Costa",
+      "numero": 9539,
+      "bairro": "Cabana Do Pai Tomás",
+      "cidade": "Pimenta",
+      "estado": "MT",
+      "cep": "02822-047"
+    }
+  },
+  {
+    "id": 408,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Jorge Amado",
+    "genero": "Drama",
+    "preco": 78.19,
+    "quantidade": 3,
+    "data_venda": "2026-06-13",
+    "endereco": {
+      "rua": "Estrada Ramos",
+      "numero": 9796,
+      "bairro": "Casa Branca",
+      "cidade": "da Mata de Lima",
+      "estado": "MT",
+      "cep": "75154-215"
+    }
+  },
+  {
+    "id": 409,
+    "titulo": "Capitães da Areia",
+    "autor": "Guimarães Rosa",
+    "genero": "Fantasia",
+    "preco": 82.32,
+    "quantidade": 2,
+    "data_venda": "2026-05-06",
+    "endereco": {
+      "rua": "Praia de Oliveira",
+      "numero": 4673,
+      "bairro": "Alta Tensão 2ª Seção",
+      "cidade": "Jesus",
+      "estado": "RN",
+      "cep": "08853-132"
+    }
+  },
+  {
+    "id": 410,
+    "titulo": "Dom Casmurro",
+    "autor": "George Orwell",
+    "genero": "Drama",
+    "preco": 118.51,
+    "quantidade": 3,
+    "data_venda": "2026-05-13",
+    "endereco": {
+      "rua": "Largo de Ribeiro",
+      "numero": 382,
+      "bairro": "Guaratã",
+      "cidade": "Gonçalves",
+      "estado": "PA",
+      "cep": "41318958"
+    }
+  },
+  {
+    "id": 411,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "George Orwell",
+    "genero": "Fantasia",
+    "preco": 76.06,
+    "quantidade": 3,
+    "data_venda": "2026-01-31",
+    "endereco": {
+      "rua": "Residencial Olivia Novais",
+      "numero": 9291,
+      "bairro": "Trevo",
+      "cidade": "Correia",
+      "estado": "SC",
+      "cep": "17835-872"
+    }
+  },
+  {
+    "id": 412,
+    "titulo": "1984",
+    "autor": "José de Alencar",
+    "genero": "Aventura",
+    "preco": 49.5,
+    "quantidade": 3,
+    "data_venda": "2026-01-18",
+    "endereco": {
+      "rua": "Campo de Carvalho",
+      "numero": 7840,
+      "bairro": "Conjunto Celso Machado",
+      "cidade": "Nascimento do Sul",
+      "estado": "MA",
+      "cep": "62134-919"
+    }
+  },
+  {
+    "id": 413,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.K. Rowling",
+    "genero": "Aventura",
+    "preco": 75.13,
+    "quantidade": 4,
+    "data_venda": "2026-03-11",
+    "endereco": {
+      "rua": "Avenida de Oliveira",
+      "numero": 9550,
+      "bairro": "Bairro Das Indústrias Ii",
+      "cidade": "da Cunha de Casa Grande",
+      "estado": "PE",
+      "cep": "31761272"
+    }
+  },
+  {
+    "id": 414,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "George Orwell",
+    "genero": "Drama",
+    "preco": 82.17,
+    "quantidade": 1,
+    "data_venda": "2026-03-18",
+    "endereco": {
+      "rua": "Vale Camila Gonçalves",
+      "numero": 2276,
+      "bairro": "Apolonia",
+      "cidade": "da Rosa",
+      "estado": "PB",
+      "cep": "60488340"
+    }
+  },
+  {
+    "id": 415,
+    "titulo": "1984",
+    "autor": "Guimarães Rosa",
+    "genero": "Drama",
+    "preco": 79.76,
+    "quantidade": 5,
+    "data_venda": "2026-06-12",
+    "endereco": {
+      "rua": "Setor de Câmara",
+      "numero": 7103,
+      "bairro": "Mariquinhas",
+      "cidade": "Viana",
+      "estado": "GO",
+      "cep": "48019-714"
+    }
+  },
+  {
+    "id": 416,
+    "titulo": "Dom Casmurro",
+    "autor": "Guimarães Rosa",
+    "genero": "Romance",
+    "preco": 61.97,
+    "quantidade": 2,
+    "data_venda": "2026-03-29",
+    "endereco": {
+      "rua": "Quadra Rodrigues",
+      "numero": 7247,
+      "bairro": "Cachoeirinha",
+      "cidade": "Almeida",
+      "estado": "AC",
+      "cep": "31167281"
+    }
+  },
+  {
+    "id": 417,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "José de Alencar",
+    "genero": "Aventura",
+    "preco": 81.18,
+    "quantidade": 1,
+    "data_venda": "2026-04-30",
+    "endereco": {
+      "rua": "Feira de da Cunha",
+      "numero": 4580,
+      "bairro": "Senhor Dos Passos",
+      "cidade": "Campos do Campo",
+      "estado": "AM",
+      "cep": "44999-379"
+    }
+  },
+  {
+    "id": 418,
+    "titulo": "A Moreninha",
+    "autor": "Guimarães Rosa",
+    "genero": "Aventura",
+    "preco": 87.21,
+    "quantidade": 4,
+    "data_venda": "2026-05-02",
+    "endereco": {
+      "rua": "Travessa Mirella Monteiro",
+      "numero": 2517,
+      "bairro": "Cachoeirinha",
+      "cidade": "Novaes do Sul",
+      "estado": "RJ",
+      "cep": "56970195"
+    }
+  },
+  {
+    "id": 419,
+    "titulo": "A Moreninha",
+    "autor": "George Orwell",
+    "genero": "Ficção Científica",
+    "preco": 39.33,
+    "quantidade": 3,
+    "data_venda": "2026-05-26",
+    "endereco": {
+      "rua": "Praça Nunes",
+      "numero": 5821,
+      "bairro": "Santo André",
+      "cidade": "Cavalcanti",
+      "estado": "PB",
+      "cep": "25277-802"
+    }
+  },
+  {
+    "id": 420,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Jorge Amado",
+    "genero": "Fantasia",
+    "preco": 44.31,
+    "quantidade": 2,
+    "data_venda": "2026-01-13",
+    "endereco": {
+      "rua": "Distrito de Macedo",
+      "numero": 1342,
+      "bairro": "Miramar",
+      "cidade": "Nascimento",
+      "estado": "PE",
+      "cep": "86868-773"
+    }
+  },
+  {
+    "id": 421,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "George Orwell",
+    "genero": "Aventura",
+    "preco": 26.09,
+    "quantidade": 5,
+    "data_venda": "2026-02-24",
+    "endereco": {
+      "rua": "Lago Barros",
+      "numero": 8486,
+      "bairro": "Vila Independencia 1ª Seção",
+      "cidade": "Nogueira da Prata",
+      "estado": "RJ",
+      "cep": "43495-545"
+    }
+  },
+  {
+    "id": 422,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Machado de Assis",
+    "genero": "Aventura",
+    "preco": 28.34,
+    "quantidade": 3,
+    "data_venda": "2026-05-01",
+    "endereco": {
+      "rua": "Praça Almeida",
+      "numero": 4042,
+      "bairro": "Vila Fumec",
+      "cidade": "Mendes do Galho",
+      "estado": "SC",
+      "cep": "55295-043"
+    }
+  },
+  {
+    "id": 423,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "George Orwell",
+    "genero": "Ficção Científica",
+    "preco": 92.88,
+    "quantidade": 1,
+    "data_venda": "2026-02-16",
+    "endereco": {
+      "rua": "Núcleo Vitor Hugo Porto",
+      "numero": 2672,
+      "bairro": "Serrano",
+      "cidade": "Alves",
+      "estado": "RN",
+      "cep": "04438-572"
+    }
+  },
+  {
+    "id": 424,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "Machado de Assis",
+    "genero": "Ficção Científica",
+    "preco": 90.97,
+    "quantidade": 4,
+    "data_venda": "2026-02-07",
+    "endereco": {
+      "rua": "Aeroporto Fogaça",
+      "numero": 6231,
+      "bairro": "Vila Madre Gertrudes 2ª Seção",
+      "cidade": "Rios",
+      "estado": "PA",
+      "cep": "23154877"
+    }
+  },
+  {
+    "id": 425,
+    "titulo": "Capitães da Areia",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "preco": 42.28,
+    "quantidade": 3,
+    "data_venda": "2026-02-17",
+    "endereco": {
+      "rua": "Sítio Cirino",
+      "numero": 4088,
+      "bairro": "Céu Azul",
+      "cidade": "da Conceição",
+      "estado": "SC",
+      "cep": "98345434"
+    }
+  },
+  {
+    "id": 426,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "J.K. Rowling",
+    "genero": "Aventura",
+    "preco": 35.55,
+    "quantidade": 4,
+    "data_venda": "2026-04-20",
+    "endereco": {
+      "rua": "Setor Evelyn Cunha",
+      "numero": 7041,
+      "bairro": "Ermelinda",
+      "cidade": "Pereira de Minas",
+      "estado": "SC",
+      "cep": "02484543"
+    }
+  },
+  {
+    "id": 427,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "George Orwell",
+    "genero": "Drama",
+    "preco": 58.09,
+    "quantidade": 3,
+    "data_venda": "2026-04-10",
+    "endereco": {
+      "rua": "Trecho de Sousa",
+      "numero": 267,
+      "bairro": "Europa",
+      "cidade": "Nogueira",
+      "estado": "CE",
+      "cep": "68962067"
+    }
+  },
+  {
+    "id": 428,
+    "titulo": "Capitães da Areia",
+    "autor": "José de Alencar",
+    "genero": "Aventura",
+    "preco": 32.57,
+    "quantidade": 4,
+    "data_venda": "2026-04-10",
+    "endereco": {
+      "rua": "Núcleo de Oliveira",
+      "numero": 6069,
+      "bairro": "Belmonte",
+      "cidade": "da Mata do Campo",
+      "estado": "AC",
+      "cep": "35799-818"
+    }
+  },
+  {
+    "id": 429,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Drama",
+    "preco": 109.99,
+    "quantidade": 5,
+    "data_venda": "2026-03-11",
+    "endereco": {
+      "rua": "Lago de Jesus",
+      "numero": 936,
+      "bairro": "Santo Agostinho",
+      "cidade": "Lima das Pedras",
+      "estado": "RJ",
+      "cep": "52536593"
+    }
+  },
+  {
+    "id": 430,
+    "titulo": "Dom Casmurro",
+    "autor": "Jorge Amado",
+    "genero": "Ficção Científica",
+    "preco": 101.04,
+    "quantidade": 3,
+    "data_venda": "2026-04-14",
+    "endereco": {
+      "rua": "Aeroporto Rocha",
+      "numero": 1790,
+      "bairro": "Mala E Cuia",
+      "cidade": "Nascimento",
+      "estado": "MG",
+      "cep": "32082096"
+    }
+  },
+  {
+    "id": 431,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "J.K. Rowling",
+    "genero": "Romance",
+    "preco": 78.97,
+    "quantidade": 5,
+    "data_venda": "2026-06-02",
+    "endereco": {
+      "rua": "Recanto de Fonseca",
+      "numero": 7966,
+      "bairro": "Vila Mantiqueira",
+      "cidade": "Almeida",
+      "estado": "BA",
+      "cep": "25436-966"
+    }
+  },
+  {
+    "id": 432,
+    "titulo": "A Moreninha",
+    "autor": "Guimarães Rosa",
+    "genero": "Romance",
+    "preco": 101.75,
+    "quantidade": 1,
+    "data_venda": "2026-04-10",
+    "endereco": {
+      "rua": "Trevo Pastor",
+      "numero": 2435,
+      "bairro": "Anchieta",
+      "cidade": "Sá do Galho",
+      "estado": "RN",
+      "cep": "19134-917"
+    }
+  },
+  {
+    "id": 433,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "George Orwell",
+    "genero": "Fantasia",
+    "preco": 43.25,
+    "quantidade": 4,
+    "data_venda": "2026-01-17",
+    "endereco": {
+      "rua": "Passarela Antony Lopes",
+      "numero": 2720,
+      "bairro": "Graça",
+      "cidade": "Melo da Prata",
+      "estado": "PE",
+      "cep": "64527-261"
+    }
+  },
+  {
+    "id": 434,
+    "titulo": "A Moreninha",
+    "autor": "Jorge Amado",
+    "genero": "Fantasia",
+    "preco": 83.36,
+    "quantidade": 2,
+    "data_venda": "2026-05-19",
+    "endereco": {
+      "rua": "Área Nascimento",
+      "numero": 4010,
+      "bairro": "Corumbiara",
+      "cidade": "Machado de Minas",
+      "estado": "PB",
+      "cep": "46537934"
+    }
+  },
+  {
+    "id": 435,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "George Orwell",
+    "genero": "Aventura",
+    "preco": 96.04,
+    "quantidade": 3,
+    "data_venda": "2026-03-08",
+    "endereco": {
+      "rua": "Quadra de Cavalcante",
+      "numero": 6410,
+      "bairro": "Confisco",
+      "cidade": "da Rocha",
+      "estado": "ES",
+      "cep": "12932-405"
+    }
+  },
+  {
+    "id": 436,
+    "titulo": "1984",
+    "autor": "J.K. Rowling",
+    "genero": "Romance",
+    "preco": 38.59,
+    "quantidade": 2,
+    "data_venda": "2026-05-18",
+    "endereco": {
+      "rua": "Lago Freitas",
+      "numero": 4532,
+      "bairro": "Flavio De Oliveira",
+      "cidade": "Vieira",
+      "estado": "RS",
+      "cep": "24878-500"
+    }
+  },
+  {
+    "id": 437,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "George Orwell",
+    "genero": "Drama",
+    "preco": 28.56,
+    "quantidade": 4,
+    "data_venda": "2026-01-14",
+    "endereco": {
+      "rua": "Ladeira Lucas Gabriel Fonseca",
+      "numero": 965,
+      "bairro": "Copacabana",
+      "cidade": "Borges",
+      "estado": "SC",
+      "cep": "68841380"
+    }
+  },
+  {
+    "id": 438,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "George Orwell",
+    "genero": "Fantasia",
+    "preco": 96.19,
+    "quantidade": 3,
+    "data_venda": "2026-06-08",
+    "endereco": {
+      "rua": "Viela Lima",
+      "numero": 6304,
+      "bairro": "Jardim Alvorada",
+      "cidade": "Abreu da Prata",
+      "estado": "MS",
+      "cep": "26586-277"
+    }
+  },
+  {
+    "id": 439,
+    "titulo": "1984",
+    "autor": "Machado de Assis",
+    "genero": "Drama",
+    "preco": 38.71,
+    "quantidade": 2,
+    "data_venda": "2026-06-16",
+    "endereco": {
+      "rua": "Aeroporto Carvalho",
+      "numero": 3539,
+      "bairro": "Palmeiras",
+      "cidade": "Melo das Flores",
+      "estado": "AL",
+      "cep": "10843967"
+    }
+  },
+  {
+    "id": 440,
+    "titulo": "1984",
+    "autor": "Machado de Assis",
+    "genero": "Romance",
+    "preco": 71.6,
+    "quantidade": 2,
+    "data_venda": "2026-06-21",
+    "endereco": {
+      "rua": "Área da Luz",
+      "numero": 8441,
+      "bairro": "Ipe",
+      "cidade": "Cunha",
+      "estado": "SP",
+      "cep": "53153662"
+    }
+  },
+  {
+    "id": 441,
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "genero": "Romance",
+    "preco": 116.17,
+    "quantidade": 2,
+    "data_venda": "2026-03-31",
+    "endereco": {
+      "rua": "Campo Dias",
+      "numero": 8484,
+      "bairro": "São José",
+      "cidade": "Pastor da Mata",
+      "estado": "SP",
+      "cep": "93795033"
+    }
+  },
+  {
+    "id": 442,
+    "titulo": "Dom Casmurro",
+    "autor": "Jorge Amado",
+    "genero": "Ficção Científica",
+    "preco": 80.34,
+    "quantidade": 4,
+    "data_venda": "2026-05-02",
+    "endereco": {
+      "rua": "Loteamento Bento Freitas",
+      "numero": 6907,
+      "bairro": "Vila Paquetá",
+      "cidade": "da Paz",
+      "estado": "AC",
+      "cep": "82984096"
+    }
+  },
+  {
+    "id": 443,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "Machado de Assis",
+    "genero": "Romance",
+    "preco": 32.7,
+    "quantidade": 1,
+    "data_venda": "2026-03-15",
+    "endereco": {
+      "rua": "Ladeira Maya Jesus",
+      "numero": 3955,
+      "bairro": "Vila Real 2ª Seção",
+      "cidade": "Rodrigues",
+      "estado": "RR",
+      "cep": "84278-032"
+    }
+  },
+  {
+    "id": 444,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Machado de Assis",
+    "genero": "Aventura",
+    "preco": 86.54,
+    "quantidade": 3,
+    "data_venda": "2026-03-12",
+    "endereco": {
+      "rua": "Vila de Cavalcanti",
+      "numero": 7406,
+      "bairro": "Vila Ipiranga",
+      "cidade": "Peixoto de Goiás",
+      "estado": "RO",
+      "cep": "97195-997"
+    }
+  },
+  {
+    "id": 445,
+    "titulo": "Dom Casmurro",
+    "autor": "J.K. Rowling",
+    "genero": "Drama",
+    "preco": 63.81,
+    "quantidade": 1,
+    "data_venda": "2026-06-19",
+    "endereco": {
+      "rua": "Aeroporto Sales",
+      "numero": 9603,
+      "bairro": "Nossa Senhora Da Conceição",
+      "cidade": "Garcia",
+      "estado": "RS",
+      "cep": "36335669"
+    }
+  },
+  {
+    "id": 446,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "Jorge Amado",
+    "genero": "Drama",
+    "preco": 95.47,
+    "quantidade": 2,
+    "data_venda": "2026-02-28",
+    "endereco": {
+      "rua": "Avenida Maitê Teixeira",
+      "numero": 7145,
+      "bairro": "Lagoinha Leblon",
+      "cidade": "Cardoso Paulista",
+      "estado": "RO",
+      "cep": "40463-932"
+    }
+  },
+  {
+    "id": 447,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "Guimarães Rosa",
+    "genero": "Romance",
+    "preco": 85.27,
+    "quantidade": 4,
+    "data_venda": "2026-04-26",
+    "endereco": {
+      "rua": "Largo de Campos",
+      "numero": 3182,
+      "bairro": "Santa Lúcia",
+      "cidade": "Moura das Pedras",
+      "estado": "TO",
+      "cep": "26884-304"
+    }
+  },
+  {
+    "id": 448,
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "genero": "Romance",
+    "preco": 84.27,
+    "quantidade": 2,
+    "data_venda": "2026-05-08",
+    "endereco": {
+      "rua": "Trevo Maria Isis Duarte",
+      "numero": 8181,
+      "bairro": "Vila Maria",
+      "cidade": "Aparecida",
+      "estado": "PR",
+      "cep": "32105662"
+    }
+  },
+  {
+    "id": 449,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "George Orwell",
+    "genero": "Romance",
+    "preco": 96.06,
+    "quantidade": 2,
+    "data_venda": "2026-05-09",
+    "endereco": {
+      "rua": "Residencial de Novaes",
+      "numero": 1596,
+      "bairro": "Jardinópolis",
+      "cidade": "Guerra de Costela",
+      "estado": "SE",
+      "cep": "88610124"
+    }
+  },
+  {
+    "id": 450,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "José de Alencar",
+    "genero": "Aventura",
+    "preco": 38.74,
+    "quantidade": 1,
+    "data_venda": "2026-06-02",
+    "endereco": {
+      "rua": "Distrito Raquel Oliveira",
+      "numero": 3207,
+      "bairro": "Nossa Senhora Da Conceição",
+      "cidade": "Vieira",
+      "estado": "RS",
+      "cep": "07399222"
+    }
+  },
+  {
+    "id": 451,
+    "titulo": "Dom Casmurro",
+    "autor": "José de Alencar",
+    "genero": "Fantasia",
+    "preco": 37.58,
+    "quantidade": 3,
+    "data_venda": "2026-04-11",
+    "endereco": {
+      "rua": "Trevo de Nunes",
+      "numero": 9623,
+      "bairro": "Vila Ipiranga",
+      "cidade": "Silveira de Minas",
+      "estado": "MG",
+      "cep": "51589121"
+    }
+  },
+  {
+    "id": 452,
+    "titulo": "A Moreninha",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "preco": 95.07,
+    "quantidade": 3,
+    "data_venda": "2026-01-20",
+    "endereco": {
+      "rua": "Estrada de Campos",
+      "numero": 9080,
+      "bairro": "Acaiaca",
+      "cidade": "da Luz",
+      "estado": "RN",
+      "cep": "88189989"
+    }
+  },
+  {
+    "id": 453,
+    "titulo": "Dom Casmurro",
+    "autor": "José de Alencar",
+    "genero": "Aventura",
+    "preco": 23.48,
+    "quantidade": 1,
+    "data_venda": "2026-03-25",
+    "endereco": {
+      "rua": "Rua Maria Clara Marques",
+      "numero": 4427,
+      "bairro": "Conjunto Novo Dom Bosco",
+      "cidade": "Pimenta",
+      "estado": "CE",
+      "cep": "27657-925"
+    }
+  },
+  {
+    "id": 454,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "José de Alencar",
+    "genero": "Fantasia",
+    "preco": 46.03,
+    "quantidade": 3,
+    "data_venda": "2026-06-06",
+    "endereco": {
+      "rua": "Vale Novaes",
+      "numero": 7818,
+      "bairro": "Ápia",
+      "cidade": "Fonseca",
+      "estado": "MA",
+      "cep": "83486-447"
+    }
+  },
+  {
+    "id": 455,
+    "titulo": "Capitães da Areia",
+    "autor": "Jorge Amado",
+    "genero": "Fantasia",
+    "preco": 56.96,
+    "quantidade": 3,
+    "data_venda": "2026-01-04",
+    "endereco": {
+      "rua": "Quadra Dom Carvalho",
+      "numero": 1122,
+      "bairro": "Granja De Freitas",
+      "cidade": "Casa Grande",
+      "estado": "SC",
+      "cep": "78626-349"
+    }
+  },
+  {
+    "id": 456,
+    "titulo": "O Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Aventura",
+    "preco": 75.81,
+    "quantidade": 3,
+    "data_venda": "2026-03-04",
+    "endereco": {
+      "rua": "Condomínio Ester Fernandes",
+      "numero": 5005,
+      "bairro": "Cruzeiro",
+      "cidade": "Viana",
+      "estado": "RO",
+      "cep": "80395-744"
+    }
+  },
+  {
+    "id": 457,
+    "titulo": "Capitães da Areia",
+    "autor": "Guimarães Rosa",
+    "genero": "Drama",
+    "preco": 101.64,
+    "quantidade": 3,
+    "data_venda": "2026-02-01",
+    "endereco": {
+      "rua": "Campo Nogueira",
+      "numero": 8790,
+      "bairro": "Vila São João Batista",
+      "cidade": "Aparecida de Cirino",
+      "estado": "SP",
+      "cep": "38764327"
+    }
+  },
+  {
+    "id": 458,
+    "titulo": "Dom Casmurro",
+    "autor": "J.K. Rowling",
+    "genero": "Drama",
+    "preco": 114.94,
+    "quantidade": 4,
+    "data_venda": "2026-03-20",
+    "endereco": {
+      "rua": "Ladeira Duarte",
+      "numero": 613,
+      "bairro": "Campo Alegre",
+      "cidade": "Marques da Prata",
+      "estado": "MG",
+      "cep": "90848-675"
+    }
+  },
+  {
+    "id": 459,
+    "titulo": "Capitães da Areia",
+    "autor": "José de Alencar",
+    "genero": "Ficção Científica",
+    "preco": 80.46,
+    "quantidade": 3,
+    "data_venda": "2026-03-05",
+    "endereco": {
+      "rua": "Viela Luiza Caldeira",
+      "numero": 6254,
+      "bairro": "Carmo",
+      "cidade": "Macedo",
+      "estado": "AL",
+      "cep": "55716-639"
+    }
+  },
+  {
+    "id": 460,
+    "titulo": "1984",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Ficção Científica",
+    "preco": 94.27,
+    "quantidade": 1,
+    "data_venda": "2026-02-21",
+    "endereco": {
+      "rua": "Sítio Kevin Rocha",
+      "numero": 2302,
+      "bairro": "Nova Cintra",
+      "cidade": "Montenegro Grande",
+      "estado": "DF",
+      "cep": "51013-453"
+    }
+  },
+  {
+    "id": 461,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "preco": 75.99,
+    "quantidade": 4,
+    "data_venda": "2026-01-20",
+    "endereco": {
+      "rua": "Favela Aragão",
+      "numero": 6912,
+      "bairro": "Confisco",
+      "cidade": "Fernandes",
+      "estado": "CE",
+      "cep": "69101172"
+    }
+  },
+  {
+    "id": 462,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Machado de Assis",
+    "genero": "Romance",
+    "preco": 41.56,
+    "quantidade": 4,
+    "data_venda": "2026-01-01",
+    "endereco": {
+      "rua": "Quadra Arthur Cirino",
+      "numero": 8013,
+      "bairro": "Vila Piratininga Venda Nova",
+      "cidade": "Moreira dos Dourados",
+      "estado": "RR",
+      "cep": "91506601"
+    }
+  },
+  {
+    "id": 463,
+    "titulo": "Dom Casmurro",
+    "autor": "Jorge Amado",
+    "genero": "Drama",
+    "preco": 70.99,
+    "quantidade": 5,
+    "data_venda": "2026-03-28",
+    "endereco": {
+      "rua": "Ladeira Daniela Lima",
+      "numero": 4775,
+      "bairro": "Vila Santo Antônio Barroquinha",
+      "cidade": "Moreira",
+      "estado": "DF",
+      "cep": "27194-777"
+    }
+  },
+  {
+    "id": 464,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "J.K. Rowling",
+    "genero": "Drama",
+    "preco": 47.97,
+    "quantidade": 5,
+    "data_venda": "2026-01-15",
+    "endereco": {
+      "rua": "Trecho de Rocha",
+      "numero": 5142,
+      "bairro": "Conjunto Serra Verde",
+      "cidade": "Pastor",
+      "estado": "RJ",
+      "cep": "69242727"
+    }
+  },
+  {
+    "id": 465,
+    "titulo": "A Moreninha",
+    "autor": "George Orwell",
+    "genero": "Aventura",
+    "preco": 76.85,
+    "quantidade": 3,
+    "data_venda": "2026-05-19",
+    "endereco": {
+      "rua": "Campo de da Luz",
+      "numero": 1053,
+      "bairro": "Engenho Nogueira",
+      "cidade": "Vieira",
+      "estado": "TO",
+      "cep": "62501-417"
+    }
+  },
+  {
+    "id": 466,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "preco": 94.92,
+    "quantidade": 1,
+    "data_venda": "2026-06-17",
+    "endereco": {
+      "rua": "Passarela Theo Mendonça",
+      "numero": 8980,
+      "bairro": "Vila Dos Anjos",
+      "cidade": "Cunha",
+      "estado": "SC",
+      "cep": "97776-760"
+    }
+  },
+  {
+    "id": 467,
+    "titulo": "Dom Casmurro",
+    "autor": "J.K. Rowling",
+    "genero": "Fantasia",
+    "preco": 108.38,
+    "quantidade": 3,
+    "data_venda": "2026-02-12",
+    "endereco": {
+      "rua": "Núcleo Andrade",
+      "numero": 6848,
+      "bairro": "Vila Maloca",
+      "cidade": "Fogaça",
+      "estado": "RS",
+      "cep": "86467261"
+    }
+  },
+  {
+    "id": 468,
+    "titulo": "O Hobbit",
+    "autor": "J.K. Rowling",
+    "genero": "Drama",
+    "preco": 40.47,
+    "quantidade": 1,
+    "data_venda": "2026-05-13",
+    "endereco": {
+      "rua": "Distrito Vicente da Conceição",
+      "numero": 3207,
+      "bairro": "Marajó",
+      "cidade": "da Cruz",
+      "estado": "RR",
+      "cep": "18180-313"
+    }
+  },
+  {
+    "id": 469,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "José de Alencar",
+    "genero": "Aventura",
+    "preco": 117.46,
+    "quantidade": 2,
+    "data_venda": "2026-04-05",
+    "endereco": {
+      "rua": "Loteamento Lopes",
+      "numero": 7718,
+      "bairro": "Vila Aeroporto",
+      "cidade": "Correia de Montenegro",
+      "estado": "BA",
+      "cep": "48660297"
+    }
+  },
+  {
+    "id": 470,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Jorge Amado",
+    "genero": "Aventura",
+    "preco": 36.17,
+    "quantidade": 4,
+    "data_venda": "2026-02-18",
+    "endereco": {
+      "rua": "Praia de Nunes",
+      "numero": 102,
+      "bairro": "Luxemburgo",
+      "cidade": "Barros",
+      "estado": "PA",
+      "cep": "36574503"
+    }
+  },
+  {
+    "id": 471,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "George Orwell",
+    "genero": "Drama",
+    "preco": 82.98,
+    "quantidade": 4,
+    "data_venda": "2026-02-13",
+    "endereco": {
+      "rua": "Passarela de Mendonça",
+      "numero": 2408,
+      "bairro": "Vila Betânia",
+      "cidade": "das Neves",
+      "estado": "SP",
+      "cep": "35131-744"
+    }
+  },
+  {
+    "id": 472,
+    "titulo": "Capitães da Areia",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Romance",
+    "preco": 109.47,
+    "quantidade": 1,
+    "data_venda": "2026-01-12",
+    "endereco": {
+      "rua": "Setor de Pinto",
+      "numero": 3206,
+      "bairro": "Mangueiras",
+      "cidade": "Abreu",
+      "estado": "PI",
+      "cep": "52324-938"
+    }
+  },
+  {
+    "id": 473,
+    "titulo": "Dom Casmurro",
+    "autor": "Jorge Amado",
+    "genero": "Aventura",
+    "preco": 74.84,
+    "quantidade": 5,
+    "data_venda": "2026-06-16",
+    "endereco": {
+      "rua": "Avenida Novaes",
+      "numero": 7270,
+      "bairro": "Jardim Guanabara",
+      "cidade": "Costa",
+      "estado": "TO",
+      "cep": "96019-794"
+    }
+  },
+  {
+    "id": 474,
+    "titulo": "Capitães da Areia",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Drama",
+    "preco": 55.68,
+    "quantidade": 5,
+    "data_venda": "2026-05-31",
+    "endereco": {
+      "rua": "Residencial de Correia",
+      "numero": 4602,
+      "bairro": "Apolonia",
+      "cidade": "Araújo de Ribeiro",
+      "estado": "GO",
+      "cep": "46334-533"
+    }
+  },
+  {
+    "id": 475,
+    "titulo": "Capitães da Areia",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Aventura",
+    "preco": 108.97,
+    "quantidade": 3,
+    "data_venda": "2026-03-02",
+    "endereco": {
+      "rua": "Favela de Pastor",
+      "numero": 5038,
+      "bairro": "Dom Silverio",
+      "cidade": "Fonseca do Oeste",
+      "estado": "PE",
+      "cep": "53434439"
+    }
+  },
+  {
+    "id": 476,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "Guimarães Rosa",
+    "genero": "Ficção Científica",
+    "preco": 49.17,
+    "quantidade": 1,
+    "data_venda": "2026-05-27",
+    "endereco": {
+      "rua": "Conjunto Davi Lucas da Conceição",
+      "numero": 6519,
+      "bairro": "São Gabriel",
+      "cidade": "Viana de Minas",
+      "estado": "TO",
+      "cep": "78958684"
+    }
+  },
+  {
+    "id": 477,
+    "titulo": "A Moreninha",
+    "autor": "George Orwell",
+    "genero": "Fantasia",
+    "preco": 59.46,
+    "quantidade": 4,
+    "data_venda": "2026-06-19",
+    "endereco": {
+      "rua": "Aeroporto Campos",
+      "numero": 7849,
+      "bairro": "Vila Trinta E Um De Março",
+      "cidade": "da Mota",
+      "estado": "PR",
+      "cep": "95395-471"
+    }
+  },
+  {
+    "id": 478,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Guimarães Rosa",
+    "genero": "Aventura",
+    "preco": 23.71,
+    "quantidade": 4,
+    "data_venda": "2026-03-31",
+    "endereco": {
+      "rua": "Vila Gael da Conceição",
+      "numero": 4171,
+      "bairro": "Maria Goretti",
+      "cidade": "Santos",
+      "estado": "GO",
+      "cep": "28073-276"
+    }
+  },
+  {
+    "id": 479,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Ficção Científica",
+    "preco": 27.8,
+    "quantidade": 5,
+    "data_venda": "2026-03-24",
+    "endereco": {
+      "rua": "Parque Antony das Neves",
+      "numero": 2560,
+      "bairro": "Mangabeiras",
+      "cidade": "Fernandes",
+      "estado": "RN",
+      "cep": "57705-449"
+    }
+  },
+  {
+    "id": 480,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "preco": 118.73,
+    "quantidade": 4,
+    "data_venda": "2026-04-05",
+    "endereco": {
+      "rua": "Viela de Barros",
+      "numero": 203,
+      "bairro": "Santa Sofia",
+      "cidade": "Jesus",
+      "estado": "PI",
+      "cep": "28321-079"
+    }
+  },
+  {
+    "id": 481,
+    "titulo": "Capitães da Areia",
+    "autor": "Machado de Assis",
+    "genero": "Romance",
+    "preco": 30.02,
+    "quantidade": 1,
+    "data_venda": "2026-03-08",
+    "endereco": {
+      "rua": "Passarela João Vitor Dias",
+      "numero": 5859,
+      "bairro": "Havaí",
+      "cidade": "Cavalcante",
+      "estado": "GO",
+      "cep": "97929362"
+    }
+  },
+  {
+    "id": 482,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "George Orwell",
+    "genero": "Ficção Científica",
+    "preco": 59.2,
+    "quantidade": 3,
+    "data_venda": "2026-04-26",
+    "endereco": {
+      "rua": "Conjunto Souza",
+      "numero": 81,
+      "bairro": "Monte São José",
+      "cidade": "Leão",
+      "estado": "BA",
+      "cep": "35525-172"
+    }
+  },
+  {
+    "id": 483,
+    "titulo": "Dom Casmurro",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "preco": 105.97,
+    "quantidade": 1,
+    "data_venda": "2026-05-21",
+    "endereco": {
+      "rua": "Viela de Vasconcelos",
+      "numero": 7915,
+      "bairro": "Saudade",
+      "cidade": "Cardoso de Pereira",
+      "estado": "AP",
+      "cep": "19348593"
+    }
+  },
+  {
+    "id": 484,
+    "titulo": "Capitães da Areia",
+    "autor": "Jorge Amado",
+    "genero": "Romance",
+    "preco": 107.58,
+    "quantidade": 3,
+    "data_venda": "2026-05-28",
+    "endereco": {
+      "rua": "Praia da Rocha",
+      "numero": 4410,
+      "bairro": "Silveira",
+      "cidade": "Souza do Sul",
+      "estado": "RN",
+      "cep": "20658-752"
+    }
+  },
+  {
+    "id": 485,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "José de Alencar",
+    "genero": "Fantasia",
+    "preco": 55.69,
+    "quantidade": 5,
+    "data_venda": "2026-03-04",
+    "endereco": {
+      "rua": "Núcleo Castro",
+      "numero": 1020,
+      "bairro": "Vila Copasa",
+      "cidade": "Mendonça",
+      "estado": "AL",
+      "cep": "39079732"
+    }
+  },
+  {
+    "id": 486,
+    "titulo": "O Hobbit",
+    "autor": "George Orwell",
+    "genero": "Romance",
+    "preco": 35.73,
+    "quantidade": 5,
+    "data_venda": "2026-05-21",
+    "endereco": {
+      "rua": "Trecho Campos",
+      "numero": 4663,
+      "bairro": "Laranjeiras",
+      "cidade": "Teixeira de Minas",
+      "estado": "AL",
+      "cep": "34528-078"
+    }
+  },
+  {
+    "id": 487,
+    "titulo": "Capitães da Areia",
+    "autor": "Machado de Assis",
+    "genero": "Ficção Científica",
+    "preco": 119.58,
+    "quantidade": 1,
+    "data_venda": "2026-06-05",
+    "endereco": {
+      "rua": "Avenida de Martins",
+      "numero": 4523,
+      "bairro": "Vila Suzana Segunda Seção",
+      "cidade": "Gonçalves Paulista",
+      "estado": "AP",
+      "cep": "41117230"
+    }
+  },
+  {
+    "id": 488,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "George Orwell",
+    "genero": "Drama",
+    "preco": 107.98,
+    "quantidade": 2,
+    "data_venda": "2026-03-24",
+    "endereco": {
+      "rua": "Colônia Bianca Alves",
+      "numero": 7317,
+      "bairro": "São Jorge 1ª Seção",
+      "cidade": "Cunha",
+      "estado": "SE",
+      "cep": "62570816"
+    }
+  },
+  {
+    "id": 489,
+    "titulo": "Capitães da Areia",
+    "autor": "Guimarães Rosa",
+    "genero": "Fantasia",
+    "preco": 100.12,
+    "quantidade": 1,
+    "data_venda": "2026-03-01",
+    "endereco": {
+      "rua": "Residencial de Campos",
+      "numero": 1109,
+      "bairro": "Vila Pinho",
+      "cidade": "Brito",
+      "estado": "RS",
+      "cep": "74852503"
+    }
+  },
+  {
+    "id": 490,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Guimarães Rosa",
+    "genero": "Drama",
+    "preco": 109.91,
+    "quantidade": 4,
+    "data_venda": "2026-01-14",
+    "endereco": {
+      "rua": "Recanto Bento Garcia",
+      "numero": 6971,
+      "bairro": "Vila União",
+      "cidade": "Vieira do Galho",
+      "estado": "AP",
+      "cep": "99196-660"
+    }
+  },
+  {
+    "id": 491,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "José de Alencar",
+    "genero": "Romance",
+    "preco": 59.39,
+    "quantidade": 4,
+    "data_venda": "2026-06-19",
+    "endereco": {
+      "rua": "Lago Moura",
+      "numero": 484,
+      "bairro": "Prado",
+      "cidade": "Moraes",
+      "estado": "PA",
+      "cep": "93790014"
+    }
+  },
+  {
+    "id": 492,
+    "titulo": "A Moreninha",
+    "autor": "Jorge Amado",
+    "genero": "Ficção Científica",
+    "preco": 26.69,
+    "quantidade": 4,
+    "data_venda": "2026-05-06",
+    "endereco": {
+      "rua": "Favela Carvalho",
+      "numero": 5390,
+      "bairro": "Custodinha",
+      "cidade": "das Neves das Pedras",
+      "estado": "ES",
+      "cep": "01242873"
+    }
+  },
+  {
+    "id": 493,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "Machado de Assis",
+    "genero": "Drama",
+    "preco": 73.94,
+    "quantidade": 2,
+    "data_venda": "2026-01-26",
+    "endereco": {
+      "rua": "Setor de Monteiro",
+      "numero": 6690,
+      "bairro": "Vila Oeste",
+      "cidade": "Novais",
+      "estado": "RR",
+      "cep": "25158-034"
+    }
+  },
+  {
+    "id": 494,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "Guimarães Rosa",
+    "genero": "Aventura",
+    "preco": 109.67,
+    "quantidade": 4,
+    "data_venda": "2026-06-06",
+    "endereco": {
+      "rua": "Ladeira Pimenta",
+      "numero": 620,
+      "bairro": "Aguas Claras",
+      "cidade": "Novais do Oeste",
+      "estado": "RJ",
+      "cep": "10491-381"
+    }
+  },
+  {
+    "id": 495,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Ficção Científica",
+    "preco": 110.34,
+    "quantidade": 2,
+    "data_venda": "2026-05-17",
+    "endereco": {
+      "rua": "Pátio Abreu",
+      "numero": 521,
+      "bairro": "Juliana",
+      "cidade": "Araújo da Prata",
+      "estado": "RJ",
+      "cep": "18093-399"
+    }
+  },
+  {
+    "id": 496,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Drama",
+    "preco": 27.86,
+    "quantidade": 4,
+    "data_venda": "2026-02-17",
+    "endereco": {
+      "rua": "Sítio Julia Nunes",
+      "numero": 1773,
+      "bairro": "Savassi",
+      "cidade": "Montenegro",
+      "estado": "BA",
+      "cep": "88907814"
+    }
+  },
+  {
+    "id": 497,
+    "titulo": "Capitães da Areia",
+    "autor": "J.K. Rowling",
+    "genero": "Ficção Científica",
+    "preco": 99.87,
+    "quantidade": 3,
+    "data_venda": "2026-01-19",
+    "endereco": {
+      "rua": "Vale Brito",
+      "numero": 6991,
+      "bairro": "Carlos Prates",
+      "cidade": "Brito",
+      "estado": "RO",
+      "cep": "27367896"
+    }
+  },
+  {
+    "id": 498,
+    "titulo": "A Moreninha",
+    "autor": "Guimarães Rosa",
+    "genero": "Romance",
+    "preco": 104.46,
+    "quantidade": 4,
+    "data_venda": "2026-02-14",
+    "endereco": {
+      "rua": "Esplanada de da Cruz",
+      "numero": 125,
+      "bairro": "Bom Jesus",
+      "cidade": "Marques de Goiás",
+      "estado": "TO",
+      "cep": "43834-259"
+    }
+  },
+  {
+    "id": 499,
+    "titulo": "A Moreninha",
+    "autor": "José de Alencar",
+    "genero": "Fantasia",
+    "preco": 90.63,
+    "quantidade": 3,
+    "data_venda": "2026-06-15",
+    "endereco": {
+      "rua": "Estrada Ana Carolina da Paz",
+      "numero": 5227,
+      "bairro": "Andiroba",
+      "cidade": "da Conceição",
+      "estado": "PI",
+      "cep": "88208-708"
+    }
+  },
+  {
+    "id": 500,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "Jorge Amado",
+    "genero": "Romance",
+    "preco": 90.49,
+    "quantidade": 3,
+    "data_venda": "2026-01-18",
+    "endereco": {
+      "rua": "Alameda de Rocha",
+      "numero": 9964,
+      "bairro": "Piraja",
+      "cidade": "Nogueira",
+      "estado": "RS",
+      "cep": "81998817"
+    }
+  }
+]
