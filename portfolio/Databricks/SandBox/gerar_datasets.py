@@ -5,8 +5,7 @@ from faker import Faker
 
 fake = Faker('pt_BR')
 
-# ---------- JSON de vendas de livros ----------
-livros = []
+# ---------- JSON lines de vendas de livros ----------
 titulos = [
     "O Senhor dos Anéis", "Dom Casmurro", "1984", "A Revolução dos Bichos",
     "Harry Potter e a Pedra Filosofal", "Grande Sertão: Veredas", "O Hobbit",
@@ -18,28 +17,26 @@ autores = [
 ]
 generos = ["Fantasia", "Romance", "Ficção Científica", "Drama", "Aventura"]
 
-for i in range(1, 501):
-    livro = {
-        "id": i,
-        "titulo": random.choice(titulos),
-        "autor": random.choice(autores),
-        "genero": random.choice(generos),
-        "preco": round(random.uniform(20, 120), 2),
-        "quantidade": random.randint(1, 5),
-        "data_venda": fake.date_this_year().isoformat(),
-        "endereco": {
-            "rua": fake.street_name(),
-            "numero": random.randint(1, 9999),
-            "bairro": fake.bairro(),
-            "cidade": fake.city(),
-            "estado": fake.estado_sigla(),
-            "cep": fake.postcode()
-        }
-    }
-    livros.append(livro)
-
 with open("livros.json", "w", encoding="utf-8") as f:
-    json.dump(livros, f, ensure_ascii=False, indent=2)
+    for i in range(1, 501):
+        livro = {
+            "id": i,
+            "titulo": random.choice(titulos),
+            "autor": random.choice(autores),
+            "genero": random.choice(generos),
+            "preco": round(random.uniform(20, 120), 2),
+            "quantidade": random.randint(1, 5),
+            "data_venda": fake.date_this_year().isoformat(),
+            "endereco": {
+                "rua": fake.street_name(),
+                "numero": random.randint(1, 9999),
+                "bairro": fake.bairro(),
+                "cidade": fake.city(),
+                "estado": fake.estado_sigla(),
+                "cep": fake.postcode()
+            }
+        }
+        f.write(json.dumps(livro, ensure_ascii=False) + "\n")
 
 # ---------- CSV de endereços brasileiros ----------
 with open("enderecos.csv", "w", newline="", encoding="utf-8") as f:
@@ -56,4 +53,4 @@ with open("enderecos.csv", "w", newline="", encoding="utf-8") as f:
             fake.postcode()
         ])
 
-print("Arquivos gerados: livros.json (500 registros) e enderecos.csv (1000 linhas)")
+print("Arquivos gerados: livros.json (500 registros em JSON lines) e enderecos.csv (1000 linhas)")
