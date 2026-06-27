@@ -1,0 +1,16 @@
+resources:
+  jobs:
+    JobTraining:
+      name: JobTraining
+      tasks:
+        - task_key: task1
+          notebook_task:
+            notebook_path: /Workspace/Users/henrique.sza.oliveira@gmail.com/GitHub/portfolio/Databricks/notebooks/2
+              - ETL Notebook
+            source: WORKSPACE
+          environment_key: Default
+      environments:
+        - environment_key: Default
+          spec:
+            environment_version: "5"
+      performance_target: PERFORMANCE_OPTIMIZED
