@@ -1,0 +1,15 @@
+{"finished_at": "2024-08-07T00:04:52.767830", "job_id": "job1", "pool_id": "pool-r6.xlarge-us-east-1c", "status": "SUCCESS", "reason": ""}
+{"finished_at": "2024-08-07T00:05:52.767830", "job_id": "job2", "pool_id": "pool-r6.xlarge-us-east-1c", "status": "FAILED", "reason": "SPOT_INSTANCE_TERMINATION"}
+{"finished_at": "2024-08-07T00:06:52.767830", "job_id": "job3", "pool_id": "pool-c6.xlarge-us-east-1a", "status": "SUCCESS", "reason": ""}
+{"finished_at": "2024-08-07T00:04:52.767830", "job_id": "job4", "pool_id": "pool-r6.xlarge-us-east-1c", "status": "SUCCESS", "reason": ""}
+{"finished_at": "2024-08-07T00:05:52.767830", "job_id": "job5", "pool_id": "pool-r6.xlarge-us-east-1c", "status": "FAILED", "reason": "SPOT_INSTANCE_TERMINATION"}
+{"finished_at": "2024-08-07T00:06:52.767830", "job_id": "job6", "pool_id": "pool-c6.xlarge-us-east-1a", "status": "SUCCESS", "reason": ""}
+{"finished_at": "2024-08-07T00:04:52.767830", "job_id": "job7", "pool_id": "pool-r6.xlarge-us-east-1c", "status": "SUCCESS", "reason": ""}
+{"finished_at": "2024-08-07T00:05:52.767830", "job_id": "job8", "pool_id": "pool-r6.xlarge-us-east-1c", "status": "FAILED", "reason": "SPOT_INSTANCE_TERMINATION"}
+{"finished_at": "2024-08-07T00:06:52.767830", "job_id": "job9", "pool_id": "pool-c6.xlarge-us-east-1a", "status": "SUCCESS", "reason": ""}
+{"finished_at": "2024-08-07T00:04:52.767830", "job_id": "job10", "pool_id": "pool-r6.xlarge-us-east-1c", "status": "SUCCESS", "reason": ""}
+{"finished_at": "2024-08-07T00:05:52.767830", "job_id": "job11", "pool_id": "pool-r6.xlarge-us-east-1c", "status": "FAILED", "reason": "SPOT_INSTANCE_TERMINATION"}
+{"finished_at": "2024-08-07T00:06:52.767830", "job_id": "job12", "pool_id": "pool-c6.xlarge-us-east-1a", "status": "SUCCESS", "reason": ""}
+{"finished_at": "2024-08-07T00:04:52.767830", "job_id": "job13", "pool_id": "pool-r6.xlarge-us-east-1c", "status": "SUCCESS", "reason": ""}
+{"finished_at": "2024-08-07T00:05:52.767830", "job_id": "job14", "pool_id": "pool-r6.xlarge-us-east-1c", "status": "FAILED", "reason": "SPOT_INSTANCE_TERMINATION"}
+{"finished_at": "2024-08-07T00:06:52.767830", "job_id": "job15", "pool_id": "pool-c6.xlarge-us-east-1a", "status": "SUCCESS", "reason": ""}
