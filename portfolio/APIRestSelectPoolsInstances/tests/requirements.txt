@@ -1,2 +1,6 @@
+fastapi
+uvicorn[standard]
+pandas
+boto3
 pytest
 pytest-cov
