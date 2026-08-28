@@ -1,0 +1,1001 @@
+id,rua,numero,bairro,cidade,estado,cep
+1,Sítio Costa,1524,Vila Da Amizade,Macedo de Goiás,PA,16249-490
+2,Feira de Teixeira,5407,Lourdes,Câmara,MA,33608-735
+3,Praça de Caldeira,5546,Aarão Reis,Souza,SP,33154688
+4,Alameda Bryan Ribeiro,3383,Silveira,Albuquerque da Serra,SE,70694150
+5,Largo de Brito,8086,Lourdes,Sá das Flores,CE,93903-653
+6,Estrada de Azevedo,3831,Marieta 2ª Seção,Campos,SE,29852907
+7,Via Vitor Gabriel Barros,5101,Vila Paraíso,Mendes de Pacheco,BA,91683554
+8,Recanto Vitor Hugo Cassiano,7765,São Geraldo,Costela,SE,26804240
+9,Avenida Elisa Moraes,6614,Coração De Jesus,Andrade de Goiás,RS,35258-677
+10,Pátio Yasmin da Paz,1337,Mirtes,Mendonça de da Rosa,RJ,84213610
+11,Viaduto Matheus Pimenta,8272,São Marcos,Santos Verde,TO,55503468
+12,Estação Pietro Pinto,3932,Vila Primeiro De Maio,Pires de da Cruz,RS,08239494
+13,Largo Olivia Azevedo,8186,Vila Paraíso,Cassiano do Galho,MG,28092-095
+14,Trevo de Cardoso,146,Itaipu,Guerra,MT,36255-180
+15,Fazenda Ramos,4844,Juliana,Teixeira,MG,33840612
+16,Praia de Novais,7410,Vila São João Batista,Vieira dos Dourados,MT,66527-796
+17,Viaduto de Sales,140,Vila São Rafael,Porto de Ferreira,MT,93520002
+18,Campo Vasconcelos,5862,Liberdade,Gomes,SP,66710-562
+19,Residencial de Abreu,4112,Jardim América,Monteiro,PI,55546-545
+20,Via de da Costa,256,Dom Bosco,Marques do Sul,MG,51753490
+21,Chácara de da Luz,9855,Jardim Felicidade,Moura,PE,38185-769
+22,Trevo Pietro Garcia,6007,Alto Barroca,da Cunha,SE,34781-202
+23,Campo Igor Rios,2270,Embaúbas,Gomes,AP,86101258
+24,Avenida Marques,4827,Glória,da Conceição do Sul,PA,68142677
+25,Trecho de Melo,4610,Castanheira,Sales,SP,07402-994
+26,Condomínio Cassiano,3901,Conjunto Capitão Eduardo,Caldeira,RN,81502-974
+27,Estrada de Pereira,9305,Padre Eustáquio,Martins,MA,01786801
+28,Ladeira de Souza,5654,Guaratã,Pacheco de Minas,AM,02781133
+29,Travessa Martins,7155,Saudade,Pimenta,AM,56542-870
+30,Recanto Rios,5211,Guarani,Farias,BA,09603-291
+31,Vale de Sales,4824,Teixeira Dias,Borges,RO,69094016
+32,Praça de Ramos,2552,Vila Sumaré,Costa,BA,35674-986
+33,Alameda Siqueira,7264,Vila Rica,Araújo,AP,04632-666
+34,Sítio de Pires,9098,Alípio De Melo,Montenegro do Galho,PI,56650736
+35,Travessa Andrade,884,Jardim Montanhês,Alves,RR,46662824
+36,Morro Kaique Casa Grande,9910,São Bento,Pimenta Verde,TO,60409-534
+37,Quadra Guerra,1225,Vila Cemig,Moraes Paulista,PA,21196-289
+38,Distrito de Vargas,5423,Rio Branco,Correia,SP,12674-090
+39,Travessa Gonçalves,6417,Pongelupe,Cunha,RO,76075-919
+40,Vale Noah Sampaio,322,Santa Cecilia,Brito,AP,37100-752
+41,Lago Vinicius Vieira,3071,Providencia,da Rosa da Prata,PR,78485-637
+42,Vale de Azevedo,2035,Bairro Das Indústrias Ii,Farias dos Dourados,DF,75465-542
+43,Praça Léo da Luz,7629,Marieta 2ª Seção,Sales,MT,06806-128
+44,Praia Porto,1545,Minas Brasil,Santos,PE,64323843
+45,Passarela de Rodrigues,1926,Granja Werneck,da Luz do Campo,PB,57374-446
+46,Vila de da Cruz,8851,Vale Do Jatoba,Azevedo,MT,12190-025
+47,Largo Rios,8876,Xodo-Marize,Almeida,ES,76126787
+48,Conjunto Eloah Siqueira,561,São Benedito,Ramos das Pedras,RR,00203983
+49,Feira de Gonçalves,4638,Vila Jardim Leblon,Nunes do Oeste,AL,35394-352
+50,Travessa Hellena Brito,5601,Calafate,Leão,PA,72662182
+51,Alameda de Pires,9115,São Jorge 3ª Seção,Vieira de Barbosa,RR,66348881
+52,Ladeira da Luz,5682,Sport Club,Machado de Silva,SE,79937053
+53,Núcleo Azevedo,2089,Boa Esperança,Souza de da Luz,MT,37680332
+54,Largo de Fernandes,4188,Embaúbas,Lima,PB,81293-440
+55,Praia de Souza,1076,Grajaú,Barbosa,MA,63061-336
+56,Vereda Maria Cecília Cassiano,5421,Ernesto Nascimento,Mendes das Flores,RO,24144531
+57,Largo Lopes,8164,Novo Glória,Costa,MS,07598-184
+58,Favela Peixoto,5541,Vila Santa Rosa,Novaes,PB,97362054
+59,Passarela Ryan Ribeiro,4942,Palmeiras,Nunes,RR,97934-271
+60,Trecho de Pacheco,9072,Horto Florestal,Casa Grande,PB,23904-576
+61,Vale Nascimento,5576,São Gonçalo,Viana,PA,05261-748
+62,Estrada Mirella Campos,5027,Embaúbas,Caldeira do Sul,PR,54424521
+63,Lagoa Nathan Machado,6730,Vila Piratininga,Cardoso do Oeste,RR,41577-399
+64,Vila Fonseca,2927,Conjunto Jardim Filadélfia,Novaes de Minas,MG,99053370
+65,Esplanada de Sampaio,2174,Ápia,Rodrigues do Campo,PR,05990-394
+66,Parque de Montenegro,2966,Jaraguá,Ferreira,GO,41719-768
+67,Ladeira de Oliveira,7658,Mangueiras,Costela de Garcia,SC,86223569
+68,Avenida Eloá Pimenta,3979,Vila Tirol,Moreira,PB,95266836
+69,Feira de da Mata,313,Jardim São José,Moraes,RR,73128431
+70,Vereda Leandro Rocha,4116,Vila Paraíso,Gonçalves do Sul,MG,00123917
+71,Vila Caleb Brito,136,Flavio Marques Lisboa,Marques,MS,55382160
+72,Esplanada Daniela Cirino,4335,Vila Jardim Leblon,Farias da Mata,DF,03540-992
+73,Viela de Vasconcelos,3135,Vila Real 2ª Seção,da Rosa,RJ,75051-021
+74,Viaduto de Jesus,7801,Bacurau,Porto,SC,89575427
+75,Condomínio Noah da Mata,7987,Luxemburgo,Ferreira,MT,12225433
+76,Fazenda de Rios,6918,Penha,Oliveira,AC,80144-097
+77,Loteamento de Pimenta,3119,Marieta 3ª Seção,Araújo,RJ,07777064
+78,Viaduto Azevedo,9784,Vila Real 1ª Seção,Novais de da Costa,RR,04006877
+79,Trevo Juliana Dias,73,Taquaril,Vasconcelos da Prata,BA,60569-202
+80,Morro Nascimento,1740,Marieta 2ª Seção,Castro de Fogaça,AC,50873262
+81,Loteamento André Almeida,6184,Vila Nova Gameleira 2ª Seção,Ramos do Galho,MS,30182-711
+82,Aeroporto Ester Teixeira,6933,Europa,Silveira Grande,PB,73709980
+83,Vila Ana Beatriz Fonseca,9736,Vila União,Rodrigues,DF,32343552
+84,Área da Paz,1475,Cabana Do Pai Tomás,Martins de Garcia,GO,45087287
+85,Chácara da Rosa,1104,Delta,Ramos de Pastor,MT,57121164
+86,Viaduto Manuella Câmara,2940,Fernão Dias,Viana de Moura,PE,21297694
+87,Travessa de Lopes,9839,Vila Bandeirantes,Rezende,RS,40420894
+88,Largo Santos,3565,Horto,Leão,GO,25536-790
+89,Recanto de Vargas,361,Lagoinha Leblon,Silva da Praia,BA,90531-312
+90,Estrada Ravy da Conceição,8216,Esplanada,da Mota,TO,99117-672
+91,Feira Maria Julia Campos,4153,Pilar,Rocha,MG,97917-713
+92,Loteamento da Cruz,9732,Jardim São José,Campos do Amparo,TO,51352-737
+93,Lagoa de Santos,4393,Madri,Freitas,SC,01025099
+94,Praia de Silva,753,Campo Alegre,Teixeira,PE,10168-046
+95,Parque de Vieira,4990,Conjunto São Francisco De Assis,Lopes da Prata,MG,08805547
+96,Área Casa Grande,8182,Santa Lúcia,Fogaça,RJ,71898-070
+97,Alameda Lavínia Farias,7985,Tupi A,da Costa,RN,68020573
+98,Estação Bruno Lima,4527,Conjunto Jatoba,da Paz de da Mota,PB,91744-370
+99,Estação Macedo,4059,Vila Esplanada,Mendes,MT,26777-143
+100,Praia Stephany Barros,9404,Novo Aarão Reis,Pastor,CE,90568433
+101,Aeroporto de Guerra,4999,Eymard,Albuquerque,SP,40633-330
+102,Condomínio Ana Júlia Câmara,4380,Alípio De Melo,Fogaça do Campo,PR,04689-465
+103,Praia Souza,9784,Tres Marias,Costela,AM,60250412
+104,Via Laís Machado,1906,Santa Margarida,Silva de Goiás,MA,30726260
+105,Quadra de Porto,8584,Paraíso,Farias Paulista,PB,82846268
+106,Estação de Câmara,8704,Jardim América,Rios de Minas,MA,20741139
+107,Largo Lorena Sá,4340,Unidas,Lopes,RR,08380894
+108,Distrito de Pereira,59,Comiteco,Nogueira,ES,98369935
+109,Vila de Santos,654,Aparecida,Mendonça Verde,SC,17254220
+110,Lagoa Ana Liz Rocha,9017,Aparecida,Machado,MA,86318-296
+111,Viela Melissa Sampaio,5956,Vila Mantiqueira,Barros dos Dourados,RN,98132-781
+112,Vereda Sampaio,9092,Cachoeirinha,Jesus de Mendonça,SE,90879-430
+113,Passarela Marcos Vinicius Marques,1904,Maria Tereza,Albuquerque,CE,67620588
+114,Vale de Sá,7590,Teixeira Dias,Fogaça,AP,74921-170
+115,Jardim de Rocha,7304,Delta,Marques,RO,62992-126
+116,Área Macedo,4575,Graça,Sampaio,MT,02341-569
+117,Viaduto João da Cruz,2238,Mirtes,Macedo do Norte,SE,80659589
+118,Jardim de da Luz,4630,Vale Do Jatoba,Novaes de Sampaio,GO,13412038
+119,Setor Sales,4927,Vila Mantiqueira,da Rocha,PB,60257-394
+120,Trevo de Nascimento,4910,Marmiteiros,da Conceição,SP,38659480
+121,Condomínio Lima,9504,Conjunto Minas Caixa,da Luz da Prata,RJ,93304700
+122,Aeroporto Novais,9930,Conjunto Santa Maria,Sousa de Barbosa,TO,80535-898
+123,Travessa Marcelo Siqueira,8044,Camargos,Cunha,BA,34563-754
+124,Travessa de Araújo,1244,Buraco Quente,das Neves,AC,89517680
+125,Trecho Leandro Silva,6082,Vila Maria,da Cruz do Campo,RJ,39368-221
+126,Jardim Mendonça,8961,Gameleira,Santos,AC,57065057
+127,Chácara Macedo,3901,União,Nogueira,RJ,82155688
+128,Ladeira de Jesus,2225,Aparecida,Garcia de Goiás,RJ,34703536
+129,Sítio Lopes,2279,Boa União 2ª Seção,Ribeiro de Albuquerque,AC,13556380
+130,Lago Barros,6616,Nazare,Araújo,GO,80811-350
+131,Núcleo de Ribeiro,3360,Olaria,Barbosa,SC,99464-643
+132,Viela da Rocha,6391,Goiania,Rios de Goiás,BA,52129-051
+133,Fazenda Ian Monteiro,934,Vila Antena,Lima do Galho,AM,63136924
+134,Condomínio Clara Azevedo,5615,São João Batista,Gomes,PE,25350956
+135,Campo da Cruz,1659,Santa Margarida,Cassiano,AP,16971432
+136,Ladeira de Montenegro,4184,Varzea Da Palma,Costela Paulista,PE,16531436
+137,Núcleo de Brito,67,Parque São José,Moraes,ES,77598-549
+138,Estação Sá,3570,Paraíso,Moura,RS,06999742
+139,Rodovia de Cavalcante,5095,Vila Barragem Santa Lúcia,Duarte,DF,36213-531
+140,Aeroporto Bento Alves,3231,Alto Vera Cruz,Novaes,ES,99338785
+141,Sítio da Rocha,6888,São Luiz,Fonseca,DF,57611-295
+142,Condomínio Fernando Campos,4419,Eymard,Silva,AP,98737370
+143,Viela Yuri Cavalcanti,9120,Laranjeiras,Sales de Brito,PR,59475-287
+144,Rodovia Castro,8491,Marajó,Barros,TO,08802619
+145,Passarela de Rocha,2960,Lagoa,Caldeira das Pedras,MS,99107152
+146,Praça de Rodrigues,333,Vila Jardim Alvorada,da Conceição de Cavalcanti,PE,34683-711
+147,Rua Sampaio,9778,Europa,Caldeira de Moura,CE,33152300
+148,Passarela Hellena Novaes,8121,Bernadete,Moura da Praia,PB,00780919
+149,Estação Sousa,1533,Nossa Senhora De Fátima,Dias Paulista,RR,83516-612
+150,Lago de da Rosa,174,Vila Ouro Minas,Sousa da Serra,TO,59856-631
+151,Chácara Castro,4936,Vitoria Da Conquista,Marques,RJ,27085829
+152,Feira de Cunha,2556,São Jorge 3ª Seção,Ferreira,MG,88101-251
+153,Ladeira Caio das Neves,2922,Baleia,da Cruz,MA,60155-196
+154,Estrada de Pimenta,7063,Miramar,Vargas,AC,65728344
+155,Lagoa de Albuquerque,6076,Maria Tereza,Silva da Prata,RO,94241125
+156,Avenida Milena da Conceição,5131,Novo Tupi,Albuquerque,MG,31372-007
+157,Fazenda Lunna Garcia,1809,Vila Das Oliveiras,Nogueira,AC,01076-117
+158,Núcleo Macedo,9097,Palmares,Fernandes,BA,55930-255
+159,Favela Pinto,8504,Vila Calafate,Cunha do Amparo,RS,96844-637
+160,Residencial Gustavo Henrique Casa Grande,9255,Marajó,Araújo,MG,68228-124
+161,Avenida Henrique Costela,9356,Brasil Industrial,Lima de Guerra,PI,14958-056
+162,Via Isis Casa Grande,5337,Vila Nova Gameleira 1ª Seção,Borges do Oeste,SE,21173425
+163,Ladeira Dom Montenegro,3974,Santa Rita,Brito,ES,68324-830
+164,Quadra da Rosa,4239,Nova America,Aparecida,AP,45916-123
+165,Viaduto de Azevedo,7070,Cdi Jatoba,Correia,MA,57861-776
+166,Alameda de Moura,4271,Nossa Senhora Da Conceição,Casa Grande,AL,94031-237
+167,Jardim Mariah da Cruz,9731,Leticia,da Rocha de Costela,CE,11276-794
+168,Estação de Ramos,5930,Vale Do Jatoba,Sampaio de Goiás,CE,00320157
+169,Pátio de Correia,3968,São Bento,Santos,RJ,71685720
+170,Trevo de Vasconcelos,9530,Maria Virgínia,Câmara das Flores,MT,18189-777
+171,Vereda Asafe Aragão,1629,Das Industrias I,da Paz,AL,56523-344
+172,Lagoa Davi Miguel Casa Grande,593,Alto Das Antenas,Teixeira,ES,34423953
+173,Viaduto Lopes,9536,Confisco,Freitas,PA,28699434
+174,Vale Rafaela Silva,9233,Bonfim,Viana do Campo,PI,99968-851
+175,Estrada Carlos Eduardo Oliveira,5015,Horto,Vargas,CE,48646072
+176,Quadra de Abreu,2077,Barão Homem De Melo 1ª Seção,Nunes da Prata,PR,94104-791
+177,Rodovia Camargo,7785,Indaiá,Aparecida do Campo,PI,90952339
+178,Lago Marques,6737,Vila Bandeirantes,Pires,MG,71753260
+179,Chácara Ana Cecília da Mota,9292,Vila São Gabriel Jacui,Ramos,RN,53127531
+180,Feira Emanuelly Novais,6356,Serrano,Teixeira das Flores,AC,40262-133
+181,Largo Antonella Jesus,1069,Aeroporto,Nunes da Prata,RJ,53552-093
+182,Esplanada Pacheco,8926,Paraíso,Pires do Campo,DF,70680488
+183,Feira Pacheco,430,Conjunto Novo Dom Bosco,da Cunha,GO,82441-850
+184,Conjunto Moreira,3898,Santana Do Cafezal,da Mata dos Dourados,MA,71025758
+185,Viaduto Azevedo,8965,Conjunto Jardim Filadélfia,Pacheco,AP,57253513
+186,Rua Marcelo Rocha,3760,Jardim Montanhês,Jesus do Galho,RR,67799854
+187,Lago de Brito,1858,São Gonçalo,Garcia,ES,17715-242
+188,Estrada de Fernandes,4686,Vila Paris,Alves do Campo,MS,90634259
+189,Feira Castro,8664,Comiteco,Moraes,MG,79327-140
+190,Favela da Costa,2658,São Gonçalo,Borges,PB,28401228
+191,Fazenda de Vieira,3182,Vila Santo Antônio Barroquinha,da Rosa,RR,39560-606
+192,Loteamento Bruna Cirino,2497,Lourdes,Silva do Sul,RS,30228-737
+193,Avenida Carolina Martins,8829,Olaria,Martins da Praia,AC,33532-093
+194,Conjunto Câmara,2796,Vila Madre Gertrudes 3ª Seção,Fonseca,ES,35949-507
+195,Morro de Montenegro,3627,Vila Das Oliveiras,Pereira de da Mata,PA,90106-433
+196,Condomínio de Rezende,583,Vila Suzana Primeira Seção,Cavalcanti de Silveira,PI,31358-199
+197,Campo de Peixoto,2842,Alto Dos Pinheiros,Mendonça de Goiás,MG,67439096
+198,Conjunto de da Cunha,1894,Vila São Geraldo,Gomes de Barbosa,PI,34588-300
+199,Trecho da Paz,5074,Liberdade,Pastor,PB,39841361
+200,Conjunto de Aparecida,7554,Aparecida,Leão da Prata,PR,77289038
+201,Morro de Camargo,1910,Apolonia,Abreu de Costa,PA,13100-555
+202,Fazenda de Abreu,5015,São Damião,Rocha das Flores,RO,17943-210
+203,Estação de Aparecida,3317,Santa Maria,Rocha da Mata,RN,85245595
+204,Quadra de Souza,6995,Acaba Mundo,Leão,MS,25742-517
+205,Via de Fonseca,3158,Jardim Atlântico,Lopes,CE,05386-882
+206,Vale Farias,7680,Coração De Jesus,Jesus de Fernandes,AM,24914447
+207,Ladeira de Campos,9329,Mineirão,Ramos,MS,51059-909
+208,Via de Sampaio,3894,Buraco Quente,Sales,DF,89883169
+209,Campo Cunha,4855,Alto Das Antenas,Rodrigues do Campo,AP,59227-211
+210,Aeroporto de Correia,9777,Comiteco,Rios do Amparo,MS,07150262
+211,Residencial Leão,5323,Jardim Do Vale,Montenegro de Minas,AL,52460908
+212,Estação das Neves,8902,Pindura Saia,Teixeira de Nunes,AP,28921-685
+213,Condomínio Samuel Almeida,1021,Carlos Prates,Pinto,BA,65161128
+214,Rua de Pastor,4716,Custodinha,Rocha Alegre,DF,26462-973
+215,Rua Carvalho,9881,Vila Nova,Silveira,ES,80698588
+216,Conjunto Silva,28,Vila Atila De Paiva,Pereira Alegre,GO,47522444
+217,Ladeira de Pires,1917,Vitoria,Castro,ES,22748-623
+218,Viela Oliver Leão,6571,Bacurau,Moreira do Sul,RR,71788-812
+219,Avenida Nascimento,2655,Vila Engenho Nogueira,da Rocha de Barbosa,MT,57611607
+220,Esplanada de Lima,1763,Aparecida 7ª Seção,Fernandes,AC,08002979
+221,Recanto Maria Isis Garcia,3750,Grotinha,da Luz,DF,49540989
+222,Aeroporto Gomes,8681,Taquaril,Cavalcante Grande,SP,68757-921
+223,Fazenda Rezende,3587,Liberdade,Sousa,SP,99278176
+224,Pátio Luiz Miguel Cardoso,1596,Bela Vitoria,Montenegro do Sul,AC,65214-506
+225,Lagoa de Andrade,4507,Tirol,Nunes,AC,15180-454
+226,Lagoa Guerra,7185,Novo Aarão Reis,Cavalcanti,TO,11601-470
+227,Vila de Carvalho,7394,Serrano,Camargo,TO,44378935
+228,Vereda Hellena Cavalcanti,2828,Santa Rita,Moraes,MT,18769-105
+229,Esplanada de Nogueira,2233,Vila Antena Montanhês,da Rosa,TO,57292-355
+230,Feira Freitas,5722,Calafate,Ferreira,BA,02967417
+231,Viaduto Anthony Silva,9725,Parque São Pedro,Gonçalves,CE,51234-493
+232,Área Araújo,2983,Goiania,Guerra do Norte,AL,86799056
+233,Distrito Brito,6290,Maria Goretti,Viana Paulista,RS,08952-054
+234,Avenida Fernandes,8782,Vitoria Da Conquista,Montenegro,SP,06554-996
+235,Sítio Fonseca,8720,Cabana Do Pai Tomás,Novaes da Mata,BA,98691-410
+236,Lago Isaque Nascimento,458,Floramar,Pacheco,SC,29685267
+237,Travessa Maysa Silva,229,Graça,Santos da Serra,AM,73025584
+238,Morro de Sales,8834,Boa União 2ª Seção,Nogueira,AP,54014018
+239,Vale Castro,29,Cabana Do Pai Tomás,Casa Grande de Cirino,SC,56646-023
+240,Viela Teixeira,634,Universo,Ribeiro,AL,14470269
+241,Quadra de da Cruz,5765,Nova Pampulha,Silveira do Sul,BA,42382163
+242,Viaduto Sousa,2668,Dom Cabral,Ramos de Teixeira,MS,76315-280
+243,Avenida de Freitas,6332,Jardim Montanhês,Fernandes do Oeste,SC,86022436
+244,Favela Olívia Moraes,287,Renascença,Sá,PI,95720623
+245,Viela Ágatha Pereira,6390,São Geraldo,Freitas,AC,15866-184
+246,Campo de Sá,3605,Barão Homem De Melo 3ª Seção,Viana,TO,93353234
+247,Viaduto de Cardoso,5770,São João,das Neves,AC,87710-840
+248,Ladeira Vieira,2401,Boa União 1ª Seção,Correia de Goiás,PI,39397-218
+249,Largo Souza,5791,Santa Cecilia,Rios,SP,54015676
+250,Rua Otto Ramos,7657,Nova Vista,Aragão Paulista,PB,92906951
+251,Estação Isaque Aparecida,9203,Túnel De Ibirité,Correia,RN,93308-832
+252,Morro de Pires,2120,Vila Madre Gertrudes 3ª Seção,da Costa Verde,RJ,02260169
+253,Campo Ana Julia Barros,2271,Cidade Jardim Taquaril,da Rosa,RJ,75241289
+254,Vila de Novaes,2615,São Sebastião,Pereira do Oeste,MG,74849476
+255,Praia de Silveira,58,Cônego Pinheiro 1ª Seção,Souza do Sul,MT,36197169
+256,Praça Correia,9666,Renascença,Abreu de Goiás,AL,06772858
+257,Recanto Luiza Barbosa,2672,Vila Independencia 1ª Seção,da Luz de Nunes,MT,68952-741
+258,Esplanada Souza,8241,Novo São Lucas,da Paz do Norte,AC,32230621
+259,Distrito de Fogaça,1052,Monte Azul,Vieira de Moraes,AM,52164-662
+260,Trevo Catarina Nunes,1092,Zilah Sposito,Montenegro de Jesus,TO,00439-706
+261,Praça de Vieira,7575,Conjunto Paulo Vi,Montenegro,RN,83930238
+262,Condomínio de Barbosa,2212,Pompéia,Aragão,MT,79003-734
+263,Sítio Guerra,3074,Santa Branca,Araújo,PI,54337393
+264,Campo Borges,2539,Havaí,Pinto de Lopes,ES,92158-562
+265,Ladeira Sales,41,Vila Puc,da Costa de Minas,PI,51465167
+266,Jardim de Duarte,3304,Cachoeirinha,da Rocha de Carvalho,RJ,39241-836
+267,Sítio de Moraes,6962,Vila Maria,Moreira,PI,26550-672
+268,Jardim da Conceição,6696,Maravilha,Fogaça,CE,32395552
+269,Largo de Peixoto,3599,Jardim Leblon,Martins de Sousa,TO,67893-421
+270,Vereda de Casa Grande,211,Cabana Do Pai Tomás,Cassiano,RR,45876-895
+271,Lago Stephany Santos,84,Santa Inês,Farias,AL,38774359
+272,Loteamento Moreira,2572,Tres Marias,Barros do Campo,MA,90962450
+273,Chácara Stella Ferreira,7572,Centro,Vieira do Oeste,GO,49772-747
+274,Conjunto Josué Andrade,331,São Jorge 3ª Seção,da Rocha,DF,33373-703
+275,Núcleo de Castro,1473,Conjunto Capitão Eduardo,Porto,RO,83908-217
+276,Área Machado,2827,Mangabeiras,da Cruz do Amparo,AL,15271-084
+277,Estrada de Cavalcanti,6900,Sport Club,Albuquerque Paulista,AL,19607010
+278,Viela de Souza,2434,Vila Trinta E Um De Março,Aragão,AC,55395328
+279,Quadra Lucas Gabriel da Rosa,6371,Vila Dos Anjos,Sá de Leão,PI,99756576
+280,Lagoa Antony Freitas,9402,São José,Teixeira do Oeste,AC,44240-476
+281,Viaduto Cavalcanti,7036,Santa Isabel,Fernandes de Gonçalves,RJ,29635782
+282,Trecho Nascimento,4026,Colégio Batista,Rios de Nogueira,MT,84954820
+283,Aeroporto Duarte,9313,Aeroporto,da Rocha,RR,31381-445
+284,Avenida de Sá,2775,Vila Havaí,Pereira,MG,74563-572
+285,Condomínio Nathan Teixeira,2361,Vila Petropolis,Campos do Norte,MS,01193656
+286,Estação Andrade,4783,Floresta,Freitas do Oeste,RR,86224967
+287,Parque Camila Pires,5179,Savassi,Oliveira,TO,44788531
+288,Via de Jesus,2026,Dom Cabral,Gomes,PA,35149642
+289,Sítio Ramos,2146,Piraja,da Mata de Minas,SP,42002-188
+290,Campo de Brito,4152,Nova Cachoeirinha,Nunes Alegre,MA,59162052
+291,Viaduto de Leão,6031,Saudade,Almeida Alegre,PI,77547-602
+292,Avenida Sofia Cavalcante,1879,Liberdade,Vasconcelos,CE,87643-968
+293,Setor de Sá,6894,Conjunto Providencia,Garcia,PE,53977-845
+294,Setor da Mata,715,Barão Homem De Melo 1ª Seção,Correia,MA,69064-785
+295,Quadra Lavínia das Neves,7419,Vila Trinta E Um De Março,Silva do Amparo,SC,28622175
+296,Quadra de Cavalcanti,5325,Vila Aeroporto Jaraguá,Ferreira,DF,22550-414
+297,Aeroporto Sampaio,7084,Mala E Cuia,Nogueira,MT,22871960
+298,Rua Isaque Sousa,707,Vila Boa Vista,Teixeira das Pedras,BA,96940869
+299,Lagoa da Paz,3515,Floramar,Costela,PI,73443357
+300,Lagoa Luara Carvalho,631,Vila Canto Do Sabiá,Gonçalves das Pedras,RN,76781348
+301,Estrada Sarah Martins,592,São Gabriel,Vasconcelos das Pedras,AL,99497034
+302,Quadra Diego Camargo,79,Gutierrez,Duarte Paulista,SE,38917-765
+303,Núcleo Arthur Borges,4186,Baleia,Siqueira,PR,47124-775
+304,Trevo de Garcia,2518,Beija Flor,Vasconcelos da Serra,RO,35270815
+305,Área Ramos,7153,Vila Madre Gertrudes 3ª Seção,Vasconcelos do Campo,RN,83978-559
+306,Conjunto Guerra,161,Vila Havaí,Machado,AC,89070944
+307,Distrito Luna Peixoto,4120,Barreiro,Peixoto,CE,27049156
+308,Alameda Kamilly Silva,1310,Savassi,Câmara de Nascimento,SE,03720-133
+309,Núcleo de Oliveira,2334,Colégio Batista,Camargo Alegre,RJ,69412-135
+310,Lagoa Duarte,9685,Biquinhas,Nunes,RS,77831998
+311,Morro Raul Camargo,8586,Alto Dos Pinheiros,Gomes,AC,82496-482
+312,Fazenda Souza,7080,Pindura Saia,Machado,PR,48409772
+313,Quadra de Cavalcante,6087,Buritis,Andrade,MS,16401670
+314,Praça Antony Silveira,2306,Conjunto Capitão Eduardo,da Luz Alegre,SP,50261-818
+315,Estação Moreira,3727,Dom Cabral,Aparecida,ES,99268-051
+316,Pátio Pastor,4844,Esperança,da Rosa,PR,71867350
+317,Via Santos,2697,Álvaro Camargos,Castro,TO,11932-073
+318,Ladeira Pires,1170,Etelvina Carneiro,das Neves de Guerra,SE,95242-854
+319,Praça Costela,5615,Marieta 2ª Seção,Sá,DF,21334-696
+320,Campo Diogo Guerra,1102,Cardoso,da Cruz das Pedras,RR,12085590
+321,Vale de Sales,593,Bonsucesso,Santos Grande,MT,12995-776
+322,Morro Mendes,1684,Vila Cemig,Pimenta do Oeste,GO,31160860
+323,Esplanada Asafe Fernandes,9407,Marçola,Pimenta,BA,32493632
+324,Campo Ana Clara Nunes,1107,Vila Esplanada,Costa,AL,94329030
+325,Recanto Miguel Freitas,7854,Vila Vista Alegre,Freitas,CE,41051-106
+326,Passarela de Vargas,3423,Vila Nova Paraíso,Sales da Serra,BA,15127555
+327,Viela de Machado,2146,Capitão Eduardo,Machado das Pedras,PI,72245-486
+328,Vila de Moreira,7573,Vila São João Batista,Freitas,TO,48955-395
+329,Chácara Vitor Pires,7456,Marajó,Fernandes do Amparo,AC,46676077
+330,Lago de Moraes,3295,Santa Margarida,Duarte do Oeste,RS,89346-010
+331,Largo Vicente Barros,5622,Nova Cachoeirinha,Carvalho do Norte,SE,99966-393
+332,Condomínio Ana Cecília Porto,1279,Marieta 1ª Seção,Fonseca,CE,29137-921
+333,Condomínio Cavalcante,3890,Bonsucesso,da Rocha dos Dourados,RJ,16694-365
+334,Aeroporto de Rios,6627,Caiçaras,Nunes de Marques,PE,08623-171
+335,Conjunto de Ferreira,4289,Ernesto Nascimento,Camargo,MG,99217-900
+336,Setor Ferreira,9488,Beira Linha,Costa de Pereira,MA,15582261
+337,Favela de Porto,2271,Teixeira Dias,Dias,RO,06000-026
+338,Jardim de da Mata,1076,Novo Glória,Vieira Grande,SE,15897-461
+339,Trecho Amanda Duarte,1797,Madri,Casa Grande de Silva,MT,69036-618
+340,Recanto Caroline Barbosa,1412,Vila Dos Anjos,da Rocha,RJ,52968-328
+341,Estação Freitas,1931,Alto Dos Pinheiros,Rocha,PB,57322-855
+342,Lago Luiz Fernando Cassiano,2001,Boa Esperança,Lopes do Oeste,CE,52023-701
+343,Vereda Moraes,697,Vila Engenho Nogueira,Novaes Grande,RO,58424-937
+344,Setor de Pereira,2852,São Jorge 2ª Seção,Silva,DF,99982517
+345,Viela Stephany Caldeira,5569,Vila Santa Monica 2ª Seção,Azevedo,RS,00768602
+346,Lagoa Viana,910,Alpes,Pereira,AP,67063-505
+347,Recanto Borges,4277,Pirineus,Costa das Pedras,RS,97557-920
+348,Praia Cauê Marques,4593,Dom Silverio,Moreira do Galho,RR,67901-310
+349,Viela Henrique Barbosa,2807,Vila Jardim Alvorada,Freitas,TO,80684454
+350,Estação de Alves,7524,Vila Petropolis,Martins,MA,23204-806
+351,Pátio Vitória Brito,5794,Marmiteiros,Monteiro de Siqueira,BA,32676-366
+352,Rodovia Andrade,9490,Vale Do Jatoba,Gonçalves,MG,09523-413
+353,Trevo de Duarte,1024,Nossa Senhora Aparecida,Brito,RO,63167-569
+354,Ladeira Sara Mendes,1881,Aparecida,Garcia Verde,RR,52567467
+355,Setor Antonella Câmara,2433,Vila Ecológica,Pires de Santos,AL,43455-849
+356,Morro Gomes,428,Grota,Sá da Praia,ES,24735-573
+357,Setor Maria Isis Moraes,1325,Vila Puc,Teixeira,MT,68867-515
+358,Rua de Cassiano,3312,Das Industrias I,Abreu Paulista,PB,70249-622
+359,Rua Alexandre Moreira,6160,Vila Ouro Minas,da Rocha de Silva,MS,83981-276
+360,Lagoa Castro,8917,Vila Sumaré,Lima,SC,03708-340
+361,Trecho Heloisa Melo,7991,Vila Cemig,Guerra,MS,25911065
+362,Vila de Silveira,3910,Coração Eucarístico,Cavalcante da Mata,BA,39687-466
+363,Chácara Lorenzo Fogaça,4962,Senhor Dos Passos,Viana do Sul,SP,06199182
+364,Lagoa Duarte,7769,Primeiro De Maio,Nunes de Pires,AM,96415-559
+365,Largo de Nascimento,4986,Vila Nova,Monteiro das Pedras,CE,36967945
+366,Chácara Ribeiro,5749,São Paulo,Moura,MA,52035764
+367,Parque Fernando Garcia,6022,Vila Tirol,da Mata,SC,99230-254
+368,Rodovia de Souza,5542,Tirol,Aragão de Nunes,RS,85254215
+369,Jardim de da Rocha,9217,Unidas,Montenegro Grande,CE,62116233
+370,Recanto de Lima,1212,São Tomaz,Moura,AL,03629744
+371,Chácara Sampaio,5517,São Cristóvão,Abreu dos Dourados,RO,90755-420
+372,Morro Ayla Albuquerque,1192,Conjunto Serra Verde,da Mata,BA,44662-348
+373,Praia Cirino,915,Pindorama,Nogueira,AL,26330274
+374,Rua de Santos,2625,Vila Real 2ª Seção,Novais de Carvalho,SE,42915-073
+375,Viaduto Sophia Aparecida,5895,Pedreira Padro Lopes,da Cruz do Sul,SP,31114183
+376,Conjunto Sofia Pinto,4344,São José,das Neves de Goiás,MT,12969-534
+377,Via de Rios,2223,João Alfredo,Ferreira,MS,99445052
+378,Aeroporto Ana Julia Borges,860,Vila Cemig,das Neves,PR,06118688
+379,Pátio de Borges,2371,Vila Primeiro De Maio,Ribeiro Verde,PI,66244943
+380,Colônia Juan Mendonça,4464,São Gonçalo,Fernandes do Norte,ES,22077-490
+381,Quadra Asafe da Rocha,4842,Biquinhas,Farias,SC,64438-393
+382,Lago de Borges,6161,Vila Formosa,Porto,CE,11524-202
+383,Favela Bruno Sampaio,7477,Vila Copacabana,Castro da Mata,PA,73068016
+384,Área Cassiano,6787,Santa Efigênia,Porto,RJ,17047-658
+385,Praia Paulo Pires,7553,Vila Aeroporto,Pacheco de Pimenta,SE,68487-100
+386,Parque Guilherme Carvalho,8389,Inconfidência,Almeida das Pedras,RR,75193-298
+387,Conjunto Luiz Miguel Pacheco,5556,São Jorge 2ª Seção,da Rocha,AC,75071-195
+388,Via Lorena Aparecida,9181,Europa,Andrade,AP,71497692
+389,Vereda de Pires,5909,Havaí,Sousa,BA,23415-973
+390,Vale Sá,5501,Alto Barroca,Farias do Norte,RR,33055-533
+391,Fazenda Fonseca,8996,Garças,Santos,PE,06943827
+392,Conjunto Emanuel Cavalcanti,7023,Vila Atila De Paiva,Mendes da Prata,GO,39491-654
+393,Fazenda de Rocha,3064,Vila Puc,Costela,SC,15675-465
+394,Lagoa de Sousa,6669,Mineirão,Carvalho Grande,BA,07092-074
+395,Morro Oliver Sales,3427,Vila Paquetá,Cirino da Mata,RR,57477362
+396,Estação Vinícius da Cunha,9028,Guaratã,Rodrigues,PB,43826-841
+397,Condomínio de Sousa,5458,Itapoa,Alves das Pedras,RR,66089-541
+398,Colônia Beatriz Costela,4417,Conjunto Califórnia Ii,Aparecida,SE,02686402
+399,Núcleo Ana Sophia Jesus,6352,Venda Nova,Câmara,SC,95305656
+400,Praça Pimenta,2895,Cabana Do Pai Tomás,Macedo da Mata,RO,13375988
+401,Vale Igor Monteiro,4344,Mirante,da Conceição,TO,23649-282
+402,Vale de da Cruz,6785,Senhor Dos Passos,Sousa da Serra,SE,41509-385
+403,Trevo Souza,4722,Vila Antena,Castro de Cardoso,PA,63043814
+404,Núcleo Gonçalves,6294,Vila Engenho Nogueira,Andrade de Gonçalves,BA,45162-295
+405,Estação Heloísa Souza,9034,Nova Suíça,Rodrigues do Campo,AP,76905-002
+406,Estrada de Marques,4166,Monsenhor Messias,Montenegro da Mata,MT,36829146
+407,Setor de Martins,1788,Vila Esplanada,Vieira,RS,21639-119
+408,Via Théo Andrade,7860,Vila Independencia 2ª Seção,Gonçalves do Sul,ES,92433130
+409,Rodovia de Martins,8897,Antonio Ribeiro De Abreu 1ª Seção,Correia,PR,33561-687
+410,Lago Ana Sophia Castro,6427,Pongelupe,Freitas de Goiás,SC,57372794
+411,Favela Albuquerque,118,Vila Paraíso,Fernandes Alegre,PI,38552833
+412,Pátio de Leão,169,Comiteco,Duarte,BA,70823991
+413,Estação Peixoto,5019,Novo Aarão Reis,Rios da Serra,CE,09068-697
+414,Parque de Montenegro,6746,Conjunto Paulo Vi,Silveira de Mendonça,MA,32436-546
+415,Passarela Sousa,7827,Vila Pinho,Rezende de Fogaça,AP,16970-564
+416,Praça Enzo Moraes,1227,Vila Betânia,Lima da Mata,RS,59400452
+417,Trecho de Garcia,2923,Distrito Industrial Do Jatoba,Lima de Santos,MG,13397-635
+418,Fazenda Duarte,4629,Glória,Cunha do Norte,CE,36147558
+419,Estação de Novaes,9722,Liberdade,da Rosa de Brito,PI,37297409
+420,Campo de Monteiro,1292,Vila Madre Gertrudes 4ª Seção,Costela Grande,RN,98584-296
+421,Praça Souza,9998,Cenaculo,Novais da Mata,RJ,33778-431
+422,Recanto de Silveira,5833,Bonfim,Moraes,MS,28726-527
+423,Setor Rebeca Oliveira,477,Santa Isabel,da Rosa,RJ,59665052
+424,Campo Machado,3807,Vila Paquetá,Moura,PE,66530-196
+425,Trevo Cirino,8024,Vila Paquetá,Freitas da Prata,AL,96338415
+426,Colônia de Aragão,1512,Santana Do Cafezal,Cavalcanti do Galho,GO,63869-280
+427,Praça Raquel Ribeiro,3376,Acaiaca,Costa,PI,97683-339
+428,Lago de Sampaio,9034,Varzea Da Palma,Lopes de Cavalcanti,MA,04585-448
+429,Trevo Moraes,6043,Nova Granada,das Neves,MG,21991-353
+430,Feira Mariah Guerra,1447,São Luiz,Machado de Fernandes,PE,75968796
+431,Travessa Rezende,7658,Conjunto Providencia,Santos de Araújo,AL,13459-492
+432,Morro de Guerra,3129,Bandeirantes,Mendes,MT,27350633
+433,Setor Diogo Caldeira,3506,Liberdade,Campos,RO,71006444
+434,Alameda Alícia Andrade,3284,Paquetá,da Cunha da Prata,RS,40034-857
+435,Ladeira Nogueira,6114,Grota,Abreu,RJ,68977729
+436,Aeroporto de Cavalcante,5939,Parque São José,Alves de Silveira,PB,40591-724
+437,Praia de da Luz,8852,Parque São José,Cassiano,PI,64332-129
+438,Trevo de Borges,49,Flavio De Oliveira,Pacheco de Minas,RN,30327305
+439,Morro de Abreu,9335,Vila Nova,Correia,RJ,82044946
+440,Distrito de da Cunha,6552,Custodinha,Pimenta das Pedras,PA,92927-625
+441,Praia da Cunha,4354,Conjunto Califórnia I,Câmara,CE,88472-750
+442,Praça de Lopes,1927,Campo Alegre,Barbosa do Campo,PI,66853-768
+443,Viela Almeida,7962,Vila Tirol,Fogaça,SP,92543-208
+444,Vale Maysa Cunha,8369,Ventosa,Cassiano do Galho,CE,01043764
+445,Jardim Araújo,6288,Vila Suzana Segunda Seção,da Paz,RO,40899-164
+446,Feira de Fogaça,8552,Graça,Silveira,PR,75037602
+447,Via Anthony Gabriel da Costa,4372,Pindorama,Pinto de Barbosa,AL,04150316
+448,Campo Kevin Moura,7502,Vila Ipiranga,Peixoto,AC,50651228
+449,Condomínio Oliveira,6294,Santa Rita De Cássia,Casa Grande,RJ,87399-110
+450,Vereda Vargas,2505,Novo Tupi,Siqueira Verde,RO,74930-737
+451,Vale Rodrigues,2272,Engenho Nogueira,Cavalcanti,RO,59816130
+452,Feira de Lima,7485,Novo Das Industrias,Vieira de Sousa,PR,88016361
+453,Chácara de Rios,6005,Colégio Batista,Mendonça,MG,91098-199
+454,Praça Otávio Castro,1922,Flavio Marques Lisboa,Aparecida,RJ,57115-714
+455,Travessa de Cirino,1864,Esperança,Leão,SP,76967-864
+456,Núcleo Pires,441,Petropolis,Costa,BA,01900-590
+457,Morro de Ramos,9595,Manacas,Ferreira de Goiás,CE,61600666
+458,Passarela Clarice Macedo,7939,Piratininga,Leão de Barros,AM,91827-921
+459,Jardim de Oliveira,2502,João Paulo Ii,Macedo Alegre,ES,12636-206
+460,Pátio Laís Jesus,1254,Canadá,Nascimento,ES,82595487
+461,Passarela Mendonça,7610,Miramar,Borges,SE,63027-939
+462,Distrito Aparecida,2075,Boa Viagem,Rezende da Serra,TO,13848320
+463,Núcleo Daniel Silveira,3794,Beija Flor,Martins,TO,04204706
+464,Estrada Pacheco,7879,Casa Branca,Araújo de Minas,BA,56998-725
+465,Conjunto Maria Flor Castro,8344,Olaria,Sales dos Dourados,ES,02088-602
+466,Fazenda Cunha,4375,Vila São Gabriel Jacui,Garcia da Praia,MT,74652-946
+467,Favela de da Rocha,4141,Colégio Batista,Costela de Campos,TO,76456087
+468,Quadra Ana Sophia Cavalcanti,6869,Cabana Do Pai Tomás,Gonçalves,RR,64084173
+469,Avenida Câmara,8378,Conjunto São Francisco De Assis,Santos,RR,24748-407
+470,Área Benício Pinto,3718,Vila Canto Do Sabiá,Guerra de Mendes,SC,96441919
+471,Jardim de Campos,8347,Álvaro Camargos,Macedo,RO,76159468
+472,Esplanada Nathan Correia,199,Marieta 1ª Seção,Farias do Oeste,MS,52019342
+473,Morro de Guerra,4550,Flamengo,da Cruz,PR,26458302
+474,Trevo Costa,7027,Ipiranga,Viana,MT,12381350
+475,Ladeira Montenegro,5157,Vila Suzana Primeira Seção,Correia,MS,26671-949
+476,Favela Barbosa,7269,Alípio De Melo,Souza,RO,23022791
+477,Colônia de Andrade,4319,São João,Fogaça,RN,35330113
+478,Via Benjamim Silva,6782,Graça,Correia de Costa,RS,45940337
+479,Residencial de Alves,5200,Venda Nova,Aragão da Mata,PE,01190820
+480,Praça Maria Alice Santos,7690,Alto Barroca,Pastor de Brito,TO,02464-109
+481,Campo Ryan Ramos,9516,Anchieta,Rocha,PI,17102453
+482,Lago Cauã Rezende,39,Mantiqueira,da Mota,RO,21266-318
+483,Estação Pires,6182,Jonas Veiga,Casa Grande,AP,55508-669
+484,Esplanada de da Conceição,6853,Vila Santa Monica 1ª Seção,Câmara de Cardoso,PR,51226-370
+485,Parque de Duarte,3153,Betânia,da Cunha,MS,00040-085
+486,Residencial de Costa,1291,Confisco,Barbosa da Praia,PE,62787-493
+487,Passarela de Macedo,714,Castanheira,Oliveira,RO,02108623
+488,Passarela Costa,1456,Guarani,Lima,RN,18362-484
+489,Largo Ágatha Duarte,5927,Conjunto Floramar,Aparecida da Praia,SE,17264778
+490,Fazenda da Cruz,7747,Marmiteiros,Borges,RJ,59079422
+491,Avenida de Oliveira,89,São Francisco Das Chagas,Pires de Goiás,RJ,10835-674
+492,Vale Rebeca Teixeira,8580,Anchieta,Albuquerque,RJ,79671256
+493,Colônia de Gonçalves,7500,Novo Aarão Reis,Barros,PE,38188-330
+494,Vale Lunna Vargas,5441,Pongelupe,Jesus Paulista,MS,19448782
+495,Conjunto Paulo Lopes,2954,Vila Independencia 1ª Seção,Camargo do Galho,MG,89894-950
+496,Praia Sales,3757,Vila Dos Anjos,Rocha das Pedras,SP,65437-445
+497,Loteamento da Mota,5721,Vila Nossa Senhora Do Rosário,Sampaio,MA,81604-479
+498,Ladeira de Alves,4597,Minas Brasil,Machado de Minas,MG,76307399
+499,Condomínio da Conceição,2023,Vila Maria,Caldeira da Serra,BA,66803-091
+500,Praça Isaque Rodrigues,5163,Independência,Teixeira,PB,29287-486
+501,Esplanada de da Cunha,7049,Ouro Minas,Mendonça,SP,42267-891
+502,Favela de da Conceição,2915,Beija Flor,Cavalcante,RO,38658-328
+503,Alameda Daniela Guerra,9333,Vila Olhos D'água,Andrade,SC,77583-632
+504,Estrada Farias,9949,Cachoeirinha,Guerra Verde,PE,11514237
+505,Núcleo de Martins,3693,Conjunto Califórnia I,Sales do Oeste,AL,95018692
+506,Pátio de Nogueira,5483,Alto Dos Pinheiros,Silva,RO,15138-203
+507,Trevo Evelyn Porto,4766,Vila Canto Do Sabiá,da Mata,PA,63131329
+508,Distrito Maria Julia da Rosa,9766,Nova Granada,Machado,AP,54620-189
+509,Conjunto Luiz Otávio Machado,5752,Ouro Minas,Cavalcante,RJ,55977-251
+510,Feira Gomes,2605,Nova Floresta,Rocha da Prata,MT,56091109
+511,Recanto de Guerra,5867,Olhos D'água,Rodrigues,RR,08314-871
+512,Trevo de Pastor,1744,Vila Santa Monica 1ª Seção,Rezende de Minas,MA,62783-156
+513,Passarela de Casa Grande,4854,Beija Flor,Garcia,PB,29326-875
+514,Distrito de Rocha,4756,Castanheira,Almeida,AM,71776-475
+515,Parque João Lucas Novais,5445,Vila Nova Cachoeirinha 2ª Seção,Souza,PR,43259605
+516,Condomínio Freitas,1711,Aeroporto,Pereira de Mendonça,RO,59671444
+517,Vila Larissa Nascimento,3718,Jardim Dos Comerciarios,Pires,PA,32836650
+518,Parque de Vargas,5855,Oeste,Cassiano,MA,80208773
+519,Trevo Viana,1490,Cdi Jatoba,Cirino,PA,72022384
+520,Lagoa Luiz Miguel Marques,8765,Santa Cruz,Lima do Oeste,AC,42171-382
+521,Vila Nunes,5927,Vila Da Paz,Leão,AM,97247017
+522,Favela Sá,8465,Luxemburgo,Borges de Fonseca,MS,43416-293
+523,Viaduto Gabriel Alves,3729,Vila Madre Gertrudes 1ª Seção,Ramos,MT,66405360
+524,Praça Amanda Andrade,7742,Cdi Jatoba,Fonseca de Goiás,PB,88364198
+525,Recanto Manuella Machado,9604,Chácara Leonina,Rodrigues da Mata,MT,49739-866
+526,Parque Macedo,1324,Vila Santa Rosa,Freitas,RO,42201863
+527,Largo da Cruz,4947,Vila Da Luz,Araújo,ES,99803-704
+528,Estação Peixoto,5855,Camponesa 1ª Seção,Machado de Goiás,MS,85191337
+529,Aeroporto Silva,1171,Beija Flor,Gomes,ES,39107870
+530,Conjunto de Ribeiro,3586,São Bernardo,Correia do Norte,GO,72253-204
+531,Favela de Peixoto,1983,Vila Mangueiras,Azevedo,GO,81911020
+532,Recanto Gael Henrique Vieira,3956,Álvaro Camargos,Marques,PR,72996898
+533,Quadra Cassiano,1861,Boa União 1ª Seção,Vargas de Siqueira,SE,48092-179
+534,Esplanada Ravi Lucca Rodrigues,690,Maria Tereza,Costa,RN,96771952
+535,Área Maria Fernanda Santos,652,Conjunto Santa Maria,da Cruz,RJ,65666-536
+536,Loteamento Silva,9547,Betânia,da Paz,SC,69053-125
+537,Núcleo Liz Cunha,5602,Estrela Do Oriente,Andrade da Serra,MS,53548-977
+538,Vale de Sales,1895,Morro Dos Macacos,Castro,TO,54884702
+539,Recanto Pimenta,9272,Santa Amelia,Camargo,AL,45329-367
+540,Recanto Aragão,5371,Brasil Industrial,Carvalho,MS,20133-831
+541,Residencial Pinto,7960,Vila Madre Gertrudes 3ª Seção,Marques da Serra,ES,19427459
+542,Vale Moraes,9103,Jardim Alvorada,Sales de Mendonça,PE,35903-132
+543,Trecho Oliveira,4194,São Pedro,Brito Paulista,GO,48469669
+544,Núcleo Aurora da Rosa,9656,Floresta,da Luz Alegre,PE,10180-963
+545,Ladeira Freitas,3351,Miramar,Cavalcanti,SC,79945-460
+546,Loteamento da Mata,1378,Casa Branca,Montenegro,AP,89828237
+547,Praça de Nogueira,5716,Vila Maria,Silveira do Amparo,PE,71365401
+548,Esplanada de Gonçalves,9665,Nossa Senhora Aparecida,Vieira,RS,67945-700
+549,Rodovia de da Paz,6631,Vila Betânia,da Paz,RN,28748759
+550,Estrada de Camargo,1178,Tupi A,Santos,MG,95526-195
+551,Jardim Melo,9523,Cardoso,Sá,DF,14538-595
+552,Aeroporto Felipe Dias,1225,Vila Rica,Moraes,MT,05746-736
+553,Rua Anna Liz Pinto,2729,Cardoso,da Cruz,RR,82273-101
+554,Fazenda Yago Viana,5311,Cidade Jardim Taquaril,Monteiro de Goiás,PB,92477504
+555,Estrada de Ferreira,5591,Vila Madre Gertrudes 3ª Seção,Marques das Pedras,MT,72939-642
+556,Morro Sampaio,3271,Santa Margarida,Costa do Campo,MT,04114-881
+557,Viela Maria Cecília Oliveira,2905,Funcionários,da Cunha,SP,54013545
+558,Avenida Sá,9635,Das Industrias I,da Costa,PE,63603990
+559,Lagoa Campos,2605,Teixeira Dias,Monteiro do Norte,AC,06994-962
+560,Loteamento de Costela,8957,Santo André,Araújo,MS,05113-300
+561,Alameda Campos,9399,Unidas,Fonseca,SE,15772934
+562,Campo de da Conceição,9621,Rio Branco,Abreu,RO,08141-877
+563,Feira Anthony da Paz,8644,Silveira,Pacheco Paulista,PE,14943659
+564,Loteamento de Correia,7862,Santa Cruz,Moreira do Oeste,RS,31777-644
+565,Trecho de Caldeira,5437,Pindura Saia,Abreu,BA,88435975
+566,Vale de Carvalho,4228,Solar Do Barreiro,Porto,MS,44416-296
+567,Loteamento de Cassiano,1645,São Damião,da Conceição,RN,06749-908
+568,Estação Teixeira,1701,Novo Ouro Preto,da Paz,AM,48186408
+569,Via Manuella Costa,3500,Anchieta,Costa de da Cruz,RJ,02284434
+570,Área Thomas Rodrigues,2025,Boa Viagem,Garcia do Oeste,PR,17168-542
+571,Estrada de Sousa,994,Garças,Aragão Verde,MS,70767-892
+572,Sítio da Conceição,8814,Vila Nova Cachoeirinha 2ª Seção,Moura de Ferreira,ES,00154376
+573,Conjunto Sales,6297,Engenho Nogueira,Dias Verde,RR,28721-798
+574,Alameda Pietro Duarte,5900,São Marcos,Silveira de Cunha,DF,13209-236
+575,Jardim Pedro Henrique Peixoto,8931,Jardim São José,Vieira Paulista,AM,04822257
+576,Recanto de Aparecida,4066,Belmonte,da Costa,SP,79163721
+577,Pátio Joana da Mota,789,Sagrada Família,Barros,RN,55479-362
+578,Praia Isaac Casa Grande,4601,Estoril,Nascimento Verde,RS,06156302
+579,Núcleo da Paz,7119,Novo São Lucas,Abreu,MG,34060-329
+580,Morro de Sá,1667,Pedreira Padro Lopes,Duarte,MT,91970356
+581,Travessa Gomes,2075,Vila Esplanada,Oliveira,AP,63178-178
+582,Aeroporto Eloah Ribeiro,7086,Europa,Nascimento do Galho,PB,81078-663
+583,Sítio Giovanna Cardoso,713,Canaa,Casa Grande,AL,99284543
+584,Vila de Porto,2086,Mirtes,Rodrigues,RJ,46576873
+585,Ladeira de Mendes,2808,Antonio Ribeiro De Abreu 1ª Seção,Alves do Norte,TO,25229-695
+586,Feira de Fonseca,692,São Gonçalo,Cirino,RN,66428-862
+587,Alameda Casa Grande,5765,Bairro Das Indústrias Ii,Marques,BA,47953-088
+588,Parque de Fernandes,6690,Vila Suzana Primeira Seção,Casa Grande,MA,35942874
+589,Trecho de Cavalcante,1441,Pilar,Jesus do Amparo,RJ,38990227
+590,Chácara de Dias,5068,Mirante,Rocha,AL,24127-817
+591,Sítio Vitor Hugo Mendes,191,Fernão Dias,Sá Paulista,GO,26296473
+592,Rua Ravi Garcia,5258,Frei Leopoldo,Moura de Teixeira,PR,55682-219
+593,Residencial Davi Lucas Correia,8810,Vila Nova Gameleira 1ª Seção,Caldeira,MA,01656684
+594,Avenida Jesus,1569,Vila Da Paz,da Rosa do Norte,PI,85650-276
+595,Conjunto Antony Albuquerque,1151,Diamante,Nogueira,PR,47521737
+596,Favela Barros,7049,Granja Werneck,Santos dos Dourados,RS,26260-230
+597,Residencial Pires,823,Teixeira Dias,Castro,RO,26129-191
+598,Aeroporto de Gonçalves,8434,Santa Lúcia,Andrade de Minas,PA,00044-618
+599,Trecho de Freitas,6576,Novo Aarão Reis,Cunha,PA,70825-939
+600,Estação de Barbosa,5237,Vila Tirol,Barros de da Paz,BA,66225051
+601,Distrito de Rocha,9517,Floresta,Pacheco de Lopes,MS,03464346
+602,Rua Maitê Monteiro,8056,Vila Nova Gameleira 1ª Seção,Pereira Alegre,CE,73115-728
+603,Pátio de Câmara,2470,Conjunto Bonsucesso,Pinto,RR,79828580
+604,Lagoa Vieira,6541,Madre Gertrudes,Alves,PE,91956955
+605,Trevo de da Paz,6855,Santa Inês,Moura,RN,77361187
+606,Chácara Ana Lívia Abreu,324,Araguaia,Cirino Grande,TO,19380-645
+607,Fazenda de Cavalcanti,9144,Novo São Lucas,da Cunha,PB,35926336
+608,Vereda Lopes,4121,Santa Rita De Cássia,Martins de Ribeiro,RJ,63763632
+609,Loteamento Mariana Rezende,1476,Lourdes,Pacheco,BA,79802-894
+610,Setor Luana Pires,7144,Vila Real 2ª Seção,Mendes das Pedras,AC,84676-570
+611,Rodovia Viana,5590,Capitão Eduardo,Freitas de Melo,PI,08308-792
+612,Setor Barros,3288,Floramar,Rocha,PI,31494205
+613,Conjunto Luiz Otávio da Mata,8238,Maria Tereza,Cavalcante de Vasconcelos,RS,83472377
+614,Estação de Barbosa,1110,Tirol,da Paz de Cavalcante,SC,80637-100
+615,Estação de Abreu,6808,Conjunto Providencia,Camargo de Dias,TO,93029-835
+616,Núcleo Pedro Henrique Santos,7025,Maria Tereza,Barros da Praia,CE,16299-390
+617,Rodovia Vitória Cunha,6253,Vila Barragem Santa Lúcia,Rezende do Amparo,AC,32118881
+618,Núcleo de Barbosa,1258,Vila Batik,Costela,RN,05851451
+619,Conjunto Hellena da Cruz,6366,Jardim Montanhês,das Neves do Campo,RR,83218-304
+620,Jardim Caleb Cirino,540,Vila São Geraldo,Barbosa,MT,44310090
+621,Rua Macedo,3942,Trevo,Castro do Norte,GO,46850227
+622,Viaduto Pietra da Rosa,7829,Novo São Lucas,Marques,RS,23226248
+623,Sítio Hellena da Mata,1887,Vila Dos Anjos,Abreu do Oeste,MG,68305127
+624,Favela Erick Rezende,7367,Vila Jardim Montanhes,Gomes do Campo,MT,12775-285
+625,Avenida de Machado,5351,Renascença,Costela de Nascimento,RS,05159-481
+626,Recanto de Vieira,5282,Alpes,Camargo,MG,66467678
+627,Lago Hadassa Freitas,5993,Casa Branca,Cirino de Vieira,DF,34848172
+628,Loteamento de Barros,6040,Vila Betânia,Novais,DF,97951316
+629,Colônia de Duarte,8381,Canadá,Novais,MG,36708755
+630,Colônia Abreu,2961,Minas Brasil,da Mata,MT,66287076
+631,Viaduto Gabriela Pereira,8844,Mariano De Abreu,Camargo Paulista,TO,63354339
+632,Viela Araújo,1343,Vila Nova Gameleira 2ª Seção,Albuquerque,MG,14997-064
+633,Setor Nascimento,9897,Leonina,Aragão,MT,64203079
+634,Residencial Maria Alice Andrade,1909,Novo São Lucas,Santos,RN,86931584
+635,Avenida Rios,7695,Pindorama,Pacheco,PB,61936507
+636,Lago Pereira,412,Ipiranga,Melo,DF,54944-888
+637,Estrada Pires,8012,Boa Viagem,Alves da Mata,MT,27368779
+638,Área de Lopes,6465,Novo Santa Cecilia,Abreu de Caldeira,SC,42716770
+639,Chácara da Rosa,4621,Vila Satélite,Vieira,RO,03036266
+640,Estrada de Souza,625,Santa Efigênia,Cavalcanti,RO,35236879
+641,Passarela Dias,9728,Xodo-Marize,Rios,AM,23786-198
+642,Pátio de Sampaio,9138,Teixeira Dias,Marques da Mata,AL,25027-166
+643,Travessa de Costela,1074,Vila Bandeirantes,das Neves,SC,41867380
+644,Passarela Arthur Borges,1764,Vila Madre Gertrudes 4ª Seção,Costela,SP,29447-123
+645,Vereda de Ribeiro,2412,Caiçaras,Azevedo da Praia,RS,30770850
+646,Morro Amanda Vargas,5521,Maria Tereza,Casa Grande,ES,09549-118
+647,Campo Carlos Eduardo Ramos,3545,Vila Nova,Siqueira,RR,59310-678
+648,Recanto Siqueira,552,Ouro Preto,Leão da Mata,PE,41762-913
+649,Residencial de das Neves,9123,Novo Aarão Reis,Barbosa das Pedras,RS,21819-344
+650,Vale Dante Ribeiro,2495,Santa Helena,Guerra das Flores,AM,22501461
+651,Pátio de Cassiano,2363,Gutierrez,Viana,MS,10657881
+652,Feira de Novaes,8869,Vila Calafate,Abreu,DF,72905-964
+653,Feira de Moura,2680,Vila Esplanada,Pereira,SE,14590-659
+654,Praia de Moura,9057,Conjunto Bonsucesso,Montenegro do Norte,MG,37852-297
+655,Loteamento Maria Helena Siqueira,6023,Santo Antônio,Mendes,DF,40115-798
+656,Esplanada Enzo Casa Grande,4135,Candelaria,Mendonça Alegre,RJ,78656-294
+657,Fazenda Ana Clara da Paz,8067,Vila Jardim Alvorada,Cavalcanti,MA,60080765
+658,Conjunto Josué Sousa,6234,Conjunto Novo Dom Bosco,Castro,MA,99086235
+659,Chácara Martins,6693,Santa Helena,Vargas,RJ,55690-559
+660,Chácara Theodoro Viana,7065,Vila Aeroporto,Azevedo,AL,01253-234
+661,Jardim de Peixoto,4216,Manacas,Azevedo,CE,74680439
+662,Fazenda Maria Julia Costa,2497,Califórnia,Peixoto,AP,79314-490
+663,Loteamento Ana Clara Carvalho,8821,Ermelinda,Melo,AL,70440-919
+664,Vila de Machado,5812,São Tomaz,Moraes,MG,88191-528
+665,Fazenda Marques,4412,Europa,Brito de Farias,RJ,62885-325
+666,Esplanada de Cardoso,9700,Glória,Cavalcante do Norte,PR,80024588
+667,Loteamento Ferreira,3926,Vila São Gabriel Jacui,Rodrigues do Galho,PB,85235-119
+668,Setor de Sampaio,4392,Conjunto Taquaril,Casa Grande de Ramos,SC,46281-297
+669,Área Novaes,6816,Vila Primeiro De Maio,da Paz,PE,75439121
+670,Alameda Gabriela Abreu,7490,Cidade Jardim Taquaril,Pastor da Prata,DF,77596161
+671,Distrito Marina Peixoto,8072,Virgínia,Silva da Prata,SC,32116-006
+672,Rua Cunha,3927,Pousada Santo Antonio,Mendonça,AP,67210796
+673,Travessa Kamilly Leão,3681,Guarani,Montenegro,AM,06846-664
+674,Rua Anna Liz Andrade,5356,Eymard,Gomes,GO,87350-252
+675,Alameda Araújo,7478,Frei Leopoldo,Gomes,RN,74610201
+676,Quadra de Monteiro,7455,Guaratã,Mendes do Norte,MS,42157-785
+677,Área Levi Mendes,4424,Camponesa 1ª Seção,Gomes,CE,99866280
+678,Viela Correia,4367,Vila Santa Monica 2ª Seção,Silveira,PA,58262-483
+679,Via Ana Pires,1373,Rio Branco,Nascimento de Goiás,PA,25827-798
+680,Lagoa Peixoto,7491,Santa Rita,Moraes de Moreira,RS,55708964
+681,Estrada Rafael Macedo,5298,Campo Alegre,Almeida do Norte,PA,58083-195
+682,Travessa Nunes,6799,Flavio Marques Lisboa,Monteiro,PR,20269534
+683,Morro Novaes,9899,Jaraguá,Araújo,MT,71275-942
+684,Praia Heitor Moraes,4914,Vila Rica,Rios da Serra,SP,79431872
+685,Rodovia Caroline Câmara,6554,Boa Viagem,Pires do Amparo,RN,74627-255
+686,Sítio de Pereira,5511,Vila Boa Vista,Barros,SC,99802-339
+687,Núcleo Barbosa,5918,Havaí,Peixoto das Pedras,AC,34762519
+688,Passarela Araújo,3129,Acaba Mundo,Sousa de Minas,RR,80489-656
+689,Fazenda da Paz,6155,Diamante,Albuquerque de Lopes,ES,87563-037
+690,Vale Juan da Paz,4043,Araguaia,Ribeiro,RR,82949-878
+691,Viela de da Rosa,2006,Vila Formosa,Nogueira do Oeste,MT,22566361
+692,Jardim Bryan da Mata,1077,Capitão Eduardo,Nascimento,AL,54989-200
+693,Recanto Abreu,5118,São Tomaz,da Cunha,PA,95569036
+694,Sítio Daniel Melo,5155,Canadá,Siqueira de da Luz,PR,82844-769
+695,Esplanada Luiz Miguel Marques,9404,Funcionários,Campos do Norte,BA,69391570
+696,Vereda Ana Carolina Campos,5010,Funcionários,Duarte das Flores,RR,67484-577
+697,Chácara de da Cruz,9479,Manacas,da Rosa,BA,86099997
+698,Esplanada Brayan Azevedo,7844,Santa Rita,Rocha,AC,81013-556
+699,Lagoa de Marques,6927,Ademar Maldonado,Peixoto,PE,74005-736
+700,Rodovia Araújo,973,Vila Minaslandia,da Paz,TO,24614-780
+701,Viela Câmara,8466,Sport Club,Castro do Oeste,GO,06332225
+702,Trevo Larissa Lopes,8573,Pongelupe,das Neves,RO,99936-593
+703,Condomínio de Martins,1187,Vila Das Oliveiras,Abreu da Serra,MG,72993088
+704,Esplanada Garcia,7280,Lourdes,Mendonça do Amparo,RO,25404-578
+705,Colônia Maria Cecília Melo,5183,Madri,Peixoto da Serra,PA,10894333
+706,Lago Eloá Nascimento,6209,Conjunto Paulo Vi,Machado,GO,81974693
+707,Via de Martins,1242,Vila União,Mendonça da Mata,PI,15704404
+708,Setor de Souza,4589,Conjunto Serra Verde,da Paz da Praia,DF,75620-842
+709,Colônia Luigi Mendes,3129,Conjunto Bonsucesso,Camargo,RJ,37572269
+710,Distrito de da Rosa,1195,Paraíso,Melo,AP,91612-305
+711,Parque de Porto,8357,Belmonte,Aragão,SP,45371624
+712,Vereda de Cardoso,5751,Ambrosina,da Cruz,AC,43562-150
+713,Trecho Freitas,4655,Lindéia,Borges da Praia,SE,09741-388
+714,Alameda Bruna Silveira,1377,Palmeiras,Garcia,PI,02798572
+715,Lago da Paz,9305,Vila Petropolis,Porto,SE,74734604
+716,Esplanada Luiz Miguel da Luz,9377,São José,Souza do Galho,RJ,31561-022
+717,Quadra de Nogueira,654,São Marcos,Silva do Oeste,TO,52918-270
+718,Vale Francisco Pimenta,9437,Savassi,Porto de Rezende,PE,16579263
+719,Trevo da Rocha,5671,Biquinhas,Aragão,MG,58348983
+720,Esplanada Maria Vitória Viana,4792,Canadá,Fogaça de Minas,AM,37898468
+721,Esplanada Yan Câmara,3139,Nova Esperança,Nogueira da Serra,CE,77919929
+722,Setor de Moraes,7922,Nossa Senhora Da Aparecida,da Conceição de Jesus,CE,48506560
+723,Núcleo de Cunha,8331,Novo Santa Cecilia,Machado de Rocha,PB,27440981
+724,Travessa Maria Luiza Caldeira,6750,Conjunto Lagoa,Novaes Alegre,TO,18018430
+725,Rodovia de Macedo,7158,Monte Azul,Carvalho,SC,52942-366
+726,Rodovia de Ferreira,2603,Grajaú,Cassiano,AM,71823-410
+727,Vereda Agatha Campos,3498,Novo Santa Cecilia,das Neves das Flores,RN,57748209
+728,Praia Cirino,5416,Sion,Fonseca de Mendes,BA,69019573
+729,Condomínio Jesus,2026,Embaúbas,Castro de Goiás,MA,37754-668
+730,Núcleo de da Conceição,3184,Buritis,Mendes do Galho,GO,17289088
+731,Lagoa Jesus,8178,Flamengo,da Cunha de Moura,PA,22319-859
+732,Distrito Camila Borges,411,Petropolis,Aragão,RO,56759337
+733,Esplanada Araújo,8448,Coqueiros,Leão,RR,05203728
+734,Quadra Novaes,6824,Vila Boa Vista,da Mata de Cunha,MA,05477327
+735,Passarela Vargas,809,Vila Jardim São José,Peixoto,AL,77114-033
+736,Passarela de Ferreira,7356,Embaúbas,Farias Grande,TO,74910365
+737,Loteamento Giovanna Cardoso,2182,Álvaro Camargos,Ribeiro de Mendonça,SE,62183268
+738,Recanto de Cassiano,4200,Califórnia,da Rocha,GO,54340252
+739,Rua Eduardo Ferreira,5568,Oeste,Gomes,GO,48191-280
+740,Jardim Montenegro,1780,Alto Barroca,Novaes de Almeida,ES,22330423
+741,Residencial de Albuquerque,6218,Conjunto São Francisco De Assis,Sampaio,BA,04611-333
+742,Vale Barros,4794,São Marcos,Cunha,MA,46689658
+743,Praia Daniela Duarte,2693,Universo,Sá da Prata,MA,99834-238
+744,Estação de Machado,1345,Jardim Atlântico,Aparecida dos Dourados,SC,54743-563
+745,Esplanada Stella da Rocha,1535,Jatobá,Peixoto,SE,29787-773
+746,Parque de Novaes,4735,Vila Paraíso,Cassiano Alegre,RO,34597-982
+747,Feira Rocha,6427,Mirante,Moreira Grande,PE,29641935
+748,Viaduto de Macedo,5269,Novo Aarão Reis,Siqueira,RS,73820-704
+749,Pátio de Vargas,1980,Santa Inês,Cassiano da Serra,CE,81469701
+750,Estrada Maria Sophia Marques,6445,Gameleira,Andrade do Campo,SE,90341165
+751,Lagoa de Caldeira,6713,Sport Club,Peixoto,SP,51364-285
+752,Trevo Benjamin Nunes,6877,Nova Vista,Souza,DF,85814199
+753,Conjunto de Araújo,6527,Floramar,Silveira,RO,06943-527
+754,Viaduto de Aragão,7879,Vila Jardim São José,Teixeira Verde,PI,47162-496
+755,Aeroporto Zoe Sá,7051,Nova Pampulha,da Mota da Prata,RO,94437717
+756,Alameda Vitor Gabriel Campos,759,Maravilha,Barbosa,PR,47004-249
+757,Estrada Julia Teixeira,5440,Aparecida,Costela de Goiás,TO,07014042
+758,Residencial João Miguel Alves,1061,Nossa Senhora De Fátima,Pinto,RO,58570-069
+759,Jardim Isabela Correia,2311,Havaí,Dias,ES,91072663
+760,Morro Siqueira,8795,Alípio De Melo,Castro,RN,90642-642
+761,Largo Rodrigues,762,Cdi Jatoba,Novais,RO,08116156
+762,Praia de Gomes,235,Vila Da Paz,Cardoso,AM,96520843
+763,Jardim de Teixeira,470,Nossa Senhora De Fátima,Vieira de Freitas,RN,92782822
+764,Travessa Nicolas Ribeiro,2135,Alpes,da Cunha do Galho,MG,15740-437
+765,Chácara Dias,6703,Vila Paraíso,da Luz de Goiás,BA,12256-339
+766,Via Antony Alves,3456,Vila Sesc,Araújo,PE,41822572
+767,Quadra Manuella Sampaio,8230,Barroca,Rocha do Campo,MA,79589-838
+768,Sítio Nunes,4658,João Paulo Ii,Sampaio,SP,83695918
+769,Rodovia de Ferreira,5389,Andiroba,Moreira,RO,06318-699
+770,Residencial Costa,3408,Jardim Do Vale,Araújo,TO,76281-289
+771,Quadra de Cirino,142,Ademar Maldonado,Pereira das Flores,DF,04317127
+772,Trecho de Macedo,4051,Goiania,Novaes,RO,85300839
+773,Trevo Maria Cecília da Mata,3788,São Francisco,Nunes,SE,79130293
+774,Avenida Moraes,4425,Vila Aeroporto Jaraguá,Alves Paulista,RS,51723-611
+775,Rodovia de Casa Grande,9900,Grajaú,Moraes de Melo,AC,68607881
+776,Avenida Laura Teixeira,1488,Pantanal,Araújo de Alves,PE,77954912
+777,Fazenda Otto da Costa,27,São Marcos,Câmara,AP,47805022
+778,Sítio Davi Luiz das Neves,4117,Capitão Eduardo,Aragão das Pedras,AC,87859889
+779,Distrito Caldeira,2535,Conjunto Novo Dom Bosco,Castro de da Paz,AC,55987-156
+780,Conjunto Arthur Garcia,4201,Vila São Paulo,Araújo das Flores,ES,77855525
+781,Conjunto de da Cunha,1376,Ernesto Nascimento,Ferreira de Goiás,RN,24160796
+782,Rodovia Sampaio,513,São Damião,Rodrigues do Galho,PB,99566146
+783,Loteamento João Felipe da Cruz,3156,São Vicente,da Cunha da Serra,RN,14413285
+784,Lago Barros,790,Conjunto Jardim Filadélfia,Freitas,MA,07144040
+785,Colônia de Monteiro,5223,Itaipu,Leão,CE,65302471
+786,Passarela de Nunes,2379,Andiroba,Pastor das Pedras,PA,74788-575
+787,Praia Luan Macedo,6045,Vila Jardim Leblon,Santos,TO,82471-896
+788,Viela Isis da Conceição,6532,Estrela,Silveira da Mata,SP,05766705
+789,Vereda de Ribeiro,6898,Madri,Leão das Flores,MG,80646-339
+790,Vale Gael Vargas,9237,Goiania,Gomes dos Dourados,AL,57459-657
+791,Praia de Câmara,5817,Conjunto Floramar,Barbosa do Campo,RS,46468821
+792,Setor de Cassiano,5718,Canadá,Barros,RR,25794439
+793,Via de Albuquerque,9337,Vila São Paulo,Vargas,MS,72850-967
+794,Lagoa Nunes,5180,Vila Nova Cachoeirinha 1ª Seção,Sampaio da Serra,GO,81426-456
+795,Travessa de Souza,2527,Barro Preto,da Cruz,SP,12906916
+796,Praia Milena das Neves,2756,Cabana Do Pai Tomás,Martins da Prata,AC,15150-532
+797,Vila Alícia Carvalho,1288,Boa União 2ª Seção,Cavalcante,RN,95405413
+798,Estação Ana Clara Barros,435,Acaba Mundo,Moreira,AL,59178563
+799,Condomínio de Aragão,6058,São Tomaz,Silveira do Amparo,RS,87916153
+800,Lagoa de Alves,3345,Camargos,Garcia,PI,03181528
+801,Núcleo Zoe Oliveira,6974,Vila Independencia 1ª Seção,Cardoso,PR,21244229
+802,Praia de Rocha,5869,Floramar,Gomes de Aragão,DF,77966-668
+803,Área Jesus,2516,Vila São João Batista,Guerra,SE,86102-114
+804,Feira de Melo,4661,Vila Fumec,Castro de Goiás,SE,44740-182
+805,Quadra de Cassiano,3617,Comiteco,Câmara de Teixeira,SP,78226-896
+806,Estrada de Mendonça,2059,Maria Tereza,Fonseca dos Dourados,RN,21874144
+807,Área de da Rocha,2570,Salgado Filho,Nascimento,MA,35911-792
+808,Setor de Vieira,3591,Conjunto Taquaril,Ribeiro,PA,68172-522
+809,Via de Montenegro,4371,Vitoria Da Conquista,Borges Alegre,CE,97238038
+810,Residencial Ana Luiza Sampaio,954,Vila Nova Cachoeirinha 2ª Seção,Guerra,PA,91031212
+811,Fazenda Emanuel Moreira,2059,Palmeiras,Nascimento das Pedras,DF,45995146
+812,Distrito de Barros,2862,Buraco Quente,Campos de Minas,MS,17609933
+813,Distrito Garcia,7540,Pongelupe,Borges dos Dourados,RS,39755-863
+814,Largo de Borges,9206,Vila Ouro Minas,Sousa do Norte,RJ,04521278
+815,Conjunto Otávio Ribeiro,6407,Ventosa,da Costa,SC,88815-834
+816,Sítio Eloah Aragão,6406,Beira Linha,Alves de Pereira,MT,22507-684
+817,Feira Bárbara Camargo,1465,Conjunto Bonsucesso,Aragão,PR,93262370
+818,Largo Caldeira,761,Acaba Mundo,Alves das Flores,MS,04650986
+819,Rua de da Mata,2471,Barroca,Pimenta das Pedras,PA,76563-641
+820,Residencial Igor Campos,8246,Vila Pinho,Lopes do Amparo,RS,93339815
+821,Lago Almeida,1930,Vila Jardim Alvorada,Leão,AM,22796-112
+822,Largo de Viana,9467,Canaa,Fogaça do Amparo,CE,88274013
+823,Núcleo Macedo,7960,Canadá,Peixoto,AP,64786-483
+824,Viela de Novaes,2077,Castanheira,Ribeiro Paulista,TO,63862666
+825,Área de Lima,4815,Nova Cintra,Garcia,CE,05428798
+826,Recanto Heloisa Aragão,9014,Grajaú,Pinto,PA,48598-001
+827,Área Agatha Câmara,6196,São Jorge 3ª Seção,Rios,TO,46728-255
+828,Quadra Larissa Freitas,1667,Santa Rosa,Rezende de Moraes,PE,61749-929
+829,Trecho de Andrade,3935,Vila São Gabriel Jacui,Mendonça,ES,06971441
+830,Jardim Garcia,6025,Marieta 1ª Seção,Leão,PI,66930-244
+831,Residencial João Gabriel Rios,6929,Vila Olhos D'água,Dias de Barros,MG,15312672
+832,Chácara Rezende,6662,Vila Independencia 2ª Seção,Azevedo,AP,75103254
+833,Via de Pacheco,5747,Ribeiro De Abreu,da Cruz,CE,87367923
+834,Praça Ana Beatriz Novais,6844,São José,da Paz,TO,99826804
+835,Passarela Gomes,2690,João Paulo Ii,Azevedo de Minas,SE,63642712
+836,Vale Maysa Sá,21,Garças,Pereira do Campo,PI,02769998
+837,Trecho Nascimento,5486,Parque São José,Casa Grande,CE,91181-927
+838,Passarela Ana Clara Casa Grande,1873,Virgínia,Cirino Paulista,RR,96039-729
+839,Avenida Gomes,9846,Aparecida,Machado,ES,23123-246
+840,Rua Alana Leão,28,Maria Goretti,Carvalho,AM,69747469
+841,Distrito Pimenta,7126,Vila Ipiranga,Campos do Amparo,RN,52469932
+842,Residencial Cunha,8487,Universitário,Alves de Cassiano,RR,75403-681
+843,Parque Calebe Fonseca,1115,Pindura Saia,Nunes,MS,21844991
+844,Lagoa Costa,1517,São Gonçalo,Correia dos Dourados,RJ,46909-550
+845,Sítio de Lopes,1282,Mariano De Abreu,Aragão do Sul,RJ,78883-948
+846,Morro Maria Julia Santos,5057,Cidade Jardim Taquaril,Azevedo do Oeste,GO,69227-859
+847,Ladeira Alves,9406,Campo Alegre,Viana de Moreira,AC,82731-098
+848,Recanto Ferreira,4305,Vila Das Oliveiras,da Mota da Mata,RJ,76739-940
+849,Feira de Monteiro,679,Maravilha,Freitas de Borges,SE,57885290
+850,Parque de Cardoso,6976,Vila Oeste,Brito do Amparo,SC,58789563
+851,Feira Moreira,5247,Barão Homem De Melo 1ª Seção,da Cruz Verde,SC,21818-862
+852,Chácara Souza,9333,Serrano,Fogaça,PR,55598578
+853,Jardim Gael Teixeira,6082,Garças,Porto,PI,50125024
+854,Passarela Maria Luiza Pacheco,6406,Camponesa 2ª Seção,Nogueira da Prata,MG,51698-162
+855,Esplanada Enrico Nunes,5729,Coração Eucarístico,Duarte das Flores,MG,37396-420
+856,Colônia Maria Helena Costa,9376,Estrela,da Mata,AL,79937-299
+857,Viela de Ramos,246,Vila Nova Cachoeirinha 3ª Seção,Aragão,AC,64926043
+858,Lagoa Ana Fernandes,8704,Bernadete,Guerra Paulista,ES,18406-993
+859,Vale de Garcia,2748,Marçola,Teixeira dos Dourados,SC,81565735
+860,Ladeira de Vasconcelos,8063,Vila Sumaré,Vieira da Praia,SE,79147-299
+861,Campo Isaac da Paz,9661,Novo Ouro Preto,Ramos de Fogaça,RN,18287-426
+862,Lago de da Conceição,1246,Trevo,Brito,MA,57018210
+863,Campo Melina Correia,1941,Flavio Marques Lisboa,Araújo do Amparo,GO,40004071
+864,Largo de Abreu,3811,Solimoes,Teixeira Paulista,MS,39964068
+865,Vale de Rodrigues,5714,Nova Suíça,Moraes de Martins,AP,78817204
+866,Fazenda Marcos Vinicius Barros,2388,Trevo,Caldeira,PA,50207-745
+867,Aeroporto Vasconcelos,9028,Santa Inês,Vargas,PB,56320659
+868,Via de Barbosa,2201,São Jorge 1ª Seção,Cavalcanti de Montenegro,CE,51483-688
+869,Pátio de da Cruz,2508,Alta Tensão 2ª Seção,Rodrigues,MA,53968-609
+870,Vila Marques,5987,Céu Azul,Cunha de Goiás,RO,18863728
+871,Campo Câmara,6468,Horto Florestal,Ferreira do Galho,AC,42120859
+872,Esplanada de Novais,7812,Serra,Dias de Goiás,AM,71887-590
+873,Esplanada de Aragão,868,Jardim Dos Comerciarios,Lopes da Serra,RN,09440-295
+874,Praça Nunes,4838,Alto Dos Pinheiros,Sousa da Prata,BA,73047247
+875,Trevo de Cirino,6736,Vila Copacabana,da Rocha,AC,73536-008
+876,Vila da Rosa,5376,Vila Antena,Câmara,MS,42061808
+877,Fazenda Caio Farias,6285,Vila Barragem Santa Lúcia,Melo,RO,78963-208
+878,Favela de Rocha,90,Pompéia,Correia da Mata,MG,04930651
+879,Vila João Vitor Correia,871,Túnel De Ibirité,Marques,SP,56827-764
+880,Viela de Fernandes,2931,Vila São Gabriel Jacui,Araújo,CE,08321-977
+881,Morro Rocha,8826,Guaratã,da Cunha do Amparo,SP,21275017
+882,Sítio Lima,6963,Conjunto Lagoa,da Paz Verde,MG,59841-664
+883,Praça Fernandes,8920,Cidade Nova,Cavalcanti da Prata,MG,04774891
+884,Trevo de Silveira,3805,Jardim Felicidade,Garcia do Amparo,RJ,18816745
+885,Viela Manuella Mendes,2617,Vila Trinta E Um De Março,Machado,DF,06132706
+886,Vale de Carvalho,3012,Manacas,Rodrigues,RS,18409044
+887,Pátio Sampaio,2740,Vila Nova Dos Milionarios,da Rocha,PB,32298-457
+888,Residencial Agatha Pastor,8868,Nova Vista,Cardoso Grande,RJ,92008-240
+889,Quadra Carvalho,4626,Santa Rita De Cássia,Machado dos Dourados,PR,71779-751
+890,Residencial de Cassiano,5133,Santa Sofia,Brito,PR,63982837
+891,Praça Aragão,7459,Conjunto Lagoa,Farias,DF,21093055
+892,Avenida Oliver da Paz,9756,Floramar,Rodrigues do Norte,AM,49856-052
+893,Quadra de Vasconcelos,412,Vila Suzana Segunda Seção,Almeida da Praia,AM,44038-249
+894,Núcleo Silveira,6637,Vila Nova Dos Milionarios,Brito de Goiás,SC,35283181
+895,Quadra de Almeida,6418,Serra Verde,Cunha,CE,93128-632
+896,Parque de Cunha,9445,Santo André,Cavalcanti Verde,TO,96515-343
+897,Setor Larissa Pastor,832,Ipiranga,Silva do Amparo,RR,02668114
+898,Aeroporto Manuela Abreu,3993,Maravilha,da Cunha,DF,85621-058
+899,Distrito Guilherme da Costa,2552,Dom Cabral,Teixeira dos Dourados,RO,78520-538
+900,Loteamento Marques,7062,Vila Barragem Santa Lúcia,Cirino,CE,47754-411
+901,Fazenda Sousa,5006,Marieta 3ª Seção,da Costa,RN,19354-450
+902,Conjunto de Rocha,680,Vila São Gabriel Jacui,da Mota Verde,BA,30803151
+903,Vila Cirino,713,Vila Piratininga Venda Nova,Cavalcante,PA,94160804
+904,Setor de da Cruz,1506,Pindura Saia,Teixeira,MS,58109-238
+905,Feira de Azevedo,3391,Andiroba,da Paz do Galho,MT,30668-856
+906,Avenida Ana Lívia Vasconcelos,8895,Vila Novo São Lucas,Carvalho Grande,ES,15476-812
+907,Vereda Rios,8737,Conjunto Jardim Filadélfia,Câmara,AM,19427-130
+908,Parque Apollo Macedo,4111,Vista Alegre,Vargas da Praia,AM,94628124
+909,Largo de Abreu,7529,Santa Branca,Borges,RR,89621-838
+910,Área da Costa,6607,Jaraguá,da Luz,MS,19170-860
+911,Recanto Cunha,4358,Monsenhor Messias,Machado das Flores,AL,86922264
+912,Recanto Isabelly Ferreira,8052,Apolonia,Porto,MS,18736-991
+913,Rua da Cunha,9877,Graça,Barbosa da Prata,MS,39849133
+914,Trecho Olívia Cunha,1593,Palmeiras,Camargo Alegre,AM,90433806
+915,Setor de Moura,9181,Palmares,Leão do Campo,RN,80924-155
+916,Estrada de Almeida,7487,Prado,Porto do Sul,RJ,23970542
+917,Vila da Conceição,2829,Califórnia,Nascimento,PR,90091-115
+918,Trevo Ferreira,7206,Vila Madre Gertrudes 2ª Seção,Martins,SC,90646-370
+919,Aeroporto Olivia Aparecida,5928,Gutierrez,Pereira de da Cunha,PR,01916-173
+920,Feira Viana,4547,Campo Alegre,da Mata de Jesus,RR,94772893
+921,Travessa de Barros,9996,Bernadete,Cavalcanti,PA,44510-342
+922,Trecho Leão,5784,Vila Barragem Santa Lúcia,Rodrigues,AP,37438-076
+923,Trecho da Costa,1813,Santa Helena,Souza,ES,01144203
+924,Estrada Vitor da Paz,3738,Lagoinha,Dias,DF,19185303
+925,Residencial Davi Luiz Monteiro,9932,Camargos,Pires,MG,48850-577
+926,Viela da Mota,6933,Vila Madre Gertrudes 2ª Seção,Almeida dos Dourados,SE,09471-445
+927,Loteamento de Barros,8891,Santo André,Araújo da Serra,PI,12584780
+928,Ladeira de da Costa,7800,Ademar Maldonado,Fogaça,PI,99647-169
+929,Fazenda de Pacheco,5043,Cachoeirinha,Monteiro,SE,70484-850
+930,Avenida Davi Lucas Pires,6611,Vila Atila De Paiva,Vasconcelos,MA,96294582
+931,Largo de Aragão,5007,Oeste,Aragão do Campo,RN,91959402
+932,Estação Luiz Henrique Moura,9973,Indaiá,Nascimento da Praia,PR,16650-410
+933,Condomínio de Cirino,3080,Morro Dos Macacos,Martins de da Conceição,RO,96389-553
+934,Rodovia Raquel Fernandes,1009,Bela Vitoria,Vargas da Praia,RS,44385-588
+935,Trevo Isabelly Fogaça,6343,Vila Suzana Primeira Seção,Cunha,AL,86875-906
+936,Travessa de Rodrigues,4222,Nossa Senhora Da Aparecida,Rocha,MT,93791-753
+937,Lago de Araújo,7336,Baleia,Porto Alegre,RN,84226-872
+938,Viela de Ramos,8468,Vila Nova Gameleira 1ª Seção,Câmara Verde,BA,39587319
+939,Morro de Aparecida,1104,Cenaculo,Aragão do Galho,MS,53831-618
+940,Quadra de Farias,5682,Universo,Fonseca do Amparo,PE,95283-045
+941,Conjunto de Marques,7260,Santa Sofia,Dias da Serra,BA,23000346
+942,Praça Ana Lívia Duarte,1420,Vila Do Pombal,da Luz de Vasconcelos,SE,32443123
+943,Favela Ferreira,6079,Vila Jardim Montanhes,Cassiano,RO,46932985
+944,Travessa Maria Luísa Lima,3824,Santo Antônio,Oliveira,CE,84993-803
+945,Distrito Hadassa Mendonça,1855,Renascença,Peixoto,AL,25348-417
+946,Distrito de Sampaio,9680,Cidade Nova,Rios da Praia,SE,56960441
+947,Largo de Brito,1722,Independência,Casa Grande,AC,95721-538
+948,Pátio de Macedo,6165,Nossa Senhora Aparecida,Ferreira,RR,43156791
+949,Recanto de Rios,3467,Teixeira Dias,Peixoto,SE,63974-262
+950,Trecho Stephany Silva,5548,Glória,Viana Paulista,BA,15114-611
+951,Trevo de Viana,26,Vila Satélite,Sales de das Neves,AM,35878-666
+952,Parque Vargas,6307,Jardim Alvorada,da Mota,MS,36068-677
+953,Lago Cauê Vasconcelos,323,Vila Cloris,da Rocha,RO,90603842
+954,Parque Anna Liz Barros,1080,Garças,Brito,MT,22870-075
+955,Via de Sousa,6552,Lajedo,Siqueira de Carvalho,PA,23294-376
+956,Largo de Albuquerque,5121,Mariquinhas,Fernandes do Campo,SP,60884832
+957,Trevo de Castro,5912,São Cristóvão,Nogueira,RS,65058808
+958,Esplanada Melina Martins,1989,Cachoeirinha,da Cunha,RS,66872-348
+959,Conjunto Luiz Gustavo Câmara,7118,Conjunto Serra Verde,Pacheco,SP,82660466
+960,Jardim de Nascimento,8810,Saudade,Ramos,AC,52394853
+961,Via Clara Cirino,9424,Jonas Veiga,Novaes do Oeste,RN,78174-732
+962,Via Antonella Gonçalves,8602,Luxemburgo,Vargas,TO,48456-309
+963,Feira Mateus Cassiano,7326,Cidade Jardim Taquaril,da Rocha da Mata,SP,31395385
+964,Jardim Nogueira,5622,Dom Silverio,Correia,PB,53990-789
+965,Distrito Dom da Luz,9440,Conjunto Floramar,Barros do Amparo,PA,10207-273
+966,Vereda de Dias,5207,Nossa Senhora Aparecida,Azevedo,RO,75825-613
+967,Recanto Valentina Fonseca,4633,São Marcos,Siqueira de Porto,ES,98398-507
+968,Chácara João Gabriel Costela,6748,Vila Real 2ª Seção,Fogaça das Pedras,SC,00098680
+969,Avenida Leandro da Rosa,1708,Camargos,Machado da Prata,SE,05435208
+970,Conjunto Mariane Azevedo,776,Prado,Pacheco,SP,55155001
+971,Aeroporto de Sales,1516,Bonsucesso,Rezende Paulista,MS,53553-072
+972,Travessa Lavínia Ribeiro,904,Vila Esplanada,Peixoto Paulista,AP,87103808
+973,Ladeira Zoe da Cruz,3298,Carlos Prates,Melo do Amparo,PB,63380-528
+974,Rua Leão,3349,Granja Werneck,Fernandes da Mata,RR,85715931
+975,Distrito Maria Fernanda da Cruz,6693,Santa Lúcia,Peixoto de Goiás,SE,37402003
+976,Distrito Freitas,4006,Marieta 2ª Seção,Castro,SP,18384343
+977,Setor Aragão,6308,Santa Inês,Pinto das Pedras,AM,76628-577
+978,Alameda de Nunes,8018,Santa Efigênia,da Luz,BA,08162812
+979,Rua de Gomes,8534,Parque São José,Oliveira,RJ,31923365
+980,Parque de Monteiro,6998,Esperança,da Rosa da Mata,RJ,74823-002
+981,Jardim Leandro Duarte,6489,Penha,Cavalcanti de Aragão,PB,19417-121
+982,Condomínio de Cavalcante,8676,São Benedito,Vieira de da Rocha,GO,63834188
+983,Praça de Melo,3837,Virgínia,Rios,MT,93503988
+984,Ladeira de Sales,1764,Vila Petropolis,Borges,BA,41477-912
+985,Residencial Maria Fernanda Lopes,720,Europa,Borges das Flores,CE,70061805
+986,Aeroporto Campos,8839,Candelaria,Lopes,AP,96311396
+987,Setor de Barros,5851,São João,Castro,RR,19377-685
+988,Parque Daniela Borges,7447,Grota,Jesus,RS,42717355
+989,Quadra Cassiano,7764,Santa Tereza,Albuquerque do Norte,AC,25723-201
+990,Área de Pastor,3338,Braúnas,Rezende,PB,23512-045
+991,Lagoa Davi Luiz da Costa,829,Mirante,Gonçalves de Vieira,PE,56834-749
+992,Alameda de Porto,1912,São Tomaz,Camargo,RJ,96573-164
+993,Passarela Novaes,8176,São Pedro,Souza,PI,65554698
+994,Colônia Correia,3232,Funcionários,Peixoto,SP,46028-261
+995,Trevo de Silveira,8125,Ribeiro De Abreu,Leão de Moreira,PR,79549-855
+996,Vila Melo,480,Vila São Geraldo,Moura do Oeste,RR,01200458
+997,Estação Agatha Ribeiro,7315,Olhos D'água,Albuquerque,MT,13765832
+998,Núcleo Esther Guerra,7880,Conjunto Jatoba,Vieira da Prata,SE,20051-977
+999,Lago de Fonseca,1324,Esperança,Sales de Cirino,PI,66895250
+1000,Área Lucca Moura,2306,Europa,Vasconcelos do Oeste,ES,45978684
