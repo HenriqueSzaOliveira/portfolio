@@ -35,6 +35,8 @@ pip install -r infra/requirements.txt
 ```
 
 ### Executando
+Lembre-se de estar na pasta cd portfolio/APIRestSelectPoolsInstances/
+
 ```bash
 uvicorn src.api:app --reload --port 5050
 ```
@@ -67,6 +69,8 @@ http://localhost:5050/get-pool?instance_type=r6.xlarge&az=us-east-1c
     docker --version
     ```
 
+OBS: instale WSL via powershell (wsl --install)
+
 ### Linux (Ubuntu/Debian)
 ```bash
 sudo apt update
@@ -87,6 +91,8 @@ docker --version
 
 ## Executando API
 
+Lembre-se de estar na pasta cd portfolio/APIRestSelectPoolsInstances/
+
 1. Build da imagem
 ```bash
 docker build -t api-pools -f infra/Dockerfile .
@@ -98,9 +104,14 @@ docker run -p 5050:5050 api-pools
 ```
 
 3. Testando
-Mesmos endpoints:
-- http://localhost:5050/get-pool
-- http://localhost:5050/get-pool?instance_type=r6.xlarge&az=us-east-1c
+    **Sem filtros:**
+    ```Code
+    http://localhost:5050/get-pool
+    ```
+    **Com filtros:**
+    ```Code
+    http://localhost:5050/get-pool?instance_type=r6.xlarge&az=us-east-1c
+    ```
 
 ---
 
