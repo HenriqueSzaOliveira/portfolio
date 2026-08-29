@@ -160,3 +160,11 @@ APIRestSelectPoolsInstances/
 │       └── pool_selector.py
 └── tests/               # Testes unitários
 ```
+
+---
+# Testes e CI/CD
+
+Veja o readme das correspondentes pastas
+
+**CI/CD**:  .github/workflows/README.md
+**Testes**: tests/README.md
