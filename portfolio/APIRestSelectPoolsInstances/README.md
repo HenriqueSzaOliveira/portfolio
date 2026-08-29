@@ -115,6 +115,29 @@ docker run -p 5050:5050 api-pools
 
 ---
 
+## 📚 Documentação da API
+
+A API expõe automaticamente documentação interativa via **Swagger UI** e **ReDoc**.
+
+### 🔎 Como acessar durante execução
+
+- **Swagger UI (HTML dinâmico interativo)**  
+
+```bash
+http://localhost:5050/docs
+```
+
+### 📂 Exportando para arquivo
+
+Você pode salvar a especificação para uso em Postman, Insomnia ou CI/CD:
+
+```bash
+# JSON
+curl http://localhost:5050/openapi.json -o openapi.json
+```
+
+---
+
 ## 📚 Estrutura do Projeto
 ```Code
 APIRestSelectPoolsInstances/
