@@ -54,6 +54,11 @@ http://localhost:5050/get-pool
 http://localhost:5050/get-pool?instance_type=r6.xlarge&az=us-east-1c
 ```
 
+### executando em uma linha
+```bash
+pip install -r infra/requirements.txt & uvicorn src.api:app --reload --port 5050
+```
+
 ---
 
 # 🐳 Rodando com Docker
@@ -111,6 +116,10 @@ docker run -p 5050:5050 api-pools
     **Com filtros:**
     ```Code
     http://localhost:5050/get-pool?instance_type=r6.xlarge&az=us-east-1c
+    ```
+4. Em um comando
+    ```bash
+    docker build -t api-pools -f infra/Dockerfile . & docker run -p 5050:5050 api-pools
     ```
 
 ---
