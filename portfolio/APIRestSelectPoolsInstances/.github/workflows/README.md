@@ -1,50 +1,53 @@
-# GitHub Actions - CI do projeto API Pools
+# Workflows do repositório
 
-Este diretório contém o workflow de integração contínua para a API de seleção de pools.
+Este diretório guarda os workflows do GitHub Actions.
 
-Mova a pasta .github para a raiz do repositório para funcionar o actions
+**Mova a pasta .github para a raiz do repositório para funcionar o actions**
 
-## O que o workflow faz
+## CI
 
-O arquivo principal do workflow é `ci.yml` e ele executa as seguintes validações:
+O workflow de CI está em `ci.yml` e valida:
 
-- dispara em push em branches diferentes de `main`
-- dispara em pull requests para `main`
-- também pode ser executado manualmente via `workflow_dispatch`
-- entra na pasta do projeto [portfolio/APIRestSelectPoolsInstances](../../portfolio/APIRestSelectPoolsInstances)
-- instala as dependências do projeto e dos testes
-- roda a suíte de testes com `pytest`
-- exige cobertura mínima de `95%`
-- falha automaticamente se algum teste quebrar ou se a cobertura cair abaixo do limite
-- tenta criar um PR para `main` quando a branch de origem passar no CI
+- instalação das dependências
+- execução da suíte de testes
+- cobertura mínima de 95%
+- falha se algum teste quebrar
 
-## Caminho do projeto usado pela pipeline
+## CD
 
-O workflow foi configurado para considerar a pasta abaixo como raiz de execução:
+O workflow de CD está em `cd.yml` e, após a validação na branch `main`, faz:
 
-- [portfolio/APIRestSelectPoolsInstances](../../portfolio/APIRestSelectPoolsInstances)
+- testes novamente
+- build da imagem Docker
+- login no Docker Hub
+- publicação da imagem com as tags `latest` e `sha`
 
-Isso significa que, embora o workflow esteja em `.github/workflows`, a lógica de execução do projeto acontece dentro dessa pasta.
+## Secrets obrigatórios no GitHub
 
-## Importante
+Para o deploy no Docker Hub, configure estes secrets no repositório:
 
-O arquivo do workflow precisa ficar na raiz do repositório em:
+- `DOCKERHUB_USERNAME`
+- `DOCKERHUB_TOKEN`
 
-- `.github/workflows/ci.yml`
+### Como criar as secrets
 
-Se ele for movido para dentro da pasta do projeto, o GitHub Actions não o reconhece automaticamente.
+1. Acesse o repositório no GitHub.
+2. Vá em `Settings` → `Secrets and variables` → `Actions`.
+3. Clique em `New repository secret`.
+4. Crie a secret `DOCKERHUB_USERNAME` com o seu nome de usuário do Docker Hub.
+5. Crie a secret `DOCKERHUB_TOKEN` com o token gerado no Docker Hub.
 
-## Comandos executados pela pipeline
+### Como gerar o token no Docker Hub
 
-O workflow roda algo equivalente a:
+1. Acesse https://hub.docker.com
+2. Faça login.
+3. Vá em `Account Settings` → `Security`.
+4. Clique em `New Access Token`.
+5. Copie o valor gerado.
+6. Cole esse valor na secret `DOCKERHUB_TOKEN`.
 
-```bash
-cd portfolio/APIRestSelectPoolsInstances
-python -m pip install -r infra/requirements.txt
-python -m pip install -r tests/requirements.txt
-python -m pytest tests --cov=portfolio.APIRestSelectPoolsInstances.src --cov-fail-under=95 --cov-report=term-missing
-```
+> Os nomes das secrets precisam ser exatamente `DOCKERHUB_USERNAME` e `DOCKERHUB_TOKEN` para que o workflow funcione.
 
-## Observação
+## Observação importante
 
-Esse workflow é leve e compatível com o uso gratuito do GitHub Actions em projetos pequenos. A etapa de criação de PR depende das permissões do token e da configuração do repositório.
+O GitHub Actions reconhece workflows somente em `.github/workflows` na raiz do repositório. A lógica da aplicação pode rodar dentro da pasta do projeto, mas o arquivo do workflow precisa ficar na raiz do repositório para funcionar.
