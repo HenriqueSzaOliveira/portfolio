@@ -1,6 +1,7 @@
 # Testes e Cobertura
 
 Este diretório reúne os testes automatizados da API de seleção de pools.
+Cobertura aceitável >95%
 
 ## 1) Pré-requisitos
 
