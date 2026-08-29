@@ -1,0 +1,62 @@
+name: API Pools CD
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'portfolio/APIRestSelectPoolsInstances/**'
+      - '.github/workflows/cd.yml'
+  workflow_dispatch:
+
+jobs:
+  test-build-and-publish:
+    name: Testar, buildar e publicar imagem Docker
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        shell: bash
+        working-directory: ./portfolio/APIRestSelectPoolsInstances
+
+    env:
+      PYTHONPATH: ${{ github.workspace }}
+      IMAGE_NAME: ${{ secrets.DOCKERHUB_USERNAME }}/api-pools
+
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Instalar dependências
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r infra/requirements.txt
+          python -m pip install -r tests/requirements.txt
+
+      - name: Rodar testes com cobertura mínima
+        run: |
+          python -m pytest tests \
+            --cov=portfolio.APIRestSelectPoolsInstances.src \
+            --cov-fail-under=95 \
+            --cov-report=term-missing
+
+      - name: Login no Docker Hub
+        uses: docker/login-action@v3
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
+
+      - name: Build e push da imagem Docker
+        uses: docker/build-push-action@v6
+        with:
+          context: ./portfolio/APIRestSelectPoolsInstances
+          file: ./portfolio/APIRestSelectPoolsInstances/infra/Dockerfile
+          push: true
+          tags: |
+            ${{ env.IMAGE_NAME }}:latest
+            ${{ env.IMAGE_NAME }}:${{ github.sha }}
