@@ -2,7 +2,6 @@ import pandas as pd
 
 from portfolio.APIRestSelectPoolsInstances.src import api
 
-
 def test_get_pool_returns_best_pool_with_filters(monkeypatch):
     data = pd.DataFrame(
         [
