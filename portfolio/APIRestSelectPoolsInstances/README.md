@@ -54,6 +54,11 @@ http://localhost:5050/get-pool
 http://localhost:5050/get-pool?instance_type=r6.xlarge&az=us-east-1c
 ```
 
+### executando em uma linha
+```bash
+pip install -r infra/requirements.txt & uvicorn src.api:app --reload --port 5050
+```
+
 ---
 
 # 🐳 Rodando com Docker
@@ -112,6 +117,33 @@ docker run -p 5050:5050 api-pools
     ```Code
     http://localhost:5050/get-pool?instance_type=r6.xlarge&az=us-east-1c
     ```
+4. Em um comando
+    ```bash
+    docker build -t api-pools -f infra/Dockerfile . & docker run -p 5050:5050 api-pools
+    ```
+
+---
+
+## 📚 Documentação da API
+
+A API expõe automaticamente documentação interativa via **Swagger UI** e **ReDoc**.
+
+### 🔎 Como acessar durante execução
+
+- **Swagger UI (HTML dinâmico interativo)**  
+
+```bash
+http://localhost:5050/docs
+```
+
+### 📂 Exportando para arquivo
+
+Você pode salvar a especificação para uso em Postman, Insomnia ou CI/CD:
+
+```bash
+# JSON
+curl http://localhost:5050/openapi.json -o openapi.json
+```
 
 ---
 
