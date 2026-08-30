@@ -65,6 +65,10 @@ A API também expõe documentação interativa via Swagger (`/docs`).
 
 **Origem dos dados:** arquivos JSON em um bucket de logs, simulando eventos de execução de Spark jobs.
 
+**Justificativa para não usar banco de dados:**
+Neste cenário, os dados são consumidos em formato de log de eventos fixo que nao muda a estrutura. A API não precisa fazer inserções, mas sim responder rapidamente a consultas sobre o histórico recente paseado em logs. Em vez de persistir tudo em um banco relacional ou NoSQL, a solução foi pensada para ler os arquivos em lote do bucket, transformar em DataFrame e aplicar a lógica de decisão em memória. Isso reduz custo operacional, evita sobrecarga de infraestrutura e mantém a implementação mais simples e previsível.
+
+Além disso, para um volume de milhares de requisições por minuto, uma abordagem com banco de dados exigiria esquema, índices, manutenção de consistência, limites de escrita/consulta e maior custo de operação. Como a decisão do melhor pool depende de agregações por `pool_id` sobre um conjunto de eventos, a leitura em lote combinada com cache em memória é suficiente para atender a demanda com baixa latência e alta simplicidade. Mas pode evoluir para um armazenamento mais estruturado apenas se houver necessidade real de consulta histórica em escala muito maior ou de latência de leitura crítica.
 
 **Estrutura de cada evento:**
   - `finished_at`: timestamp UTC
@@ -110,6 +114,8 @@ A automação foi organizada em dois workflows no GitHub Actions:
 - publica a imagem com tags `latest` e `sha`
 
 Isso garante um pipeline mais seguro e reprodutível para entrega da solução.
+
+**Sobre Escalonamento** a imagem publicada no Docker Hub pode servir como base para deploy em um ambiente orquestrado, como Kubernetes, ECS, EC2 ou uma infraestrutura com balanceamento de carga. A ideia seria manter a API stateless, rodando múltiplas réplicas da mesma imagem atrás de um load balancer, permitindo aumentar o número de instâncias conforme o volume de requisições crescer. Com o cache em memória e o processamento em lote de eventos, esse modelo é simples, barato e escala bem até uma certa capacidade. Se a demanda aumentar de forma consistente, as próximas etapas seriam otimizar a leitura dos logs, adicionar cache distribuído em redis por exemplo e eventualmente migrar parte do histórico para um armazenamento caso a leitura de arquivos se torne um problema.
 
 ---
 
