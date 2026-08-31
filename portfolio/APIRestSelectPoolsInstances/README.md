@@ -179,3 +179,9 @@ Veja o readme das correspondentes pastas
 **CI/CD**:  [.github/workflows/README.md](https://github.com/HenriqueSzaOliveira/portfolio/blob/main/portfolio/APIRestSelectPoolsInstances/tests/README.md)
 
 **Testes**: [tests/README.md](https://github.com/HenriqueSzaOliveira/portfolio/blob/main/portfolio/APIRestSelectPoolsInstances/.github/workflows/README.md)
+
+---
+
+# Links minhas redes
+- https://medium.com/@henrique.sza.oliveira
+- https://www.linkedin.com/in/henriquecomputerscience/
