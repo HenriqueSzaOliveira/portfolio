@@ -46,3 +46,15 @@ def test_get_pool_refreshes_expired_cache(monkeypatch):
     monkeypatch.setattr(api.time, "time", lambda: 10)
 
     assert api.get_pool(None, None) == {"best_pool": "pool-refreshed"}
+
+
+def test_get_pool_returns_error_when_no_pool_matches_filters(monkeypatch):
+    data = pd.DataFrame(
+        [{"pool_id": "pool-r6.xlarge-us-east-1c", "status": "SUCCESS"}]
+    )
+    api.cache.clear()
+    monkeypatch.setattr(api, "load_data", lambda _: data)
+
+    result = api.get_pool(instance_type="c6.xlarge", az="us-east-1a")
+
+    assert result == {"error": "Não temos estatisticas suficientes para os filtros informados"}
