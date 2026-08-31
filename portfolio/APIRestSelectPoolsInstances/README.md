@@ -21,6 +21,8 @@ formato ISO)
 - **status** : estado final do job, se finalizou com sucesso ou falha (string)
 - **reason** : motivo da falha, que pode ser SPOT_INSTANCE_TERMINATION , TIMED_OUT ou SPARK_EXECUTION_ERROR (string)
 
+**OBs:** As decisões pra tudo que foi feito estão nos [Logs de Decisões](https://github.com/HenriqueSzaOliveira/portfolio/blob/main/portfolio/APIRestSelectPoolsInstances/decisionLogs/decisionsLogs.md).
+
 ---
 
 # 🚀 Rodando sem Docker
@@ -166,6 +168,6 @@ APIRestSelectPoolsInstances/
 
 Veja o readme das correspondentes pastas
 
-**CI/CD**:  .github/workflows/README.md
+**CI/CD**:  [.github/workflows/README.md](https://github.com/HenriqueSzaOliveira/portfolio/blob/main/portfolio/APIRestSelectPoolsInstances/tests/README.md)
 
-**Testes**: tests/README.md
+**Testes**: [tests/README.md](https://github.com/HenriqueSzaOliveira/portfolio/blob/main/portfolio/APIRestSelectPoolsInstances/.github/workflows/README.md)
