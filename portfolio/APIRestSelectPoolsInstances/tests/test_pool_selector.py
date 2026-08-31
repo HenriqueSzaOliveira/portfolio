@@ -29,6 +29,20 @@ def test_calc_best_pool_applies_instance_type_and_az_filters():
     assert calc_best_pool(data, "r6.xlarge", "us-east-1c") == "pool-r6.xlarge-us-east-1c"
 
 
+def test_calc_best_pool_handles_failed_spot_termination_reasons():
+    data = pd.DataFrame(
+        [
+            {"pool_id": "pool-a", "status": "SUCCESS", "reason": ""},
+            {"pool_id": "pool-a", "status": "FAILED", "reason": "SPOT_INSTANCE_TERMINATION"},
+            {"pool_id": "pool-b", "status": "SUCCESS", "reason": ""},
+            {"pool_id": "pool-b", "status": "SUCCESS", "reason": ""},
+            {"pool_id": "pool-b", "status": "FAILED", "reason": "TIMED_OUT"},
+        ]
+    )
+
+    assert calc_best_pool(data) == "pool-b"
+
+
 def test_calc_best_pool_prefers_better_success_ratio_over_total_successes():
     data = pd.DataFrame(
         [
