@@ -2,6 +2,10 @@
 
 Repositório com projetos práticos de engenharia de dados e desenvolvimento de APIs em Python.
 
+## Links minhas redes
+- https://medium.com/@henrique.sza.oliveira
+- https://www.linkedin.com/in/henriquecomputerscience/
+
 ## Projetos
 
 ### API REST: seleção de pools de instâncias
